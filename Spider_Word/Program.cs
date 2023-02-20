@@ -40,8 +40,7 @@ namespace Spider_Word
             IConfigurationBuilder cfgBuilder = new ConfigurationBuilder()
                 .SetBasePath(Directory.GetCurrentDirectory())
                 .AddJsonFile("appsettings.json")
-                .AddJsonFile($"appsettings.{Environment.GetEnvironmentVariable("DOTNET_ENVIRONMENT")}.json", optional: true, reloadOnChange: false)
-                ;
+                .AddJsonFile($"appsettings.{Environment.GetEnvironmentVariable("DOTNET_ENVIRONMENT")}.json", optional: true, reloadOnChange: false);
             IConfiguration configuration = cfgBuilder.Build();
             services.AddSingleton<IConfiguration>(configuration);
         }

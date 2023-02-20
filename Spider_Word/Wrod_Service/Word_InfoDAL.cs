@@ -80,12 +80,9 @@ namespace Spider_Word.Wrod_Service
                     {
                         //填充词性
                         string indextext = nodehead.FirstOrDefault((t) => true)?.InnerText;
-                        //var pos = indextext.IndexOf("词");
+
                         Regex rx = new Regex("[\u4e00-\u9fa5]+");
                         var ansstr =  rx.Match(indextext).Value;
-
-
-                       // string ansstr = indextext.Substring(indextext.IndexOf("词") - 2, pos);               
                         list.Add(new Word_InfoModel
                         {
                             Status = "0",
