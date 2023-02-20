@@ -61,7 +61,7 @@ public class ActionExecutor
             }
             catch (Exception)
             {
-                Console.WriteLine("这孙子错了,把他给我删了");
+                Console.WriteLine("出异常了,把它我删了");
                 action.IsEnabled = (++action.ErrorCount > 3);
             }
         });
