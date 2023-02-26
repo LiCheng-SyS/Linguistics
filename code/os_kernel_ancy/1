@@ -1,0 +1,33 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<unistd.h>
+#include<fcntl.h>
+#include<string.h>
+#include<pthread.h>
+
+
+int main(){
+
+    //得到非leadr的进程 
+    
+    pid_t pid=  fork();
+    if(!~pid){
+        perror("fork fail");
+        exit(1);
+    }
+
+    if(pid){
+        exit(0);
+    }
+
+    //脱离会话
+    pid_t  s_tid=setsid();
+    printf(" new sessiobn id is %d\n",s_tid);
+    if(chdir("/")<0){
+        perror("chdir");
+        exit(1);
+    }
+    close(0);
+    open("/dev/null");
+    return 0;
+}
