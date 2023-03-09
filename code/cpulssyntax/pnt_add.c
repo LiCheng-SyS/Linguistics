@@ -14,10 +14,10 @@ int main(void){
     double  bills[SIZE];
     double *prf;
 
-
     pri = dates ; 
     prf = bills ;
 
+    printf("prf,%d\n",pri+2-1);
     printf("%23s %12s\n","int","double"); 
   
     for(int i=0 ; i < SIZE; i++){
