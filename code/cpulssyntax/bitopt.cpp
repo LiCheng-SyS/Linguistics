@@ -6,19 +6,13 @@
 #include<map>
 #include<stack>
 #include<algorithm>
+  
+  
+using namespace std;
 
-namespace   test {
-    int i , j =0;
-}  
-
-namespace test{
-    int a , b = 1;
-}
-
-using namespace test ;
 int main(){
-    a = b =1;
-    
-    std::cout <<  i  << b <<std::endl;
+    int  i = 9 ,j = 6 ,k = 11 , x =12;
+    cout  <<" <<  " <<  (i << 1 | 1) << endl; 
+    cout  <<" >>  " << (j >> 1  | 1) << endl;
     return   0;
 }
