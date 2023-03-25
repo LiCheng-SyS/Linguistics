@@ -173,6 +173,7 @@ int main(){
     // c 语言这类函数指针表现形式为 传入两个int,类型是一定的，所以外在表现重要
     // //函数指针的本质就是在描述一个外在的表现，先声明后定义
     int (*p)(int , int)= func1;
+    
     cout  << " p  pointer "  << p(3, 4) << endl;
     //Function *q =&func;
     //这没意义 并不是要吧类型bind 过来
@@ -188,7 +189,7 @@ int main(){
     //2 : 把函数对象 bind 过来
     q = func;
     cout << " q obj pointer" << q(1 , 2) << endl;
-    
+
     cout << greater<int>()(3, 4) << endl;
     return 0;
 }
@@ -240,6 +241,7 @@ int main(){
     cout <<(p + 1) << endl; 
     cout <<(p - 1 ) << endl;
     cout <<(p - q) << endl;
+
     return 0;
 }
 ENDS(pointer_obj)

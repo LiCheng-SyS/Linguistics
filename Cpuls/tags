@@ -1,0 +1,51 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+A	12_operater.cpp	/^struct A{$/;"	s	file:
+BEGINS	12_operater.cpp	12;"	d	file:
+ENDS	12_operater.cpp	13;"	d	file:
+Function	12_operater.cpp	/^ class Function{$/;"	c	file:
+Point	12_operater.cpp	/^    Point(int x , int y):x(x),y(y){}$/;"	f	class:Point
+Point	12_operater.cpp	/^class Point{$/;"	c	file:
+Pointer	12_operater.cpp	/^     Pointer(A *p = nullptr):p(p){}$/;"	f	class:Pointer
+Pointer	12_operater.cpp	/^class Pointer{$/;"	c	file:
+arrary	12_operater.cpp	/^                arrary(int n = 100):n(n) ,data(new int[n]){}$/;"	f	class:arrary
+arrary	12_operater.cpp	/^    class arrary{$/;"	c	file:
+data	12_operater.cpp	/^                int *data;$/;"	m	class:arrary	file:
+func1	12_operater.cpp	/^int func1(int a, int b){$/;"	f
+main	12_operater.cpp	/^ int main(){$/;"	f
+main	12_operater.cpp	/^int main(){$/;"	f
+n	12_operater.cpp	/^                int n ;$/;"	m	class:arrary	file:
+operator ()	12_operater.cpp	/^      int operator()(const int& a , const int& b)const {$/;"	f	class:Function
+operator *	12_operater.cpp	/^     A &operator*()const  { return *p;}$/;"	f	class:Pointer
+operator *	12_operater.cpp	/^     A &operator*(){ return *p;}$/;"	f	class:Pointer
+operator +	12_operater.cpp	/^     A *operator+(int n )const{return p + n;}$/;"	f	class:Pointer
+operator +	12_operater.cpp	/^     A *operator+(int n ){return p + n;}$/;"	f	class:Pointer
+operator +	12_operater.cpp	/^    Point  operator+(int x )const { $/;"	f	class:Point
+operator +	12_operater.cpp	/^Point operator+(const Point &a ,const  Point &b){$/;"	f
+operator ++	12_operater.cpp	/^    Point   operator++(int){$/;"	f	class:Point
+operator ++	12_operater.cpp	/^    Point  &operator++(){$/;"	f	class:Point
+operator +=	12_operater.cpp	/^    Point &operator+=(int x){ $/;"	f	class:Point
+operator -	12_operater.cpp	/^     A *operator-(int n )const{return p - n;}$/;"	f	class:Pointer
+operator -	12_operater.cpp	/^     A *operator-(int n ){return p - n;}$/;"	f	class:Pointer
+operator -	12_operater.cpp	/^     long  operator-(const Pointer &a){$/;"	f	class:Pointer
+operator ->	12_operater.cpp	/^     A *operator->()const{return p;}$/;"	f	class:Pointer
+operator ->	12_operater.cpp	/^     A *operator->(){return p;}$/;"	f	class:Pointer
+operator <<	12_operater.cpp	/^ostream &operator<<(ostream &out , const A &a){$/;"	f
+operator <<	12_operater.cpp	/^ostream &operator<<(ostream &out ,Pointer  &a){$/;"	f
+operator <<	12_operater.cpp	/^ostream &operator<<(ostream &out,const Point  &p){$/;"	f
+operator []	12_operater.cpp	/^                const  int &operator[](int ind) const{$/;"	f	class:arrary
+operator []	12_operater.cpp	/^                int &operator[](int ind){$/;"	f	class:arrary
+operator []	12_operater.cpp	/^     A &operator[](int index )const {return *(p + index);} $/;"	f	class:Pointer
+operator []	12_operater.cpp	/^     A &operator[](int index ){return *(p + index);} $/;"	f	class:Pointer
+output	12_operater.cpp	/^    void output(){$/;"	f	class:Point
+output	12_operater.cpp	/^void output(Point &a){$/;"	f
+p	12_operater.cpp	/^     A *p;$/;"	m	class:Pointer	file:
+test	12_operater.cpp	/^ENDS(test);$/;"	v
+x	12_operater.cpp	/^     int x , y ;$/;"	m	struct:A	file:
+x	12_operater.cpp	/^    int x, y;$/;"	m	class:Point	file:
+y	12_operater.cpp	/^     int x , y ;$/;"	m	struct:A	file:
+y	12_operater.cpp	/^    int x, y;$/;"	m	class:Point	file:
