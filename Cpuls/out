@@ -1,0 +1,9648 @@
+    1  strings zsh_history .zsh_history
+    2  ls
+    3  cd .ssh
+    4  ls
+    5  .//
+    6  ../
+    7  ssh-keygen -t rsa
+    8  clear
+    9  ls
+   10  cd .shh
+   11  cd .ssh
+   12  ls
+   13  mv id_rsa.pub authorized_keys
+   14  chmod 600 authorized_keys
+   15  ls
+   16  cd
+   17  chmod 700 .ssh
+   18  \n
+   19  ls
+   20  $ ssh-copy-id -i ~/.ssh/id_rsa.pub root@121.196.102.148 \n
+   21  ssh-copy-id -i ~/.ssh/id_rsa.pub root@121.196.102.148ssh-copy-id -i ~/.ssh/id_rsa.pub root@121.196.102.148~~
+   22  ~
+   23  ls
+   24  cd .ssh
+   25  ls
+   26  lll
+   27  ll
+   28  ls -m
+   29  ls
+   30  ls -l
+   31  ls
+   32  vim .vimrc
+   33  vim 1.c
+   34  ls
+   35  rm 1.c
+   36  ls
+   37  clear
+   38  ls
+   39  clear
+   40  ls
+   41  man FOPEN
+   42  man fopen
+   43  sudo man fopen
+   44  sudo apt-get install manpages-dev manpages-posix-dev
+   45  sudo yum install manpages-dev manpages-posix-dev
+   46  yum -y install man
+   47  man fcntl
+   48  man fopen
+   49  yum install man-pages
+   50  man fopen
+   51  man 2 fopen
+   52  man 2 open
+   53  man fgetxc
+   54  man fgetc
+   55  man puts
+   56  man fgetc
+   57  man fpetc
+   58  man fputc
+   59  man 2 write
+   60  ls
+   61  code
+   62  ls
+   63  mkdir  oskernelancy
+   64  mkdir  os_kernel_ancy
+   65  rm oskernelancy
+   66  lsa
+   67  Ls
+   68  ls
+   69  os_kernel_ancy
+   70  ls
+   71  mikdir fileio
+   72  mkdir fileio
+   73  ls
+   74  fileio
+   75  ls
+   76  clear
+   77  vim ancyFile.c
+   78  man stdout
+   79  vim ancyFile.c
+   80  ls
+   81  g++ 
+   82  g++
+   83  g+++ ancyFile.c
+   84  g++ ancyFile.c
+   85  vim ancyFile.c
+   86  man stdout
+   87  vim ancyFile.c
+   88  g++  ancyFile.c
+   89  ./a.out
+   90  vim ancyFile.c
+   91  g
+   92  clear
+   93  g++    fputc('A',stderr); //标准输出为行缓冲
+   94  ls
+   95  vim ancyFile.c
+   96  g++ ancyFile.c
+   97  ./a.out
+   98  vim ancyFile.c
+   99  g
+  100  ++
+  101  clear
+  102  ls
+  103  g++ 发生错误后第一时间通知
+  104  ./a.out
+  105  vim ancyFile.c
+  106  g++ ancyFile.c
+  107  ./a.out
+  108  g++ ancyFile.c
+  109  vim ancyFile.c
+  110  g++ ancyFile.c
+  111  ./a.out
+  112  ls
+  113  code 
+  114  ]
+  115  cleart
+  116  clear
+  117  ls
+  118  os_kernel_ancy
+  119  ls
+  120  fileio
+  121  ls
+  122  vim ancyFile.c
+  123  man man
+  124  vim file_desc.c
+  125  g++ file_desc.c
+  126  ./a.out
+  127  vim file_desc.c
+  128  g++ file_desc.c
+  129  ./a.out
+  130  vim file_desc.c
+  131  cat /usr/lib
+  132  vim /usr/lib/
+  133  clear
+  134  ls
+  135  gcc file_desc.c -E -o file_desc.i
+  136  ;s
+  137  ls
+  138  vim file_desc.i
+  139  vim /usr/include/unistd.h
+  140  vim file_desc.c
+  141  man man
+  142  ls
+  143  man man
+  144  yum install tldr
+  145  tldr ls
+  146  cd code
+  147  ls
+  148  os_kernel_ancy
+  149  ls
+  150  fileio
+  151  ls
+  152  vim ancyFile.c
+  153  vim anchopen.c
+  154  man open
+  155  man 2 open
+  156  man fopen
+  157  man 2 open
+  158  ls
+  159  vim anchopen.c
+  160  mm
+  161  vim anchopen.c
+  162  ls
+  163  mkdir 1.txt
+  164  ls
+  165  vim 1.txt
+  166  ls
+  167  vim anchopen.c
+  168  g++ anchopen
+  169  g++ anchopen.c
+  170  ./a.out
+  171  ./a.out text.txt
+  172  ls
+  173  ll
+  174  vim anchopen.c
+  175  g++ 
+  176  g++ anchopen.c
+  177  ./a.out
+  178  ./a.out test.txt
+  179  ll
+  180  vim anchopen.c
+  181  g++ anchopen.c
+  182  ./a.out text.txt
+  183  vim anchopen.c
+  184  g++ anchopen.c
+  185  ./a.out
+  186  ./a.out text.txt
+  187  vim anchopen.c
+  188  g++ anchopen.c
+  189  ./a.out text.txt
+  190  vim anchopen.c
+  191  g++ anchopen.c
+  192  vim anchopen.c
+  193  rm test.txt
+  194  g++ anchopen.c
+  195  ./a.out test.txt
+  196  vim anchopen.c
+  197  g++ anchopen.c
+  198  ls
+  199  code
+  200  ls
+  201  os_kernel_ancy
+  202  lks
+  203  ks
+  204  clear
+  205  ls
+  206  fileio
+  207  ls
+  208  ll
+  209  rm test.txt
+  210  ls
+  211  rm text.txt
+  212  ls
+  213  rm 1.txt
+  214  ls
+  215  rm 1.txt
+  216  ls
+  217  lA
+  218  ks
+  219  ls
+  220  clear
+  221  ls
+  222  vim anchopen.c
+  223  umsk
+  224  umask
+  225  ls
+  226  ll
+  227  ./a.out test.txt
+  228  ls
+  229  ll
+  230  umask 0022
+  231  ll
+  232  clear
+  233  whoami
+  234  clear
+  235  ls
+  236  vim anchopen.c
+  237  g++ anchopen.c
+  238  ./a.out
+  239  ./a.out test.txt
+  240  vim anchopen.c
+  241  g++ anchopen.c
+  242  ./a.out test.txt
+  243  vim anchopen.c
+  244  ls
+  245  rm test.txt
+  246  ls
+  247  clear
+  248  ls
+  249  vim anchopen.c
+  250  ls
+  251  ./a.out test.txt
+  252  vim test.txt
+  253  vim anchopen.c
+  254  g++ anchopen.c
+  255  ./a.out
+  256  ./a.out test.txt
+  257  ls
+  258  vim test.txt
+  259  ll
+  260  vim test.txt
+  261  vim anchopen.c
+  262  g++ anchopen.c a b c
+  263  vim anchopen.c
+  264  g++ anchopen.c
+  265  ./a.out a b c
+  266  vim anchopen.c
+  267  g++ anchopen.c
+  268  ls
+  269  rm a
+  270  rm b
+  271  rm c
+  272  g++ anchopen.c
+  273  ./a.out a b c
+  274  rm c
+  275  rm b
+  276  rm a
+  277  vim anchopen.c
+  278  g++ anchopen.c
+  279  ./a.out
+  280  ls
+  281  vim anchopen.c
+  282  ls
+  283  vim opentest.c
+  284  cat anchopen.c
+  285  vim opentest.c
+  286  g++ opentest.c
+  287  vim opentest.c
+  288  g++ opentest.c
+  289  ./a.out  A
+  290  ls
+  291  vim opentest.c
+  292  rm A
+  293  ls
+  294  rm test.txt
+  295  clear
+  296  ls
+  297  vim
+  298  vim opentest.c
+  299  g++ opentest.c
+  300  ls
+  301  ll
+  302  vim opentest.c
+  303  ls
+  304  ll
+  305  ls
+  306  man  2 read
+  307  vim opentest.c
+  308  g++ opentest.c
+  309  ls
+  310  g++ opentest.c
+  311  ./a.out test.txt
+  312  clear
+  313  ls
+  314  ll
+  315  g++ anchopen.c
+  316  ./a.out test.txt a b
+  317  ls
+  318  rm a
+  319  rm b
+  320  ls
+  321  ll
+  322  clear
+  323  ls
+  324  vim test.txt
+  325  g++ opentest.c
+  326  ./a.out test.txt
+  327  vim test.txt
+  328  g++ opentest.c
+  329  vim test.txt
+  330  vim opentest.c
+  331  ls
+  332  vim test.txt
+  333  ll
+  334  vim opentest.c
+  335  vim test.txt
+  336  g++ opentest.c
+  337  ./a.out
+  338  ./a.out test.txt
+  339  vim test.txt
+  340  vim opentest.c
+  341  g++ opentest.c
+  342  vim opentest.c
+  343  g++ opentest.c
+  344  ;s
+  345  ls
+  346  clear
+  347  ls
+  348  vim test.txt
+  349  g++ test.txt
+  350  g++ opentest.c
+  351  ./a.out test.txt
+  352  vim test.txt
+  353  vim opentest.c
+  354  g++ test.txt
+  355  g++ opentest.c
+  356  ./a.out test.txt
+  357  vim opentest.c
+  358  g++ opentest.c
+  359  ./a.out test.txt
+  360  vim opentest.c
+  361  cp opentest.c trread.c
+  362  ls
+  363  vim
+  364  vim trread.c
+  365  g++ trread.c
+  366  ./a.out
+  367  s
+  368  ./a.out
+  369  vim trread.c
+  370  g++ trread.c
+  371  ./a.out
+  372  vim trread.c
+  373  ls
+  374  code
+  375  ls
+  376  os_kernel_ancy
+  377  ls
+  378  fileio
+  379  ls
+  380  ../
+  381  ls
+  382  fileio
+  383  LS
+  384  ls
+  385  vim trread.c
+  386  vim opentest.c
+  387  ls
+  388  vim trread.c
+  389  g++ trread.c
+  390  ./a.out
+  391  ls
+  392  code]
+  393  code
+  394  ls
+  395  data-structures
+  396  ls
+  397  os_kernel_ancy
+  398  ls
+  399  ../
+  400  clear
+  401  lws
+  402  ls
+  403  os_kernel_ancy
+  404  ls
+  405  fileio
+  406  ls
+  407  vim non_blocking.cpp
+  408  cat anchopen.c
+  409  vim non_blocking.cpp
+  410  -l /dev/tty
+  411  ls /dev/tty
+  412  vim non_blocking.cpp
+  413  g++ non_blocking.cpp
+  414  ./a.out
+  415  vim non_blocking.cpp
+  416  g++ non_blocking.cpp
+  417  ./a.out
+  418  vim non_blocking.cpp
+  419  cat non_blocking.cpp
+  420  vim non_blocking.cpp
+  421  g++ non_blocking.cpp
+  422  ./a.out
+  423  vim non_blocking.cpp
+  424  g++ non_blocking.cpp
+  425  ./a.out
+  426  vim non_blocking.cpp
+  427  ls\\
+  428  
+  429  ls
+  430  clear
+  431  ls
+  432  clear
+  433  ls
+  434  man issek
+  435  ls
+  436  issek man
+  437  le
+  438  man man
+  439  ls
+  440  code
+  441  ls
+  442  os_kernel_ancy 
+  443  ls
+  444  os_kernel_ancy
+  445  ls
+  446  clear
+  447  ls
+  448  fileio
+  449  ls
+  450  ll
+  451  rm test.txt
+  452  ls
+  453  ll
+  454  clear
+  455  man man
+  456  man 2 isssk
+  457  man 2 issek
+  458  man 2 lssek
+  459  man 2lseek
+  460  man 2 lseek
+  461  man 3 FSEEK
+  462  man 2 lseek
+  463  midir fileopt
+  464  mkdir fileopt
+  465  ks
+  466  ls
+  467  fileopt
+  468  ls
+  469  clear
+  470  vim hello.txt
+  471  vim  fseekopt.c
+  472  g++ fseekopt.c
+  473  ./a.out
+  474  vim  fseekopt.c
+  475  g++ fseekopt.c
+  476  fseekopt.c
+  477  g++ fseekopt.c
+  478  ./a.out
+  479  vim  fseekopt.c
+  480  g++ fseekopt.c
+  481  ./a.out
+  482  g++ fseekopt.c
+  483  vim  fseekopt.c
+  484  g++ fseekopt.c
+  485  ./a.out
+  486  vim  fseekopt.c
+  487  g++ fseekopt.c
+  488  ./a.out
+  489  ll
+  490  cat hello.txt
+  491  vim hello.txt
+  492  g++ fseekopt.c
+  493  vim hello.txt
+  494  g++ fseekopt.c
+  495  ./a.out
+  496  cl
+  497  vim hello.txt
+  498  g++ fseekopt.c
+  499  vim  fseekopt.c
+  500  g++ fseekopt.c
+  501  ./a.out
+  502  vim  fseekopt.c
+  503  g++  fseekopt.c
+  504  ./a.out
+  505  ls
+  506  ./a.out
+  507  ls
+  508  ./a.out
+  509  ./a.out test
+  510  ./a.out hello.tx
+  511  ./a.out hello.txt
+  512  ehco $PATH
+  513  echo $PATH
+  514  ls
+  515  vim  fseekopt.c
+  516  clear
+  517  man fput
+  518  man 2 fput
+  519  vim  fseekopt.c
+  520  g++  fseekopt.c
+  521  ./a.out
+  522  ll
+  523  ./a.out hello.txt
+  524  cat hello.txt
+  525  vim  fseekopt.c
+  526  g++ fseekopt.c
+  527  ./a.out
+  528  ./a.out hello.txt
+  529  vim hello.txt
+  530  vim fseekopt.c
+  531  g++ fseekopt.c
+  532  ./a.out  hello.txt
+  533  ls
+  534  ./a.out
+  535  cat  hello.txt
+  536  vim fseekopt.c
+  537  g++  The  fseek()  function sets the file position indicator for the stream pointed to by stream.  The new position, measured in
+  538  clear
+  539  ls
+  540  g++ fseekopt.c
+  541  ./a.out  hello.txt 
+  542  cat  hello.txt
+  543  vim fseekopt.c
+  544  g++  fseekopt.c
+  545  cat hello.txt
+  546  g++ hello.txt
+  547  g++ g++  fseekopt.c
+  548  g++  fseekopt.c
+  549  ./a.out v
+  550  ls
+  551  ./a.out hello.txt
+  552  cat hello.txt
+  553  vim fseekopt.c
+  554  g++ fseekopt.c
+  555  fseekopt.c
+  556  g++ fseekopt.c
+  557  ./a.out 
+  558  clear
+  559  ls
+  560  ll
+  561  rm 
+  562  rm \n: 1673075495:0;;s
+  563  ls]
+  564  ls
+  565  rm \\
+  566  1
+  567  ;s
+  568  ls
+  569  clear
+  570  rm \n: 1673075534:0;ls
+  571  clear
+  572  ls
+  573  rm \n: 1673075567:0;ls
+  574  vim \n: 1673075575:0;clearf
+  575  ;ls
+  576  g++fseekopt.c
+  577  g++ fseekopt.c
+  578  ./a.out
+  579  ./a.out hello.txt
+  580  cat hello.txt
+  581  cat hello.t
+  582  clear
+  583  ls
+  584  vim  fseekopt.c
+  585  ll
+  586  vim  fseekopt.c
+  587  ./a.out hello.txt
+  588  vim  fseekopt.c
+  589  g++ fseekopt.c
+  590  ./a.out hello.txt
+  591  clear
+  592  vim  fseekopt.c
+  593  ls
+  594  ../
+  595  ls
+  596  fileopt
+  597  ls
+  598  vim fseekopt.c
+  599  ll.
+  600  ll
+  601  vim  fseekopt.c
+  602  vim  fileopt.c
+  603  g++   fileopt.c
+  604  ./a.out
+  605  vim  fileopt.c
+  606  g++ fileopt.c
+  607  ./a.out
+  608  ls
+  609  vim  fileopt.c
+  610  g++ fileopt.c
+  611  ./a.out
+  612  vim fileopt.c
+  613  cat hello.txt
+  614  vim fileopt.c
+  615  ls
+  616  vim lseekopt.c 
+  617  g++ lseekopt.c
+  618  ./a.out
+  619  ./a.out hello.txt
+  620  cat hello.txt
+  621  vim lseekopt.c 
+  622  LS
+  623  ls
+  624  g++ lseekopt.c
+  625  ./a.out
+  626  ./a.out hello.txt
+  627  cat chello.txt
+  628  cat hello.txt
+  629  vim lseekopt.c
+  630  g++ lseekopt.c
+  631  ./a.out hello.txt
+  632  clear
+  633  ls
+  634  vim  lseekopt.c
+  635  g++  lseekopt.c
+  636  ./a.out
+  637  cat hello.txt
+  638  vim lseekopt.c
+  639  g++ lseekopt.c
+  640  ./a.out 
+  641  vim lseekopt.c
+  642  g++ lseekopt.c
+  643  ./a.out
+  644  car hello.txt
+  645  cat hello.txt
+  646  vim hello.txt
+  647  g++ lseekopt.c
+  648  ./a.out
+  649  vim hello.txt
+  650  cat hello.txt
+  651  ls
+  652  cat hello.txt
+  653  wq
+  654  vim hello.txt
+  655  vim lseekopt.c
+  656  g++ lseekopt.c
+  657  ./a.pit
+  658  ./a.out
+  659  vim lseekopt.c
+  660  g++ lseekopt.c
+  661  ./a.out
+  662  vim lseekopt.c
+  663  g++ lseekopt.c
+  664  ./a.out
+  665  vim lseekopt.c
+  666  g++ lseekopt.c
+  667  g++ lseekopt.
+  668  ./a.out
+  669  vim lseekopt.c
+  670  clear
+  671  ;s
+  672  clear
+  673  ls
+  674  c~
+  675  ls
+  676  g++ lseekopt.c
+  677  Ls
+  678  l
+  679  vim fcntlopt.c
+  680  fg
+  681  vim  fcntlopt.c
+  682  ls
+  683  code
+  684  ls
+  685  os_kernel_ancy
+  686  ls
+  687  clear
+  688  ls
+  689  fileio
+  690  ls
+  691  fileopt
+  692  ls
+  693  fcntlopt.c
+  694  vim fcntlopt.c
+  695  clear
+  696  ls
+  697  vim fcntlopt.c
+  698  g++ fcntlopt.c
+  699  ./a.out
+  700  vim fcntlopt.c
+  701  g++ fcntlopt.c
+  702  ./a.out
+  703  vim fcntlopt.c
+  704  ls
+  705  code
+  706  ls
+  707  os_kernel_ancy
+  708  ls
+  709  sl
+  710  l
+  711  cfileio
+  712  fileio
+  713  clear
+  714  ls
+  715  fileopt
+  716  ls
+  717  clear
+  718  ls
+  719  ll
+  720  ls
+  721  clear
+  722  ls
+  723  vim fcntlGetStatus.c
+  724  g++ fcntlGetStatus.c
+  725  ls
+  726  ./a.out
+  727  ./a.out hello.txt
+  728  vim fcntlGetStatus.c
+  729  ls
+  730  clear
+  731  ls
+  732  vim fcntlGetStatus.c
+  733  ./a.out hello.txt
+  734  vim fcntlGetStatus.c
+  735  g++ fcntlGetStatus.c
+  736  ls
+  737  g++ fcntlGetStatus.c
+  738  ./a.out hello.txt
+  739  =ls
+  740  clear
+  741  ls
+  742  ./a.out hello.txt
+  743  vim fcntlGetStatus.c
+  744  g++ hello.txt
+  745  g++ fcntlGetStatus.c
+  746  ./a.out
+  747  clear
+  748  ls
+  749  vim fcntlGetStatus.c
+  750  g++ fcntlGetStatus.c
+  751  ./a.out
+  752  ./a.out hello.txt
+  753  vim fcntlGetStatus.c
+  754  g++ fcntlGetStatus.c
+  755  ./a.out hello.txt
+  756  CLEAR
+  757  clear
+  758  vim fcntlGetStatus.c
+  759  g++  fcntlGetStatus.c
+  760  ls
+  761  clear
+  762  ls
+  763  vim fcntlGetStatus.c
+  764  g++ fcntlGetStatus.c
+  765  clear
+  766  ls
+  767  vim fcntlGetStatus.c
+  768  g++ fcntlGetStatus.c
+  769  ./a.out 1
+  770  ./a.out 2
+  771  ./a.out 3
+  772  ./a.out 0
+  773  vim fcntlGetStatus.c
+  774  g++ fcntlGetStatus.c
+  775  ./a.out
+  776  ./a.out 1
+  777  ./a.out
+  778  ./a.out 2
+  779  ./a.out 4
+  780  ./a.out 9
+  781  ./a.out 0
+  782  vim fcntlGetStatus.c
+  783  g++  fcntlGetStatus.c
+  784  ./a.ourt
+  785  ./a.out 1
+  786  ./a.out 2048
+  787  vim fcntlGetStatus.c
+  788  ls
+  789  clear
+  790  ls
+  791  ll
+  792  ./a.out 0
+  793  g++ fcntlGetStatus.c
+  794  ./a.out 1
+  795  ./a.out 1 < /dev/tty
+  796  ./a.out 0 < /dev/tty
+  797  ./a.out 0 > /dev/tty
+  798  man man
+  799  cd
+  800  ls
+  801  code
+  802  ls
+  803  l;s
+  804  fileio
+  805  ls
+  806  fileopt
+  807  l;s
+  808  ls
+  809  clear
+  810  ls
+  811  cp fcntlGetStatus.c  redicreck.c
+  812  ls
+  813  vim redicreck.c
+  814  ;s
+  815  g++ redicreck.c
+  816  ls
+  817  clear
+  818  ls
+  819  vim  redicreck.c
+  820  g++ redicreck.c
+  821  ./a.out 5>&1
+  822  ls
+  823  cclear
+  824  clear
+  825  ls
+  826  clear
+  827  ls
+  828  cm
+  829  sl
+  830  vim ioctlOpt.cpp
+  831  g++ ioctlOpt.cpp
+  832  ./a.out
+  833  vim ioctlOpt.cpp
+  834  ls
+  835  clear
+  836  ls
+  837  vim mmapOpt.c
+  838  cat hello.txt
+  839  ls
+  840  od -tx1 -tc hello.co
+  841  od -tx1 -tc hello.c
+  842  clear
+  843  od -tx1 -tc hello.txt
+  844  ls
+  845  mmapOpt
+  846  clear
+  847  ls
+  848  vim mmapOpt
+  849  vim mmapOpt.c
+  850  ../
+  851  cd ./
+  852  ../
+  853  ls
+  854  ./
+  855  .../
+  856  ..
+  857  .
+  858  ls
+  859  ../
+  860  ls
+  861  code
+  862  ls
+  863  os_kernel_ancy
+  864  ls
+  865  fileio
+  866  ]ls
+  867  clear
+  868  ls
+  869  fileopt
+  870  ls
+  871  vim mmapOpt.c
+  872  g++ mmapOpt.c
+  873  od -tx1 -tc hello.txt
+  874  ./a.out
+  875  od -tx1 -tc hello.txt
+  876  g++ mmapOpt.c
+  877  vim mmapOpt.c
+  878  od -tx1 -tc hello.txt
+  879  ./a.out
+  880  od -tx1 -tc hello.txt
+  881  ls
+  882  clear
+  883  ls
+  884  vim mmapOpt.c
+  885  g++  mmapOpt.c
+  886  ./a.out
+  887  od -tx1 -tc hello.txt
+  888  vim mmapOpt.c
+  889  ls
+  890  code
+  891  ls
+  892  ls -al
+  893  code
+  894  ls -al
+  895  clear
+  896  ls
+  897  clear
+  898  ls
+  899  os_kernel_ancy
+  900  ls
+  901  fileio
+  902  .;s
+  903  ls
+  904  ls -a;
+  905  ls -al
+  906  ls -l dev
+  907  ls -l /dev
+  908  ls
+  909  code
+  910  ls
+  911  fileopt
+  912  ls
+  913  clear
+  914  ls
+  915  ln -s ./hello.txt ttt
+  916  LS
+  917  ls
+  918  -al
+  919  ls -al
+  920  ls
+  921  clear
+  922  ls
+  923  ln ./hello.txt tetete
+  924  ls -al t*
+  925  ks
+  926  l
+  927  code
+  928  ls
+  929  ckear
+  930  clear
+  931  ls
+  932  fileio
+  933  ;s
+  934  ls
+  935  clear
+  936  ls
+  937  ll
+  938  ls -al
+  939  ../
+  940  ls
+  941  clear
+  942  ls -al
+  943  ls -al root
+  944  ls -al .root
+  945  ls -al ./root
+  946  ls -al  *
+  947  cd .
+  948  ls\\
+  949  
+  950  cclear
+  951  clear
+  952  ls
+  953  cd../
+  954  ls
+  955  fileio
+  956  ls
+  957  clear
+  958  lsll\\
+  959  
+  960  clear
+  961  ls
+  962  man stat
+  963  clear
+  964  ls
+  965  fileopt
+  966  ls
+  967  stat hello.txt
+  968  clear
+  969  ls
+  970  stat hello.txt
+  971  man stat
+  972  man 2 stat
+  973  ls
+  974  clear
+  975  ls
+  976  rm tetete
+  977  rm ttt
+  978  ls
+  979  clear
+  980  ls
+  981  vim statOpt.c
+  982  g++  statOpt.c
+  983  ./a.out hello.txt
+  984  vim statOpt.c
+  985  g
+  986  ls
+  987  clare
+  988  clear
+  989  ls
+  990  g++  statOpt.c
+  991  ./a.out hello.txt
+  992  ./a.out .
+  993  vim statOpt.c
+  994  g++ statOpt.c
+  995  ls
+  996  vim statOpt.c
+  997  ls
+  998  man 2 open
+  999  man  open
+ 1000  ls
+ 1001  code
+ 1002  ls
+ 1003  os_kernel_ancy
+ 1004  ls
+ 1005  fileio
+ 1006  ls
+ 1007  vim fileopt
+ 1008  vim fileopt.c
+ 1009  vim file_desc.i
+ 1010  vim file_desc
+ 1011  vim file_desc.c
+ 1012  vim opentest.c
+ 1013  vim file_desc.c
+ 1014  vim ancyFile.c
+ 1015  vim anchopen.c
+ 1016  vim trread.c 
+ 1017  clearls
+ 1018  ls
+ 1019  code
+ 1020  ls
+ 1021  os_kernel_ancy
+ 1022  ks
+ 1023  ls
+ 1024  fileio
+ 1025  ls
+ 1026  cat ancyFile.c\n: 1673233543:0;cat ancyFile.c
+ 1027  anchopen.c
+ 1028  cat anchopen.c
+ 1029  ls
+ 1030  coe
+ 1031  code
+ 1032  ls
+ 1033  clear
+ 1034  ls
+ 1035  os_kernel_ancy
+ 1036  ks
+ 1037  ls
+ 1038  fileio
+ 1039  ls
+ 1040  clear
+ 1041  ls
+ 1042  fileopt
+ 1043  ls
+ 1044  vim execproeccc.c
+ 1045  g++ execproeccc.c
+ 1046  ./a.out
+ 1047  ls
+ 1048  c
+ 1049  od
+ 1050  clear
+ 1051  ls
+ 1052  code
+ 1053  ls
+ 1054  code
+ 1055  ls
+ 1056  os_kernel_ancy
+ 1057  clear
+ 1058  ls
+ 1059  fileio
+ 1060  l;s
+ 1061  fileopt
+ 1062  ;s
+ 1063  ls
+ 1064  clear
+ 1065  ls
+ 1066  vim execproeccc.c
+ 1067  ls
+ 1068  strace ./a.out
+ 1069  ls
+ 1070  clear
+ 1071  ls
+ 1072  clear
+ 1073  ls
+ 1074  -al hello.txt
+ 1075  ls -al hello.txt
+ 1076  -rw-r--r-- 1 root root 11 Jan  8 15:49 hello.txt-rw-r--r-- 1 root root 11 Jan  8 15:49 hello.txt-rw-r--r-- 1 root root 11 Jan  8 15:49 hello.txt-rw-r--r-- 1 root root 11 Jan  8 15:49 hello.txt-rw-r--r-- 1 root root 11 Jan  8 15:49 hello.txt-rw-r--r-- 1 root root 11 Jan  8 15:49 hello.txt-rw-r--r-- 1 root root 11 Jan  8 15:49 hello.txt-rw-r--r-- 1 root root 11 Jan  8 15:49 hello.txt-rw-r--r-- 1 root root 11 Jan  8 15:49 hello.txt-rw-r--r-- 1 root root 11 Jan  8 15:49 hello.txt-rw-r--r-- 1 root root 11 Jan  8 15:49 hello.txt-rw-r--r-- 1 root root 11 Jan  8 15:49 hello.txt-rw-r--r-- 1 root root 11 Jan  8 15:49 hello.txt-rw-r--r-- 1 root root 11 Jan  8 15:49 hello.txt-rw-r--r-- 1 root root 11 Jan  8 15:49 hello.txt-rw-r--r-- 1 root root 11 Jan  8 15:49 hello.txt-rw-r--r-- 1 root root 11 Jan  8 15:49 hello.txt-rw-r--r-- 1 root root 11 Jan  8 15:49 hello.txt-rw-r--r-- 1 root root 11 Jan  8 15:49 hello.txt-rw-r--r-- 1 root root 11 Jan  8 15:49 hello.txt-rw-r--r-- 1 root root 11 Jan  8 15:49 hello.txt-rw-r--r-- 1 root root 11 Jan  8 15:49 hello.txt-rw-r--r-- 1 root root 11 Jan  8 15:49 hello.txt-rw-r--r-- 1 root root 11 Jan  8 15:49 hello.txt-rw-r--r-- 1 root root 11 Jan  8 15:49 hello.txt-rw-r--r-- 1 root root 11 Jan  8 15:49 hello.txt-rw-r--r-- 1 root root 11 Jan  8 15:49 hello.txt-rw-r--r-- 1 root root 11 Jan  8 15:49 hello.txt-rw-r--r-- 1 root root 11 Jan  8 15:49 hello.txt
+ 1077  ls
+ 1078  clear
+ 1079  ls -al hello.txt
+ 1080  ll
+ 1081  ls
+ 1082  code
+ 1083  ls
+ 1084  os_kernel_ancy
+ 1085  ls
+ 1086  clear
+ 1087  ls
+ 1088  clear
+ 1089  ls
+ 1090  fileio
+ 1091  man READDIR
+ 1092  man  readdir
+ 1093  man  3 readdir
+ 1094  s
+ 1095  ls
+ 1096  clear
+ 1097  ls
+ 1098  clear
+ 1099  ls
+ 1100  ks
+ 1101  Ls
+ 1102  ls
+ 1103  fileopt
+ 1104  ;s
+ 1105  ls
+ 1106  clear
+ 1107  ls
+ 1108  vim dirOpt.c
+ 1109  fg
+ 1110  fls
+ 1111  clear
+ 1112  ls
+ 1113  gcc dirOpt.c
+ 1114  ./a.out
+ 1115  vim dirOpt.c
+ 1116  g+
+ 1117  + 
+ 1118  clear
+ 1119  ls
+ 1120  g++ dirOpt.c\n: 1673250551:0;g++ dirOpt.c
+ 1121  ls
+ 1122  g++ dirOpt.c
+ 1123  ./a.out 
+ 1124  ./a.out   ./a.out
+ 1125  vim dirOpt.c
+ 1126  ls -r
+ 1127  mikdir test
+ 1128  mirkdir test
+ 1129  mkdir test
+ 1130  ls
+ 1131  test
+ 1132  ks
+ 1133  ls
+ 1134  vim 1.txt
+ 1135  ls
+ 1136  rm 1.txt
+ 1137  ls
+ 1138  cd test
+ 1139  ls
+ 1140  vim 1.txt
+ 1141  ../
+ 1142  ls
+ 1143  clear
+ 1144  ls
+ 1145  ls -R
+ 1146  vim dirOpt.c
+ 1147  g++ dirOpt.c
+ 1148  ./a.out 
+ 1149  ./a.out  test
+ 1150  vim dirOpt.c
+ 1151  g++ dirOpt.c
+ 1152  ./a.out ./a.out
+ 1153  ./a.out .
+ 1154  vim dirOpt.c
+ 1155  g++ dirOpt.c
+ 1156  clear
+ 1157  ;s
+ 1158  clear
+ 1159  ls
+ 1160  vim mmapOpt.c
+ 1161  vim dirOpt.c
+ 1162  g++ dirOpt.c
+ 1163  clear
+ 1164  ls
+ 1165  ./a.out
+ 1166  /a.out a.out
+ 1167  /a.out /a.out
+ 1168  /a.out .
+ 1169  ll
+ 1170  clear
+ 1171  ls
+ 1172  clear
+ 1173  ./a.out .
+ 1174  ls
+ 1175  ./a.out ./\n: 1673253211:0;vim dirOpt.c
+ 1176  g++ dirOpt.c
+ 1177  ./a.out .
+ 1178  ls
+ 1179  clear
+ 1180  ls
+ 1181  vim dirOpt.c
+ 1182  ../
+ 1183  ls
+ 1184  ../
+ 1185  l.s
+ 1186  ls
+ 1187  sl
+ 1188  ll
+ 1189  ../
+ 1190  ls
+ 1191  clear
+ 1192  ls
+ 1193  cpulssyntax
+ 1194  ls
+ 1195  vim strcmp.c
+ 1196  ../
+ 1197  ；s
+ 1198  ls
+ 1199  code
+ 1200  os_kernel_ancy
+ 1201  ls
+ 1202  fileio
+ 1203  ls
+ 1204  clear
+ 1205  l;s
+ 1206  fileopt
+ 1207  ls
+ 1208  clear
+ 1209  ：；
+ 1210  ls -all
+ 1211  vim dirOpt.c
+ 1212  ./a.out .
+ 1213  clear
+ 1214  vim dirOpt.c
+ 1215  g++  dirOpt.c
+ 1216  ./a.out .
+ 1217  vim dirOpt.c
+ 1218  ;s
+ 1219  kls
+ 1220  ls
+ 1221  code
+ 1222  ls
+ 1223  clear
+ 1224  ls
+ 1225  dup和 dup2
+ 1226  lls
+ 1227  os_kernel_ancy
+ 1228  ls
+ 1229  fileio
+ 1230  ls
+ 1231  fileopt
+ 1232  kls
+ 1233  clear
+ 1234  ls
+ 1235  vim dup.Opt.c
+ 1236  ls
+ 1237  vim  dupOpt.c
+ 1238  code
+ 1239  ls
+ 1240  os_kernel_ancyl
+ 1241  os_kernel_ancy
+ 1242  ls
+ 1243  clear
+ 1244  ls
+ 1245  fileio
+ 1246  ls
+ 1247  fileio
+ 1248  ls
+ 1249  fileopt
+ 1250  ls
+ 1251  clear
+ 1252  ls
+ 1253  vim dupOpt.c
+ 1254  g++ dupOpt.c
+ 1255  .a/.out 
+ 1256  ls
+ 1257  ./a.out
+ 1258  clear
+ 1259  ls
+ 1260  g++   dupOpt.c
+ 1261  ./a.out
+ 1262  ls
+ 1263  vim dupOpt.c
+ 1264  g++  dupOpt.c
+ 1265  ./a.out
+ 1266  clear
+ 1267  ls
+ 1268  ./a.out
+ 1269  clear
+ 1270  ls
+ 1271  vim dupOpt.c
+ 1272  gcc dupOpt.c
+ 1273  ./a.out
+ 1274  cckear
+ 1275  ls
+ 1276  dupOpt.c
+ 1277  vim dupOpt.c
+ 1278  fg
+ 1279  g++ dupOpt.c
+ 1280  ./a.out
+ 1281  vim dupOpt.c
+ 1282  ls
+ 1283  cat hello
+ 1284  cat hello.txt
+ 1285  sl
+ 1286  ls
+ 1287  code
+ 1288  ls
+ 1289  clear
+ 1290  ls
+ 1291  os_kernel_ancy
+ 1292  ls
+ 1293  l
+ 1294  fileio
+ 1295  ls
+ 1296  clear
+ 1297  ls
+ 1298  fileopt
+ 1299  ls
+ 1300  ../
+ 1301  ls
+ 1302  ../
+ 1303  ls
+ 1304  clear
+ 1305  ls
+ 1306  clear
+ 1307  ls
+ 1308  mkdir PCB
+ 1309  Ls
+ 1310  ls
+ 1311  re PCB
+ 1312  ls
+ 1313  clear
+ 1314  mkdir pcb
+ 1315  ls
+ 1316  pcb
+ 1317  ls
+ 1318  clear
+ 1319  ls
+ 1320  ps -aux
+ 1321  ls
+ 1322  ps tree
+ 1323  pstree
+ 1324  pstrre
+ 1325  pstree
+ 1326  clear
+ 1327  pstree
+ 1328  umask
+ 1329  ls
+ 1330  code
+ 1331  ls
+ 1332  os_kernel_ancy
+ 1333  ls
+ 1334  v
+ 1335  pcb
+ 1336  ls
+ 1337  vim forkOpt.c
+ 1338  g++ forkOpt.c
+ 1339  ls
+ 1340  vim  forkOpt.c
+ 1341  gcc forkOpt.c
+ 1342  ls
+ 1343  gcc forkOpt.c
+ 1344  ./a.out
+ 1345  vim  forkOpt.c
+ 1346  gcc forkOpt.c
+ 1347  ./a.out
+ 1348  clear
+ 1349  ls
+ 1350  ./a.out
+ 1351  clear
+ 1352  ls
+ 1353  ./a.out
+ 1354  ks
+ 1355  ls
+ 1356  vim forkOpt.c
+ 1357  ls
+ 1358  pstree
+ 1359  clear
+ 1360  ls
+ 1361  vim  forkOpt.c
+ 1362  gcc forkOpt.c
+ 1363  ./a.out
+ 1364  vim  forkOpt.c
+ 1365  gcc forkOpt.c
+ 1366  ./.aout
+ 1367  ./aout
+ 1368  ./a.out
+ 1369  vim  forkOpt.c
+ 1370  gcc  forkOpt.c
+ 1371  clear
+ 1372  ls
+ 1373  ./a.out
+ 1374  vim  forkOpt.c
+ 1375  gcc a.out
+ 1376  gcc forkOpt.c
+ 1377  ./a.out
+ 1378  vim  forkOpt.c
+ 1379  gcc forkOpt.c
+ 1380  ./a.out
+ 1381  vim  forkOpt.c
+ 1382  gcc  forkOpt.c
+ 1383  ./a.out
+ 1384  ps -aux | grep 1987328512
+ 1385  vim forkOpt.c
+ 1386  g++  forkOpt.c
+ 1387  ./a.out
+ 1388  vim forkOpt.c
+ 1389  gcc forkOpt.c
+ 1390  ./a.out
+ 1391  ps aus |grep -22913
+ 1392  ps aus |grep 22913
+ 1393  ps aus
+ 1394  ps -\aus
+ 1395  lsl
+ 1396  clear
+ 1397  ls
+ 1398  ps -ef
+ 1399  ps -aux | grep 
+ 1400  ./a.out
+ 1401  ps -aux | grep 22913
+ 1402  vim forkOpt.c
+ 1403  ./a.out
+ 1404  ps -aux | grep 0
+ 1405  ./a.out
+ 1406  cl
+ 1407  cdoe
+ 1408  code
+ 1409  ls
+ 1410  pid0
+ 1411  os_kernel_ancy
+ 1412  ls
+ 1413  pcb
+ 1414  ls
+ 1415  clear
+ 1416  ls
+ 1417  vim forkOpt.c
+ 1418  gcc forkOpt.c
+ 1419  ./a.ouyt
+ 1420  ./a.out
+ 1421  cs -aux |grep -24990
+ 1422  cs -aux |grep 24990
+ 1423  ps -aux |grep 24990
+ 1424  vim forkOpt.c
+ 1425  gcc forkOpt.c
+ 1426  ./a.out
+ 1427  gcc forkOpt.c
+ 1428  ./a.out
+ 1429  vim forkOpt.c
+ 1430  gcc forkOpt.c
+ 1431  vim forkOpt.c
+ 1432  vim createforkOpt.cc
+ 1433  vim createforkOpt.c
+ 1434  clear
+ 1435  ls
+ 1436  clear
+ 1437  ls
+ 1438  code
+ 1439  ls
+ 1440  os_kernel_ancy
+ 1441  ls
+ 1442  clear
+ 1443  ls
+ 1444  pcb
+ 1445  ls
+ 1446  vim createforkOpt.c
+ 1447  gcc createforkOpt.c
+ 1448  gcc createforkOpt.c -std=c99
+ 1449  ./a.out
+ 1450  clearls
+ 1451  clear
+ 1452  ls
+ 1453  vim createforkOpt.c
+ 1454  gcc createforkOpt.c
+ 1455  gcc createforkOpt.c -std=c99
+ 1456  ./a.out
+ 1457  vim createforkOpt.c
+ 1458  gcc createforkOpt.c
+ 1459  gcc createforkOpt.c -std=c99
+ 1460  ./a.out
+ 1461  vim createforkOpt.c
+ 1462  gcc createforkOpt.c
+ 1463  gcc createforkOpt.c -std=c99
+ 1464  ./a.out 
+ 1465  vim createforkOpt.c
+ 1466  gcc createforkOpt.c -std=c99
+ 1467  ./a.out 
+ 1468  ps -aux |grep 25741
+ 1469  vim createforkOpt.c
+ 1470  gcc createforkOpt.c -std=c99
+ 1471  ps -aux |grep 25741
+ 1472  ./a.out 
+ 1473  clear
+ 1474  ls
+ 1475  vim createforkOpt.c
+ 1476  gcc createforkOpt.c -std=c99
+ 1477  ./a.out
+ 1478  ls
+ 1479  clear
+ 1480  ls
+ 1481  code
+ 1482  ls
+ 1483  ll
+ 1484  os_kernel_ancy
+ 1485  ls
+ 1486  pcb
+ 1487  ls
+ 1488  forkOpt.c
+ 1489  forkOpt
+ 1490  ls
+ 1491  vim forkOpt.c
+ 1492  vim createforkOpt.c
+ 1493  gcc  createforkOpt.c -std=c99
+ 1494  ./a.out
+ 1495  clear
+ 1496  ll
+ 1497  vim createforkOpt.c
+ 1498  gcc createforkOpt.c -std=c99
+ 1499  ./a.out
+ 1500  clear
+ 1501  ./a.out
+ 1502  vim createforkOpt.c
+ 1503  gcc createforkOpt.c -std=c99
+ 1504  ./a.out
+ 1505  vim createforkOpt.c
+ 1506  ls
+ 1507  ./a.out
+ 1508  vim createforkOpt.c
+ 1509  gcc createforkOpt.c -std=c99
+ 1510  ./a.out
+ 1511  clear
+ 1512  ls
+ 1513  ./a.out
+ 1514  gcc createforkOpt.c -std=c99
+ 1515  ./a.out
+ 1516  gcc createforkOpt.c -std=c99
+ 1517  vim createforkOpt.c
+ 1518  gcc createforkOpt.c -std=c99
+ 1519  ./a.out
+ 1520  vim createforkOpt.c
+ 1521  ./a.out
+ 1522  gcc createforkOpt.c -std=c99
+ 1523  ./a.out
+ 1524  vim createforkOpt.c
+ 1525  clear
+ 1526  ls
+ 1527  gcc createforkOpt.c -std=c99
+ 1528  ./a.out
+ 1529  vim createforkOpt.c
+ 1530  gcc - createforkOpt.c\n: 1673337369:0;gcc  createforkOpt.c -g
+ 1531  ./a.out
+ 1532  ls
+ 1533  clear
+ 1534  gdb ./a.out
+ 1535  gdb a.out
+ 1536  ls
+ 1537  ./a.out
+ 1538  gdb a.out
+ 1539  yum install gdb
+ 1540  gdb './a.out
+ 1541  gdb ./a.out
+ 1542  ls
+ 1543  code
+ 1544  ls
+ 1545  os_kernel_ancy
+ 1546  ls
+ 1547  pcb
+ 1548  ls
+ 1549  gdb ./a.out
+ 1550  gls
+ 1551  ls
+ 1552  gcc forkOpt.c -std=c99
+ 1553  ls
+ 1554  gdb ./a.out
+ 1555  vim createforkOpt.c
+ 1556  ll
+ 1557  vim forkOpt.c
+ 1558  gcc forkOpt.c
+ 1559  gdb ./a.out
+ 1560  gcc forkOpt.c -g
+ 1561  gdb ./a.out
+ 1562  ls
+ 1563  clear
+ 1564  man 3 exec
+ 1565  vim envOpt.c
+ 1566  gvv envOpt.c
+ 1567  gcc envOpt.c
+ 1568  vim envOpt.c
+ 1569  gcc  envOpt.c -std=c99
+ 1570  ./a.out
+ 1571  vim envOpt.c
+ 1572  gcc  envOpt.c -std=c99
+ 1573  vim envOpt.c
+ 1574  gcc envOpt.c -std=c99
+ 1575  gcc envOpt.c 
+ 1576  vim createforkOpt.c
+ 1577  vim envOpt.c
+ 1578  gcc envOpt.c 
+ 1579  ../
+ 1580  ls
+ 1581  ../
+ 1582  ls
+ 1583  cpulssyntax
+ 1584  ls
+ 1585  vim constkeywork.c
+ 1586  ..
+ 1587  ;s
+ 1588  os_kernel_ancy
+ 1589  ll
+ 1590  pcb
+ 1591  ls
+ 1592  vim execOpt.c
+ 1593  gcc  execOpt.c
+ 1594  ./a.out
+ 1595  vim execOpt.c
+ 1596  ls
+ 1597  code
+ 1598  ls
+ 1599  clear
+ 1600  ls
+ 1601  os_kernel_ancy
+ 1602  ls
+ 1603  pcb
+ 1604  ls
+ 1605  clear
+ 1606  ls
+ 1607  cleart
+ 1608  clear
+ 1609  ls
+ 1610  clear
+ 1611  ls
+ 1612  vim upper.c
+ 1613  ls
+ 1614  vim 1.txt
+ 1615  gcc upper.c
+ 1616  ./a.out <1.txt
+ 1617  clear
+ 1618  ls
+ 1619  clear
+ 1620  lsl
+ 1621  lll
+ 1622  ll
+ 1623  clear
+ 1624  ll
+ 1625  ls
+ 1626  clear
+ 1627  ls
+ 1628  ./a.out <1.txt
+ 1629  vim redirect.c
+ 1630  vim 1.txt
+ 1631  vim redirect.c
+ 1632  ls
+ 1633  vim forkOpt.c
+ 1634  ls
+ 1635  vim  redirect.c
+ 1636  gcc redirect.c
+ 1637  ./a.out
+ 1638  ./a.out 1.txt
+ 1639  vim  redirect.c
+ 1640  gcc redirect.c
+ 1641  ./a.out 1.txt
+ 1642  ll
+ 1643  chome  1.txt 777
+ 1644  chmod 1.txt 777
+ 1645  ls
+ 1646  chmod 777
+ 1647  ls
+ 1648  chmo 777 /pcb  
+ 1649  ls
+ 1650  chmod 777 /pcb
+ 1651  chmod 777 pcb
+ 1652  chmod 777 1.txt
+ 1653  clear
+ 1654  ls
+ 1655  .a/.out 1.txt
+ 1656  ./a.out 1.txt
+ 1657  chmod upper.c
+ 1658  chmod 777 upper.c
+ 1659  ./a.out 1.txt
+ 1660  vim redirect.c
+ 1661  gcc redirect.c
+ 1662  gcc redirect.c -g 
+ 1663  gdb ./a.out
+ 1664  ls
+ 1665  gdb ./a.out 1.txt
+ 1666  ls
+ 1667  ./a.out  upper.c
+ 1668  ./a.out 1.txt upper
+ 1669  clear
+ 1670  ls
+ 1671  ./a.out 1.txt
+ 1672  ./a.out 1.txt upper upper.c
+ 1673  vim redirect.c
+ 1674  \./a.out 1.txt upper upper.c
+ 1675  \dddout 1.txt upper upper.c
+ 1676  gcc  redirect.c
+ 1677  ./a.out 1.txt
+ 1678  ./a.out 1.txt  upper upper.c  
+ 1679  vim redirect.c
+ 1680  ./a.out 1.txt  
+ 1681  1.txt
+ 1682  ./1.txt
+ 1683  ./a.out 1.txt  
+ 1684  yum install lib32bz2-1.0
+ 1685  ./a.out 1.txt  
+ 1686  vim redirect.c
+ 1687  gcc redirect.c
+ 1688  ./a.out 1.txt
+ 1689  vim redirect.c
+ 1690  gcc redirect.c
+ 1691  clear
+ 1692  ls
+ 1693  ./a.out 1.txt
+ 1694  ./a.out ./1.txt
+ 1695  ./a.out 1.txt
+ 1696  ./a.out ./1.txt
+ 1697  vim hello.txt
+ 1698  gcc redirect.c
+ 1699  ./a.out hello.txt
+ 1700  ls
+ 1701  vim redirect.c
+ 1702  gcc redirect.c
+ 1703  ./a.out hello.txt
+ 1704  chmod ./a.out 777
+ 1705  chmod a.out 777
+ 1706  ll
+ 1707  chmod ./a.out 777
+ 1708  chmod 777 ./a.out
+ 1709  ll
+ 1710  clear
+ 1711  ls
+ 1712  ./a.out hello.txt
+ 1713  ls
+ 1714  ll
+ 1715  vim upper.c
+ 1716  gcc upper.c
+ 1717  ls
+ 1718  code
+ 1719  ls
+ 1720  os_kernel_ancy
+ 1721  ls
+ 1722  pcb
+ 1723  ls
+ 1724  gcc upper.c -o upper
+ 1725  ls
+ 1726  clear
+ 1727  ls
+ 1728  vim redirect.c
+ 1729  gcc upper.c -o upper
+ 1730  ls
+ 1731  gcc redirect.c
+ 1732  ./a.out
+ 1733  ./a.out  1.txt
+ 1734  vim redirect.c
+ 1735  vim upper.c
+ 1736  vim redirect.c
+ 1737  gcc  redirect.c
+ 1738  ./a.out hello.txt 1.txt
+ 1739  cat 1.txt
+ 1740  cat hellow.txt
+ 1741  l
+ 1742  cat hello.txt
+ 1743  ls
+ 1744  vim  redirect.c
+ 1745  ./a.out hellp.txt 1.txt
+ 1746  ./a.out hello.txt 1.txt
+ 1747  ls
+ 1748  cat hello.txt
+ 1749  cat 1.txt
+ 1750  vim  redirect.c
+ 1751  gcc  redirect.c
+ 1752  ./a.out 1.txt hello.txt
+ 1753  cat hello.txt
+ 1754  cat 1.txt
+ 1755  vim  redirect.c
+ 1756  ./a.out 1.txt hello.txt
+ 1757  cat 1.txt
+ 1758  cat hello.txt
+ 1759  ./a.out 1.txt e.txt
+ 1760  ls
+ 1761  cat  e.txt
+ 1762  ls
+ 1763  vim e.txt
+ 1764  vim redirect.c
+ 1765  gcc redirect.c
+ 1766  ./a.out  hello.txt 1.txt
+ 1767  cat 1xtxt
+ 1768  ./a.out  hello.txt 1.txt
+ 1769  cat 1.txt
+ 1770  vim redirect.c
+ 1771  cat hello.txt
+ 1772  vim redirect.c
+ 1773  gcc redirect.c
+ 1774  ./a.out  hello.txt 1.txt
+ 1775  vim redirect.c
+ 1776  gcc redirect.c
+ 1777  ./a.out  hello.txt 1.txt
+ 1778  vim redirect.c
+ 1779  gcc redirect.c
+ 1780  ./a.out  hello.txt 1.txt
+ 1781  vim redirect.c
+ 1782  gcc redirect.c
+ 1783  ./a.out  hello.txt 1.txt
+ 1784  vim redirect.c
+ 1785  gcc redirect.c
+ 1786  ./a.out  hello.txt 1.txt
+ 1787  vim redirect.c
+ 1788  gcc redirect.c
+ 1789  vim test.c
+ 1790  gcc test.c
+ 1791  ./a.out
+ 1792  vim test.c
+ 1793  $
+ 1794  echo $
+ 1795  ./a.out
+ 1796  echo $
+ 1797  vim test.c
+ 1798  gcc test.c
+ 1799  ./a.out
+ 1800  echo $
+ 1801  echo $?
+ 1802  ./a.out
+ 1803  .clear
+ 1804  clear
+ 1805  vim waitmob.c
+ 1806  gcc waitmob.c
+ 1807  ./a.out
+ 1808  ls
+ 1809  vim waitmob.c
+ 1810  gcc waitmob.c
+ 1811  ./a.out
+ 1812  ps -a
+ 1813  ps -u
+ 1814  vim waitmob.c
+ 1815  ps -u
+ 1816  ls
+ 1817  cat createforkOpt.c
+ 1818  ls
+ 1819  ps -aux
+ 1820  ps -a
+ 1821  ps -u
+ 1822  ./a.out
+ 1823  ps -u
+ 1824  kill -9 6632
+ 1825  ps -u
+ 1826  kill -9 6631
+ 1827  ps -u
+ 1828  ;s
+ 1829  clear
+ 1830  ll
+ 1831  vim waitOtp.c
+ 1832  ls
+ 1833  vim waitOtp.c
+ 1834  clear
+ 1835  ;s
+ 1836  ls
+ 1837  gcc waitOtp.c
+ 1838  ./a.out
+ 1839  vim waitOtp.c
+ 1840  gcc  waitOtp.c
+ 1841  ./a.out
+ 1842  vim waitOtp.c
+ 1843  gcc  waitOtp.c
+ 1844  ./a.out
+ 1845  vim waitOtp.c
+ 1846  gcc waitOtp.c
+ 1847  ./a.out
+ 1848  L
+ 1849  LS
+ 1850  ls
+ 1851  code
+ 1852  ls
+ 1853  ;s
+ 1854  ls
+ 1855  os_kernel_ancy
+ 1856  ls
+ 1857  pcb
+ 1858  code
+ 1859  ls
+ 1860  os_kernel_ancy
+ 1861  ls
+ 1862  pcb
+ 1863  ls
+ 1864  ../
+ 1865  ls
+ 1866  mkdir ipc
+ 1867  ls
+ 1868  clear
+ 1869  l
+ 1870  ls
+ 1871  ipc
+ 1872  ls
+ 1873  vim pipeOpt.c
+ 1874  ls
+ 1875  code
+ 1876  ls
+ 1877  os_kernel_ancy\\
+ 1878  
+ 1879  ls
+ 1880  ipc
+ 1881  ll
+ 1882  vim pipeOpt.c
+ 1883  ls
+ 1884  clear
+ 1885  ls
+ 1886  gcc pipeOpt.c
+ 1887  ]ls
+ 1888  ls
+ 1889  ./a.out
+ 1890  vim pipeOpt.c
+ 1891  gcc pipeOpt.c
+ 1892  clear
+ 1893  ls
+ 1894  ./a.out
+ 1895  vim pipeOpt.c
+ 1896  clear
+ 1897  ls
+ 1898  code
+ 1899  ls
+ 1900  clear
+ 1901  ls
+ 1902  os_kernel_ancy
+ 1903  ls
+ 1904  pcb
+ 1905  ls
+ 1906  ../
+ 1907  ls
+ 1908  clear
+ 1909  ls
+ 1910  ipc\\
+ 1911  
+ 1912  l
+ 1913  s
+ 1914  vim pipeOpt.c
+ 1915  gcc pipeOpt.c
+ 1916  ./a.out
+ 1917  clear
+ 1918  ls
+ 1919  vim pipeOpt.c
+ 1920  gcc pipeOpt.c
+ 1921  ./a.out
+ 1922  vim pipeOpt.c
+ 1923  kls
+ 1924  ld
+ 1925  code
+ 1926  ls
+ 1927  os_kernel_ancy
+ 1928  l
+ 1929  ipc
+ 1930  ls
+ 1931  clear
+ 1932  ls
+ 1933  vim 
+ 1934  clear
+ 1935  vim  pipeOpt.c
+ 1936  gcc pipeOpt.c
+ 1937  ./a.out
+ 1938  vim /etc/ssh/ssh_config 
+ 1939  service sshd restart
+ 1940  ls
+ 1941  /bin/systemctl restart sshd.service
+ 1942  ls
+ 1943  clear
+ 1944  code
+ 1945  ls
+ 1946  os_kernel_ancy
+ 1947  ls
+ 1948  pcb
+ 1949  ls
+ 1950  ../
+ 1951  ls
+ 1952  kls
+ 1953  ipc
+ 1954  ;s
+ 1955  ls
+ 1956  clear
+ 1957  ls
+ 1958  vim pipeOpt.c
+ 1959  gcc pipeOpt
+ 1960  gcc pipeOpt.c
+ 1961  ./a.out
+ 1962  vim pipeOpt.c
+ 1963  gcc pipeOpt.c
+ 1964  ./a.out 
+ 1965  clear
+ 1966  ls
+ 1967  vim pipeOpt.c
+ 1968  gcc pipeOpt.c
+ 1969  ./a.out
+ 1970  echo $?
+ 1971  vim pipeOpt.c
+ 1972  ./a.out 
+ 1973  ls
+ 1974  vim   pipeOpt.c
+ 1975  gcc   pipeOpt.c
+ 1976  vim pipeOpt.c
+ 1977  gcc  pipeOpt.c
+ 1978  gcc  pipeOpt.c -std=c99
+ 1979  ./a.out
+ 1980  vim pipeOpt.c
+ 1981  gcc  pipeOpt.c
+ 1982  gcc  pipeOpt.c -std=cgg
+ 1983  gcc  pipeOpt.c -std=c99
+ 1984  ./a.out
+ 1985  echo $
+ 1986  echo $?
+ 1987  vim   pipeOpt.c
+ 1988  ll
+ 1989  car zsh_history
+ 1990  cat zsh_history
+ 1991  ls
+ 1992  clear
+ 1993  ls
+ 1994  dotnet
+ 1995  dotnet --info
+ 1996  clear
+ 1997  ls
+ 1998  clear
+ 1999  ls
+ 2000  code
+ 2001  ls
+ 2002  os_kernel_ancy
+ 2003  ls
+ 2004  ipc
+ 2005  ll
+ 2006  clear
+ 2007  ls
+ 2008  clear
+ 2009  ls
+ 2010  code
+ 2011  ls
+ 2012  os_kernel_ancy
+ 2013  ls
+ 2014  ipc
+ 2015  ls
+ 2016  clear
+ 2017  cl
+ 2018  ls\\
+ 2019  
+ 2020  cat pipeOpt.c
+ 2021  ls
+ 2022  vim test.c
+ 2023  ls
+ 2024  clear
+ 2025  ls
+ 2026  rm  test.c
+ 2027  ls
+ 2028  vim popenOpt.c
+ 2029  ls
+ 2030  mkdir 
+ 2031  ls
+ 2032  vim 1.txt
+ 2033  vim popenOpt.c
+ 2034  ㅣㄴ
+ 2035  ls
+ 2036  code
+ 2037  ls
+ 2038  cod
+ 2039  ls
+ 2040  os_kernel_ancy
+ 2041  ls
+ 2042  ipc
+ 2043  ls
+ 2044  clear
+ 2045  ls
+ 2046  vim popenOpt.c
+ 2047  gcc popenOpt.c
+ 2048  ./a.out
+ 2049  mv popenOpt.c popenOptWrite.c
+ 2050  ls
+ 2051  vim popenOptRead.c
+ 2052  ls
+ 2053  clea
+ 2054  ls
+ 2055  clear
+ 2056  ls
+ 2057  ../
+ 2058  s
+ 2059  ll
+ 2060  pcb
+ 2061  ls
+ 2062  vim upper.c
+ 2063  ../
+ 2064  ls
+ 2065  ipc
+ 2066  ls
+ 2067  vim upper.c
+ 2068  gcc upper.c -o upper
+ 2069  ls
+ 2070  clear
+ 2071  ls
+ 2072  vim upper.c
+ 2073  ls
+ 2074  vim popenOptRead.c
+ 2075  ls
+ 2076  mv  popenOptWrite.c  popenOptread.c
+ 2077  mv popenOptRead.c popenOptWrite.c
+ 2078  ls
+ 2079  clear
+ 2080  ls
+ 2081  vim popenOptWrite.c
+ 2082  gcc popenOptWrite.c
+ 2083  ./a.out
+ 2084  clear
+ 2085  ls
+ 2086  popenOptWrite.c
+ 2087  vim popenOptWrite.c
+ 2088  vim upper.c
+ 2089  ls
+ 2090  clear
+ 2091  lsl
+ 2092  ls
+ 2093  cat popenOptread.c
+ 2094  ls
+ 2095  cear
+ 2096  clear
+ 2097  ls
+ 2098  cat popenOptWrite.c
+ 2099  clear
+ 2100  ls
+ 2101  l
+ 2102  code
+ 2103  ls
+ 2104  os_kernel_ancy
+ 2105  ls
+ 2106  ipc
+ 2107  s
+ 2108  ll
+ 2109  clear
+ 2110  ls
+ 2111  mkfifo tube
+ 2112  ls
+ 2113  ll
+ 2114  ls
+ 2115  clear
+ 2116  l;s
+ 2117  ls
+ 2118  clear
+ 2119  ls
+ 2120  dotnet
+ 2121  dotnet --list-sdks
+ 2122  clear
+ 2123  ]ls
+ 2124  ls
+ 2125  code
+ 2126  ;s
+ 2127  ll
+ 2128  os_kernel_ancy
+ 2129  ll
+ 2130  ipc
+ 2131  clear
+ 2132  ls
+ 2133  ll
+ 2134  clear
+ 2135  ls
+ 2136  cat popenOptWrite.c
+ 2137  ls -al
+ 2138  vim fifoOptRead.c
+ 2139  vim fifoOptWrite.c
+ 2140  ls
+ 2141  clear
+ 2142  ls
+ 2143  vim fifoOptRead.c
+ 2144  vim popenOptWrite.c
+ 2145  vim fifoOptWrite.c
+ 2146  vim fifoOptRead.c
+ 2147  gcc fifoOptRead.c -o read
+ 2148  gcc fifoOptWrite.c -o write
+ 2149  ls
+ 2150  clear
+ 2151  ls
+ 2152  clear
+ 2153  ls
+ 2154  code
+ 2155  ls
+ 2156  klk
+ 2157  ll
+ 2158  ls
+ 2159  os_kernel_ancy
+ 2160  ls
+ 2161  clear
+ 2162  ks
+ 2163  ls
+ 2164  ipc
+ 2165  ls
+ 2166  clear
+ 2167  ls
+ 2168  clear
+ 2169  ls]
+ 2170  ls
+ 2171  clear
+ 2172  ls
+ 2173  cleart
+ 2174  clear
+ 2175  ll
+ 2176  clear
+ 2177  ;s
+ 2178  ll
+ 2179  cleat
+ 2180  clear
+ 2181  ls
+ 2182  ./write
+ 2183  ./
+ 2184  ls
+ 2185  clear
+ 2186  ls
+ 2187  ./read
+ 2188  ls
+ 2189  vim fifoOptWrite.c
+ 2190  vim fifoOptRead.c
+ 2191  ls
+ 2192  cleart
+ 2193  c
+ 2194  clear
+ 2195  ls
+ 2196  Ls
+ 2197  code
+ 2198  ls
+ 2199  os_kernel_ancy
+ 2200  ls
+ 2201  ipc
+ 2202  Ls
+ 2203  ls
+ 2204  read
+ 2205  write
+ 2206  rm write
+ 2207  gcc fifoOptWrite.c -o writefifo
+ 2208  ls
+ 2209  ./writefifo
+ 2210  vim fifoOptWrite.c
+ 2211  vim fifoOptRead.c
+ 2212  gcc fifoOptRead.c -o read
+ 2213  read
+ 2214  ls
+ 2215  ./writefifo
+ 2216  vim fifoOptWrite.c
+ 2217  vim fifoOptRead.c
+ 2218  gcc fifoOptRead.c -o read
+ 2219  ./a.out
+ 2220  ls
+ 2221  read
+ 2222  ./read
+ 2223  gcc fifoOptWrite.c
+ 2224  ls
+ 2225  ./a.out
+ 2226  vim gcc fifoOptWrite.c
+ 2227  vim  fifoOptWrite.c
+ 2228  vim fifoOptRead.c
+ 2229  ls
+ 2230  clear
+ 2231  ls
+ 2232  vim fifoOptRead.c
+ 2233  vim fifoOptWrite.c
+ 2234  ls
+ 2235  clear
+ 2236  Ls
+ 2237  ll
+ 2238  clear
+ 2239  ls
+ 2240  clear
+ 2241  vim fifoOptWrite.c
+ 2242  gcc  fifoOptWrite.c
+ 2243  ./a.out
+ 2244  gcc fifoOptRead.c -o read
+ 2245  ./a.out
+ 2246  ./read
+ 2247  ./a.out
+ 2248  ./a.outls
+ 2249  ls
+ 2250  clear
+ 2251  coe
+ 2252  l
+ 2253  code
+ 2254  ls
+ 2255  clear
+ 2256  ls
+ 2257  os_kernel_ancy
+ 2258  ls
+ 2259  ipc
+ 2260  ls
+ 2261  clear
+ 2262  ll
+ 2263  stat ./a.out
+ 2264  clear
+ 2265  code
+ 2266  ls
+ 2267  os_kernel_ancy
+ 2268  ls
+ 2269  clear
+ 2270  ls
+ 2271  ipc
+ 2272  ls
+ 2273  ll
+ 2274  code
+ 2275  clear
+ 2276  ls
+ 2277  os_kernel_ancy
+ 2278  ls
+ 2279  ipc
+ 2280  ls
+ 2281  cat 1.txt
+ 2282  stats a.out
+ 2283  stat a.out
+ 2284  lls
+ 2285  clear
+ 2286  ls
+ 2287  l
+ 2288  cl
+ 2289  ls
+ 2290  code
+ 2291  ls
+ 2292  os_kernel_ancy
+ 2293  ls
+ 2294  ipc
+ 2295  ls
+ 2296  vim shmopt.c
+ 2297  gcc shmopt.c
+ 2298  ./a.out
+ 2299  vim shmopt.c
+ 2300  gcc shmopt.c
+ 2301  ./a.out
+ 2302  vim shmopt.c
+ 2303  GCC shmopt.c
+ 2304  gcc shmopt.c
+ 2305  ./a.out
+ 2306  vim shmopt.c
+ 2307  gcc shmopt
+ 2308  gcc shmopt.c -o shmopt
+ 2309  ls
+ 2310  ipcs
+ 2311  ./shmopt
+ 2312  ipcs
+ 2313  vim shmopt.c
+ 2314  ls
+ 2315  vim shmopt.c
+ 2316  gcc shmopt.c
+ 2317  ./a.out
+ 2318  strace  ipcs
+ 2319  ipcs
+ 2320  ls
+ 2321  cat shmopt.c
+ 2322  lc
+ 2323  ls
+ 2324  cod
+ 2325  ls
+ 2326  clear
+ 2327  ls
+ 2328  copde
+ 2329  ls
+ 2330  cdoe
+ 2331  code
+ 2332  ls
+ 2333  os_kernel_ancy
+ 2334  lsl
+ 2335  clear
+ 2336  ls
+ 2337  ipc
+ 2338  ls
+ 2339  clear
+ 2340  ls
+ 2341  ../
+ 2342  ls
+ 2343  code
+ 2344  ls
+ 2345  os_kernel_ancy
+ 2346  ls
+ 2347  ipc
+ 2348  ls
+ 2349  clear
+ 2350  kls
+ 2351  ls
+ 2352  vim shmopt.c
+ 2353  gcc shmopt.c
+ 2354  gcc shmopt.c -std=c99
+ 2355  ls
+ 2356  clear
+ 2357  ls
+ 2358  vim shmopt.c
+ 2359  gcc shmopt.c -std=c99
+ 2360  gcc shmopt.c 
+ 2361  cclear
+ 2362  ls
+ 2363  clear
+ 2364  ll
+ 2365  ./shmopt
+ 2366  ipcs
+ 2367  ls
+ 2368  ipcrm -m 0x090108a3
+ 2369  ipcrm -m 0
+ 2370  ipcs
+ 2371  ls
+ 2372  clear
+ 2373  ls
+ 2374  ll
+ 2375  ls
+ 2376  shmopt
+ 2377  ls
+ 2378  ./shmopt
+ 2379  ls
+ 2380  ipcs
+ 2381  ipcrm -m 32768
+ 2382  ls
+ 2383  vim shmopt.c
+ 2384  gcc shmopt.c
+ 2385  ./a.out
+ 2386  gcc shmopt.c -o shmopt
+ 2387  ./shmopt
+ 2388  vim shmopt.c
+ 2389  ls
+ 2390  clear
+ 2391  ls
+ 2392  code
+ 2393  ls
+ 2394  os_kernel_ancy
+ 2395  ls
+ 2396  ipc
+ 2397  ls
+ 2398  clear
+ 2399  ls
+ 2400  ll
+ 2401  clear
+ 2402  ll
+ 2403  ls
+ 2404  vim  shmopt.c
+ 2405  FG
+ 2406  fg
+ 2407  vim shmopt.c
+ 2408  gcc shmopt.c -std=c99
+ 2409  ./a.out 
+ 2410  ipcs
+ 2411  ipcrm -m 65536
+ 2412  ls
+ 2413  clear
+ 2414  ls
+ 2415  clear
+ 2416  ls
+ 2417  shmopt
+ 2418  ./shmopt
+ 2419  vim shmopt.c
+ 2420  gcc shmopt.c
+ 2421  ./a.out
+ 2422  vim shmopt.c
+ 2423  gcc shmopt.c
+ 2424  ./a.out
+ 2425  vim shmopt.c
+ 2426  gcc  shmopt.c  -o shmopt
+ 2427  ./shmopt
+ 2428  vim shmopt.c
+ 2429  gcc  shmopt.c  -o shmopt
+ 2430  ./shmopt
+ 2431  vim shmopt.c
+ 2432  gcc  shmopt.c  -o shmopt
+ 2433  ./shmopt
+ 2434  gcc  shmopt.c  -o shmopt
+ 2435  vim shmopt.c
+ 2436  gcc  shmopt.c  -o shmopt
+ 2437  ./shmopt
+ 2438  vim shmopt.c
+ 2439  gcc  shmopt.c
+ 2440  ./a.out
+ 2441  vim shmopt.c
+ 2442  gcc  shmopt.c
+ 2443  ./a.out
+ 2444  vim shmopt.c
+ 2445  gcc  shmopt.c
+ 2446  ./a.out
+ 2447  vim shmopt.c
+ 2448  gcc  shmopt.c
+ 2449  ./a.out
+ 2450  vim shmopt.c
+ 2451  gcc  shmopt.c
+ 2452  ./a.out
+ 2453  vim shmopt.c
+ 2454  gcc  shmopt.c
+ 2455  vim shmopt.c
+ 2456  gcc  shmopt.c
+ 2457  ./a.out
+ 2458  vim vim shmopt.c
+ 2459  vimshmopt.c
+ 2460  vim shmopt.c 
+ 2461  ipcs
+ 2462  clear
+ 2463  strace ./a.out
+ 2464  l
+ 2465  s
+ 2466  l
+ 2467  clear
+ 2468  ls
+ 2469  code
+ 2470  ls
+ 2471  os_kernel_ancy
+ 2472  l
+ 2473  ipc
+ 2474  ls
+ 2475  clear
+ 2476  ls
+ 2477  strace ./a.out
+ 2478  ls
+ 2479  l
+ 2480  ipcs
+ 2481  vim pipeOpt.c
+ 2482  ls
+ 2483  clear
+ 2484  ls
+ 2485  vim shmopt.c
+ 2486  gcc shmopt.c -std=c99
+ 2487  ls
+ 2488  gcc shmopt.c -o shmopt
+ 2489  vim shmopt.c
+ 2490  gcc shmopt
+ 2491  vim shmopt.c
+ 2492  gcc shmopt.c
+ 2493  ./a.out
+ 2494  ipcs
+ 2495  vim shmopt.c
+ 2496  ipcs
+ 2497  ipcrm 98304
+ 2498  ipcrm -m  98304
+ 2499  ls
+ 2500  clear
+ 2501  ls
+ 2502  a.out
+ 2503  ./a.out
+ 2504  ipcs
+ 2505  shmopt
+ 2506  ./shmopt
+ 2507  ./a.out
+ 2508  ipcs
+ 2509  ipcm -t 131072
+ 2510  ls
+ 2511  ipcrm -m 131072
+ 2512  ls
+ 2513  ll
+ 2514  clear
+ 2515  ls
+ 2516  ll
+ 2517  lll
+ 2518  ll
+ 2519  clear
+ 2520  e;
+ 2521  clear
+ 2522  ls
+ 2523  clear
+ 2524  ls
+ 2525  ll
+ 2526  code
+ 2527  ls
+ 2528  os_kernel_ancy
+ 2529  ls
+ 2530  ipc
+ 2531  s
+ 2532  l
+ 2533  vim shmopt
+ 2534  ls
+ 2535  vim shmopt.c
+ 2536  ls
+ 2537  clear
+ 2538  ls
+ 2539  vim shmopt.c
+ 2540  ls
+ 2541  vim shmopt.c
+ 2542  ls
+ 2543  clear
+ 2544  vim shmopt.c
+ 2545  ll
+ 2546  clear
+ 2547  ls
+ 2548  gcc shmopt.c
+ 2549  clear
+ 2550  ls
+ 2551  vim shmopt
+ 2552  clear
+ 2553  ls
+ 2554  vim shmopt.c
+ 2555  gcc shmopt.c
+ 2556  ./a.out
+ 2557  ls
+ 2558  clear
+ 2559  ls
+ 2560  ipcs
+ 2561  shmopt
+ 2562  ./shmopt.c
+ 2563  ./shmopt
+ 2564  ./a.out
+ 2565  ls
+ 2566  clear
+ 2567  ls
+ 2568  vim shmopt.c
+ 2569  ls
+ 2570  clear
+ 2571  ls
+ 2572  ips
+ 2573  ipcs
+ 2574  ipcrm -m 163840
+ 2575  ls
+ 2576  clear
+ 2577  ls
+ 2578  163840
+ 2579  ls
+ 2580  ipcs
+ 2581  ls
+ 2582  man man
+ 2583  ls
+ 2584  ipcs 
+ 2585  vim MessQueopt.c
+ 2586  ls
+ 2587  l
+ 2588  ll
+ 2589  ipcs
+ 2590  ls
+ 2591  vim MessQueopt.c
+ 2592  gcc MessQueopt.c
+ 2593  ./a.out
+ 2594  ipcs
+ 2595  ll
+ 2596  vim MessQueopt.c
+ 2597  ./a.out
+ 2598  ls
+ 2599  gcc MessQueopt.c
+ 2600  ./a.out
+ 2601  ipcs
+ 2602  ll
+ 2603  clear
+ 2604  ls
+ 2605  clear
+ 2606  l
+ 2607  vim MessQueopt.c
+ 2608  ipcs
+ 2609  ls
+ 2610  man ipcrm 
+ 2611  ls
+ 2612  clear
+ 2613  ls
+ 2614  ipcs
+ 2615  ipcrm -q 0
+ 2616  ls
+ 2617  ipcs
+ 2618  gcc MessQueopt.c
+ 2619  ./a.out
+ 2620  ipcs
+ 2621  vim MessQueopt.c
+ 2622  ls
+ 2623  clear
+ 2624  ls
+ 2625  ll
+ 2626  clear
+ 2627  ls
+ 2628  coede
+ 2629  code
+ 2630  ls
+ 2631  os_kernel_ancy
+ 2632  ls
+ 2633  ipc
+ 2634  ls
+ 2635  cat fifoOptRead.c
+ 2636  lsc
+ 2637  ls
+ 2638  clea
+ 2639  r
+ 2640  clea
+ 2641  clear
+ 2642  ls
+ 2643  cat 1.txt
+ 2644  ./
+ 2645  ls
+ 2646  ../
+ 2647  ls
+ 2648  ipc
+ 2649  ls
+ 2650  clear
+ 2651  l;s
+ 2652  ll
+ 2653  clear
+ 2654  ls
+ 2655  vim MessQueopt.c
+ 2656  gcc  MessQueopt.c
+ 2657  ./a.out
+ 2658  ipc
+ 2659  ipcs
+ 2660  vim MessQueopt.c
+ 2661  vim MessRcvopt.c
+ 2662  cat  MessQueopt.c
+ 2663  vim MessRcvopt.c
+ 2664  gccMessRcvopt.c
+ 2665  gcc MessRcvopt.c
+ 2666  ./a.out
+ 2667  vim MessRcvopt.c
+ 2668  gcc v
+ 2669  gcc MessRcvopt.c
+ 2670  ./a.out
+ 2671  man msgrvw
+ 2672  man msgrcb
+ 2673  man msgrcv
+ 2674  ll
+ 2675  ls -all
+ 2676  clear
+ 2677  olll
+ 2678  clear
+ 2679  ls
+ 2680  \tcl
+ 2681  lll
+ 2682  ll
+ 2683  ThirdPartyNotices.txt
+ 2684  cat ThirdPartyNotices
+ 2685  cat ThirdPartyNotices.txt
+ 2686  clear
+ 2687  code
+ 2688  ls
+ 2689  os_kernel_ancy
+ 2690  ls
+ 2691  clear
+ 2692  ipc
+ 2693  ../
+ 2694  ls
+ 2695  mkdir signal
+ 2696  ls
+ 2697  signal
+ 2698  ls
+ 2699  ll
+ 2700  clear
+ 2701  ls
+ 2702  cl
+ 2703  ls
+ 2704  code
+ 2705  ks
+ 2706  ls
+ 2707  clear
+ 2708  ls
+ 2709  os_kernel_ancy
+ 2710  ls
+ 2711  signal
+ 2712  clear
+ 2713  l;s
+ 2714  ls
+ 2715  clear
+ 2716  ls
+ 2717  lll
+ 2718  clear
+ 2719  ls
+ 2720  clear
+ 2721  ll
+ 2722  clear
+ 2723  ls
+ 2724  ;s
+ 2725  ll
+ 2726  ls
+ 2727  lsl
+ 2728  ls
+ 2729  clear
+ 2730  ls
+ 2731  clear
+ 2732  ls
+ 2733  kill -l
+ 2734  kill -all
+ 2735  kill -l
+ 2736  man kill
+ 2737  kill -t
+ 2738  man kill
+ 2739  man -L
+ 2740  kill -l
+ 2741  kill -L
+ 2742  man 7 signal
+ 2743  ulimit -a
+ 2744  ulimit -c
+ 2745  ulimit -a
+ 2746  ulimit -a -t
+ 2747  34434
+ 2748  ulimit -a
+ 2749  clear
+ 2750  ls
+ 2751  vim SIGQUIT.c
+ 2752  gcc SIGQUIT.c
+ 2753  =en
+ 2754  ls
+ 2755  clear
+ 2756  ls
+ 2757  clear
+ 2758  ls
+ 2759  coe
+ 2760  ls
+ 2761  ./a.out
+ 2762  ps -u
+ 2763  ls
+ 2764  kill -s 29052
+ 2765  kill -3 29052
+ 2766  ./a.out
+ 2767  kill -3 29052\n: 1673681213:0;ps -u
+ 2768  kill -3 29069
+ 2769  ls
+ 2770  kill -3 29069
+ 2771  ls
+ 2772  ./a.out
+ 2773  ps u
+ 2774  kill -3 29102
+ 2775  kill -3 29098
+ 2776  ls
+ 2777  clear
+ 2778  ls]
+ 2779  ll
+ 2780  clear
+ 2781  ll
+ 2782  cleasr
+ 2783  clear
+ 2784  ls
+ 2785  ./a.out
+ 2786  ls
+ 2787  code
+ 2788  ls
+ 2789  ../
+ 2790  ls
+ 2791  pu -s
+ 2792  ps u
+ 2793  ./a.out
+ 2794  kill -l
+ 2795  ps
+ 2796  ps u
+ 2797  kill QUIT 29161
+ 2798  l
+ 2799  ;s
+ 2800  l
+ 2801  kill -l
+ 2802  kill -L
+ 2803  kill 
+ 2804  man kill
+ 2805  kill -all
+ 2806  man kill
+ 2807  man -p
+ 2808  dotnet 
+ 2809  dotnet  --list 
+ 2810  dotnet  --list -sdks
+ 2811  kill -l
+ 2812  lsclear
+ 2813  clear
+ 2814  ./a.out
+ 2815  pu
+ 2816  ps u
+ 2817  kill -SEGV 29338
+ 2818  ls
+ 2819  ll
+ 2820  ls -all
+ 2821  ulimit -c 1024
+ 2822  ls
+ 2823  ./a.out
+ 2824  ulimit -c 1024
+ 2825  kill -SEGV 29338
+ 2826  ps
+ 2827  ps u
+ 2828  ls
+ 2829  kill -SEGV   29388
+ 2830  ls
+ 2831  clear
+ 2832  ls
+ 2833  clearl
+ 2834  s
+ 2835  l;lc
+ 2836  clear
+ 2837  ls
+ 2838  strace ./a.out
+ 2839  ls
+ 2840  clear
+ 2841  ls
+ 2842  clear
+ 2843  ls
+ 2844  code
+ 2845  clear
+ 2846  ls
+ 2847  clear
+ 2848  ls
+ 2849  cleaar
+ 2850  ls
+ 2851  clear
+ 2852  ls
+ 2853  os_kernel_ancy
+ 2854  ls
+ 2855  clear
+ 2856  ls
+ 2857  clear
+ 2858  ls
+ 2859  cod
+ 2860  code
+ 2861  ls
+ 2862  os_kernel_ancy
+ 2863  ls
+ 2864  signal
+ 2865  ls
+ 2866  clear
+ 2867  ls
+ 2868  clear
+ 2869  ls
+ 2870  vim KillOpt.c
+ 2871  clear
+ 2872  ..
+ 2873  ls
+ 2874  ../
+ 2875  ]
+ 2876  ls
+ 2877  cpulssyntax
+ 2878  ls
+ 2879  vim arr.c
+ 2880  gcc arr.c
+ 2881  ./a.out
+ 2882  clear
+ 2883  ./a.out
+ 2884  ll
+ 2885  clear
+ 2886  rm arr.c tilde.c
+ 2887  ls
+ 2888  mv arr.c tilde.c
+ 2889  ls
+ 2890  ll
+ 2891  ls
+ 2892  clear
+ 2893  vim tildekeyword.c
+ 2894  ls
+ 2895  clear
+ 2896  ls
+ 2897  mv tildekeyword.c  tildekeyword.cpp
+ 2898  mkdir keyword
+ 2899  ls
+ 2900  rm tildekeyword.cpp
+ 2901  keyword
+ 2902  ls
+ 2903  clear
+ 2904  l
+ 2905  vim tildekey.cpp
+ 2906  ls
+ 2907  clear
+ 2908  rm tildekeyword.cpp
+ 2909  ll
+ 2910  mv tildekey.cpp  tilde.cpp
+ 2911  ls
+ 2912  vim tilde.cpp
+ 2913  g++ tilde.cpp    
+ 2914  ./a.out
+ 2915  vim tilde.cpp
+ 2916  g++ tilde.cpp    
+ 2917  ./a.out
+ 2918  vim tilde.cpp
+ 2919  :wq
+ 2920  ..
+ 2921  ../
+ 2922  ls
+ 2923  os_kernel_ancy
+ 2924  ls
+ 2925  clear
+ 2926  ls
+ 2927  signal
+ 2928  lls
+ 2929  ls
+ 2930  vum  KillOpt.c
+ 2931  vim  KillOpt.c
+ 2932  ls
+ 2933  code
+ 2934  ls
+ 2935  os_kernel_ancy
+ 2936  l
+ 2937  fignal
+ 2938  signal
+ 2939  ls
+ 2940  clear
+ 2941  ls
+ 2942  vim KillOpt.c
+ 2943  gcc KillOpt.c
+ 2944  ./a.out
+ 2945  vim KillOpt.c
+ 2946  gcc KillOpt.c
+ 2947  ./a.out
+ 2948  vim KillOpt.c
+ 2949  gcc KillOpt.c
+ 2950  ./a.iyt
+ 2951  ./a.out
+ 2952  ls
+ 2953  gcc KillOpt.c
+ 2954  ./a.out
+ 2955  ps u
+ 2956  ls
+ 2957  vim KillOpt.c
+ 2958  gcc KillOpt.c
+ 2959  ./a.out
+ 2960  vim KillOpt.c
+ 2961  gcc KillOpt.c
+ 2962  ./a.out
+ 2963  vim KillOpt.c
+ 2964  gcc  #include <sys/types.h>
+ 2965  ls
+ 2966  gcc KillOpt.c 
+ 2967  ./a.out
+ 2968  vim KillOpt.c
+ 2969  ls
+ 2970  clea
+ 2971  clear
+ 2972  s
+ 2973  ll
+ 2974  gcc KillOpt.c
+ 2975  ./a.out
+ 2976  clear
+ 2977  ls
+ 2978  vim KillOpt.c
+ 2979  gcc KillOpt.c
+ 2980  ./a.out
+ 2981  ls
+ 2982  rm  core.29388
+ 2983  ls
+ 2984  ll
+ 2985  ls
+ 2986  ll
+ 2987  ./a.out
+ 2988  vim KillOpt.c
+ 2989  gcc KillOpt.c
+ 2990  ./a.out
+ 2991  ll
+ 2992  clear
+ 2993  ls
+ 2994  gcc KillOpt.c
+ 2995  ./a.out
+ 2996  l
+ 2997  ,,
+ 2998  ll
+ 2999  clear
+ 3000  ls
+ 3001  ./a.out
+ 3002  ls
+ 3003  vim KillOpt.c
+ 3004  gcc KillOpt.c
+ 3005  ./a.out
+ 3006  ll
+ 3007  clear
+ 3008  ls
+ 3009  clear
+ 3010  ./a.outulimi
+ 3011  ulimit -a
+ 3012  ulimit -c 100
+ 3013  ./a.out
+ 3014  ll
+ 3015  clear
+ 3016  s
+ 3017  ls
+ 3018  vim KillOpt.c
+ 3019  man raise
+ 3020  man abort
+ 3021  ls
+ 3022  clear
+ 3023  ls
+ 3024  vim raiseOpt
+ 3025  ls
+ 3026  vim raiseOpt.c
+ 3027  gcc raiseOpt.c
+ 3028  ./a.out
+ 3029  vim raiseOpt.c
+ 3030  vim pipesignalOpt.c
+ 3031  clear
+ 3032  ls
+ 3033  rm core.1*
+ 3034  ls
+ 3035  vim pipesignalOpt.c
+ 3036  kk
+ 3037  ll
+ 3038  code
+ 3039  ls
+ 3040  clos_kernel_ancy
+ 3041  ]\os_kernel_ancy
+ 3042  os_kernel_ancy
+ 3043  s
+ 3044  ll
+ 3045  signal
+ 3046  ls
+ 3047  clear
+ 3048  ls
+ 3049  vim pipesignalOpt.c
+ 3050  gcc pipesignalOpt.c
+ 3051  ./a.out
+ 3052  clear
+ 3053  ls
+ 3054  kill - 
+ 3055  kill -l
+ 3056  man kill 
+ 3057  sllll
+ 3058  clea
+ 3059  rr
+ 3060  clear
+ 3061  ls
+ 3062  vim pipesignalOpt.c
+ 3063  ls
+ 3064  clear
+ 3065  ls
+ 3066  kill -l
+ 3067  kill -l 
+ 3068  vim pipesignalOpt.c
+ 3069  gcc pipesignalOpt.c
+ 3070  ./a.out
+ 3071  vim pipesignalOpt.c
+ 3072  gcc pipesignalOpt.c
+ 3073  ./a.out
+ 3074  clear
+ 3075  ls
+ 3076  vim pipesignalOpt.c
+ 3077  ls
+ 3078  ./a.out
+ 3079  ls
+ 3080  clear
+ 3081  man alarm
+ 3082  clear
+ 3083  ls
+ 3084  vim alarmOpt.c
+ 3085  :ulimit -a
+ 3086  ulimit -a
+ 3087  ulimit -c 40
+ 3088  s
+ 3089  ls
+ 3090  clear
+ 3091  ls
+ 3092  vim  pipesignalOpt.c 
+ 3093  clear
+ 3094  ls
+ 3095  vim alarmOpt.c
+ 3096  gcc alarmOpt.c
+ 3097  ./a.out
+ 3098  ll
+ 3099  vim alarmOpt.c
+ 3100  gcc  alarmOpt.c
+ 3101  ./a.out
+ 3102  vim alarmOpt.c
+ 3103  ls
+ 3104  clear
+ 3105  ls
+ 3106  gcc pipesignalOpt.c
+ 3107  clear
+ 3108  ll
+ 3109  gcc pipesignalOpt.c
+ 3110  ./a.out
+ 3111  gcc raiseOpt.c
+ 3112  ./a.out
+ 3113  gcc alarmOpt.c
+ 3114  ./a.out
+ 3115  vim alarmOpt.c
+ 3116  clear
+ 3117  l
+ 3118  clear
+ 3119  ls
+ 3120  vm raiseOpt.c
+ 3121  vim raiseOpt.c
+ 3122  ls
+ 3123  vim alarmOpt.c
+ 3124  ls
+ 3125  code
+ 3126  s
+ 3127  l
+ 3128  s
+ 3129  os_kernel_ancy
+ 3130  ls
+ 3131  signal
+ 3132  ls
+ 3133  clear
+ 3134  ls
+ 3135  rm  core.3680
+ 3136  ll
+ 3137  clear
+ 3138  ls
+ 3139  ll
+ 3140  clear
+ 3141  ls
+ 3142  l
+ 3143  clear
+ 3144  ls
+ 3145  ,
+ 3146  ls
+ 3147  ps u
+ 3148  ll
+ 3149  clear
+ 3150  ls
+ 3151  ll
+ 3152  jobs
+ 3153  l
+ 3154  ls
+ 3155  man sigprocmask
+ 3156  ls
+ 3157  clear
+ 3158  ls
+ 3159  ll
+ 3160  l
+ 3161  man sigprocmask
+ 3162  ls
+ 3163  clear
+ 3164  vim sigmask.c
+ 3165  gcc sigmask.c
+ 3166  ./a.out
+ 3167  vim sigmask.c
+ 3168  gcc v
+ 3169  gcc sigmask.c
+ 3170  l
+ 3171  clear
+ 3172  l
+ 3173  s
+ 3174  ls
+ 3175  gcc alarmOpt.c\\
+ 3176  alarmOpt.c
+ 3177  gcc alarmOpt.c
+ 3178  ./a.out
+ 3179  gcc  sigmask.c
+ 3180  ./a.out
+ 3181  /
+ 3182  .
+ 3183  clear
+ 3184  cd
+ 3185  ls
+ 3186  code
+ 3187  ls
+ 3188  os_kernel_ancy
+ 3189  ls
+ 3190  signal
+ 3191  cle
+ 3192  ls
+ 3193  vim sigmask.c
+ 3194  clear
+ 3195  s
+ 3196  l
+ 3197  s
+ 3198  vim sigmask.c
+ 3199  gcc SIGSEGV
+ 3200  ls
+ 3201  gcc sigmask.c
+ 3202  ./a.out
+ 3203  vim sigmask.c
+ 3204  gcc sigmask.c
+ 3205  ./a.out
+ 3206  clear
+ 3207  vim sigmask.c
+ 3208  clear
+ 3209  ls
+ 3210  man 7 signal
+ 3211  clear
+ 3212  lll
+ 3213  ls
+ 3214  cp sigmask.c pendingmask.c
+ 3215  ls
+ 3216  vim pendingmask.c
+ 3217  ls
+ 3218  code
+ 3219  ls
+ 3220  coear
+ 3221  clear
+ 3222  lsl
+ 3223  ls
+ 3224  os_kernel_ancy
+ 3225  ls
+ 3226  signal
+ 3227  ls
+ 3228  clear
+ 3229  ls
+ 3230  vim pendingmask.c
+ 3231  ll
+ 3232  clear
+ 3233  ls
+ 3234  gcc v
+ 3235  gcc pendingmask.c
+ 3236  ./a.out
+ 3237  lls
+ 3238  vim pendingmask.c
+ 3239  gcc \pendingmask.c
+ 3240  gcc pendingmask.c
+ 3241  ./a.out
+ 3242  clear
+ 3243  ls
+ 3244  vim pendingmask.c
+ 3245  gcc pendingmask.c
+ 3246  ./a.out
+ 3247  vim 的
+ 3248  ;s
+ 3249  ls
+ 3250  vim pendingmask.c
+ 3251  gcc pendingmask.c
+ 3252  ./a.out
+ 3253  vim pendingmask.c
+ 3254  gcc pendingmask.c
+ 3255  ./a.out
+ 3256  fg 
+ 3257  cl
+ 3258  ls
+ 3259  clear
+ 3260  ls
+ 3261  ../
+ 3262  l
+ 3263  lll
+ 3264  ll
+ 3265  signal
+ 3266  ls
+ 3267  clear
+ 3268  ls
+ 3269  l
+ 3270  ll
+ 3271  cat SIGQUIT.c
+ 3272  ll
+ 3273  cat pendingmask.c
+ 3274  kk
+ 3275  ll
+ 3276  ls
+ 3277  code
+ 3278  ls
+ 3279  man sigaction
+ 3280  ls
+ 3281  code
+ 3282  ls
+ 3283  os_kernel_ancy
+ 3284  ls
+ 3285  signal
+ 3286  ls
+ 3287  clear
+ 3288  ls
+ 3289  ...
+ 3290  lsl
+ 3291  ls
+ 3292  os_kernel_ancy
+ 3293  ;ls
+ 3294  signal
+ 3295  clear
+ 3296  ls
+ 3297  vim handler.c
+ 3298  LS
+ 3299  ls
+ 3300  code
+ 3301  ls
+ 3302  os_kernel_ancy
+ 3303  ls
+ 3304  signal
+ 3305  sl
+ 3306  ls
+ 3307  signal
+ 3308  l  \\
+ 3309  termius_osc() { printf "\001"\\
+ 3310  "\033]4545;"\\
+ 3311  "{\"dir\":\"$1\"}"\\
+ 3312  "\007"\\
+ 3313  "\002"; \\
+ 3314  }
+ 3315  ll
+ 3316  ccode
+ 3317  ls
+ 3318  code
+ 3319  ls
+ 3320  ll
+ 3321  ls -all
+ 3322  ks
+ 3323  ls
+ 3324  ks
+ 3325  lsc
+ 3326  ls
+ 3327  vim 1.txt
+ 3328  vim 1.c
+ 3329  \tLS
+ 3330  ls
+ 3331  codfe
+ 3332  sl
+ 3333  code
+ 3334  ls
+ 3335  os_kernel_ancy
+ 3336  ls
+ 3337  code
+ 3338  signal
+ 3339  ls
+ 3340  clear
+ 3341  ls
+ 3342  vim handler.c
+ 3343  gcc handler.c
+ 3344  ls
+ 3345  ./a.out
+ 3346  clear
+ 3347  ls
+ 3348  vim raiseOpt.c
+ 3349  vim han
+ 3350  vim handler.c
+ 3351  gcc raiseOpt.c
+ 3352  gcc handler.c
+ 3353  ./a.out
+ 3354  vim handler.c
+ 3355  .ls
+ 3356  l
+ 3357  clear
+ 3358  l
+ 3359  gcc handler.c
+ 3360  ./a.out
+ 3361  l
+ 3362  vim handler.c
+ 3363  ls
+ 3364  clear
+ 3365  man man
+ 3366  ls
+ 3367  ll
+ 3368  vim sleeOpt.c
+ 3369  mv  sleeOpt.c
+ 3370  mv sleeOpt.c sleepOpc.c
+ 3371  ls
+ 3372  mv sleepOpc.c sleepOpt.c
+ 3373  ls
+ 3374  vim sleepOpc.c
+ 3375  vim sleepOpt.c
+ 3376  ls
+ 3377  clearl
+ 3378  clear
+ 3379  ls
+ 3380  vim sleepOpt.c
+ 3381  gcc sleepOpt.c
+ 3382  ./a.out
+ 3383  vim sleepOpt.c
+ 3384  ll
+ 3385  vim handler.c
+ 3386  vim sigmask.c
+ 3387  vim handler.c
+ 3388  ls
+ 3389  ll
+ 3390  vim       EINVAL An invalid signal was specified.  This will also be generated if an attempt is made to change the  action
+ 3391  ls
+ 3392  clearr
+ 3393  l
+ 3394  lear
+ 3395  ls
+ 3396  clearl
+ 3397  clear
+ 3398  ll
+ 3399  cat sleepOpt.c
+ 3400  clear
+ 3401  ls
+ 3402  vim sleepOpt.c
+ 3403  ls
+ 3404  clear
+ 3405  ks
+ 3406  ls
+ 3407  clear
+ 3408  ls
+ 3409  vim sleepOpt.c
+ 3410  gcc sleepOpt.c
+ 3411  ./a.out
+ 3412  clear
+ 3413  ls
+ 3414  vim sleepOpt.c
+ 3415  clear
+ 3416  ll
+ 3417  vim sleepOpt.c
+ 3418  clear
+ 3419  .pause() returns only when a signal was caught and the signal-c
+ 3420  ls
+ 3421  vim sleepOpt.c
+ 3422  .pause() returns only when a signal was caught and the signal
+ 3423  gcc sleepOpt.c
+ 3424  ./a.out
+ 3425  ls
+ 3426  vim sleepOpt.c
+ 3427  eixt
+ 3428  ll
+ 3429  code
+ 3430  ll
+ 3431  clear
+ 3432  ls
+ 3433  ^M
+ 3434  https://cn.bing.com/search\?q\=termius+Beta+%E7%A0%B4%E8%A7%A3\&qs\=n\&form\=QBRE\&setmkt\=zh-CN\&sp\=-1\&pq\=termius+beta+po\&sc\=7-15\&sk\=\&cvid\=A958C9FB32364A188E5E4B601F19869C\&ghsh\=0\&ghacc\=0\&ghpl\=
+ 3435  l
+ 3436  clear
+ 3437  ls
+ 3438  ^M
+ 3439  os_kernel_ancy
+ 3440  ls
+ 3441  cl
+ 3442  ls
+ 3443  signal
+ 3444  ls
+ 3445  clear
+ 3446  ls
+ 3447  ll
+ 3448  cle
+ 3449  clear
+ 3450  ls
+ 3451  clear
+ 3452  ls
+ 3453  vim sleepOpt.c
+ 3454  clear
+ 3455  ls
+ 3456  ll
+ 3457  clear
+ 3458  ls
+ 3459  vim sleepOpt.c
+ 3460  ls -all
+ 3461  ps -a
+ 3462  ls
+ 3463  code
+ 3464  clear
+ 3465  ls
+ 3466  LS
+ 3467  ls
+ 3468  code
+ 3469  ls
+ 3470  os_kernel_ancy
+ 3471  ls
+ 3472  signal
+ 3473  ls
+ 3474  clar
+ 3475  clear
+ 3476  ls
+ 3477  clear
+ 3478  ls
+ 3479  vim sleepOpt.c
+ 3480  ls
+ 3481  clear
+ 3482  ls
+ 3483  clear
+ 3484  ls
+ 3485  clear
+ 3486  l
+ 3487  clear
+ 3488  ll
+ 3489  vim sleepOpt.c
+ 3490  man sigsuspend
+ 3491  clear
+ 3492  ls
+ 3493  man sigsuspend
+ 3494  yum update
+ 3495  ps
+ 3496  ps -u
+ 3497  code
+ 3498  ls
+ 3499  os_kernel_ancy
+ 3500  ls
+ 3501  signal
+ 3502  ls
+ 3503  cp sleepOpt.c sleepOptex.c
+ 3504  ls
+ 3505  clear
+ 3506  ls
+ 3507  vim sleepOptex.c
+ 3508  fg
+ 3509  bg
+ 3510  bbgshared-mime-info-1.8-5.el7.x86_64.rpm                                                                           | 312 kB  00:00:00     
+ 3511  (192/215): sqlite-3.7.17-8.el7_7.1.x86_64.rpm                                                                              | 394 kB  00:00:00     
+ 3512  (193/215): sysstat-10.1.5-20.el7_9.x86_64.rpm                                                                              | 315 kB  00:00:00     
+ 3513  (194/215): systemd-219-78.el7_9.7.x86_64.rpm                                                                               | 5.1 MB  00:00:00     
+ 3514  (195/215): strace-4.24-6.el7.x86_64.rpm                                                                                    | 902 kB  00:00:00     
+ 3515  (196/215): systemd-libs-219-78.el7_9.7.x86_64.rpm                                                                          | 419 kB  00:00:00     
+ 3516  (197/215): systemd-sysv-219-78.el7_9.7.x86_64.rpm                                                                          |  97 kB  00:00:00     
+ 3517  (198/215): teamd-1.29-3.el7.x86_64.rpm                                                                                     | 116 kB  00:00:00     
+ 3518  (199/215): tuned-2.11.0-12.el7_9.noarch.rpm                                                                                | 270 kB  00:00:00     
+ 3519  (200/215): sudo-1.8.23-10.el7_9.2.x86_64.rpm                                                                               | 843 kB  00:00:00     
+ 3520  (201/215): tzdata-2022g-1.el7.noarch.rpm                                                                                   | 490 kB  00:00:00     
+ 3521  (202/215): tcpdump-4.9.2-4.el7_7.1.x86_64.rpm                                                                              | 422 kB  00:00:00     
+ 3522  (203/215): vim-enhanced-7.4.629-8.el7_9.x86_64.rpm                                                                         | 1.1 MB  00:00:00     
+ 3523  (204/215): vim-filesystem-7.4.629-8.el7_9.x86_64.rpm                                                                       |  11 kB  00:00:00     
+ 3524  (205/215): vim-common-7.4.629-8.el7_9.x86_64.rpm                                                                           | 5.9 MB  00:00:00     
+ 3525  (206/215): virt-what-1.18-4.el7_9.1.x86_64.rpm                                                                             |  30 kB  00:00:00     
+ 3526  (207/215): wpa_supplicant-2.6-12.el7_9.2.x86_64.rpm                                                                        | 1.2 MB  00:00:00     
+ 3527  (208/215): xz-5.2.2-2.el7_9.x86_64.rpm                                                                                     | 229 kB  00:00:00     
+ 3528  (209/215): xz-libs-5.2.2-2.el7_9.x86_64.rpm                                                                                | 103 kB  00:00:00     
+ 3529  (210/215): vim-minimal-7.4.629-8.el7_9.x86_64.rpm                                                                          | 443 kB  00:00:00     
+ 3530  (211/215): yum-3.4.3-168.el7.centos.noarch.rpm                                                                             | 1.2 MB  00:00:00     
+ 3531  code
+ 3532  ls
+ 3533  os_kernel_ancy
+ 3534  ls
+ 3535  signal
+ 3536  ls
+ 3537  vim sleepOptex.c
+ 3538  gcc 
+ 3539  clear
+ 3540  ls
+ 3541  gcc 
+ 3542  gcc sleepOptex.c
+ 3543  ./a.out
+ 3544  vim sleepOptex.c
+ 3545  cleart
+ 3546  clear
+ 3547  ls
+ 3548  ll
+ 3549  vim sleepOptex.c
+ 3550  gcc sleepOptex.c
+ 3551  ./a.out
+ 3552  clear
+ 3553  ll
+ 3554  clear
+ 3555  ;s
+ 3556  ls
+ 3557  clear
+ 3558  ls
+ 3559  l
+ 3560  vim waitsignalOpt.c
+ 3561  ls
+ 3562  clear
+ 3563  ls
+ 3564  vim waitsignalOpt.c\n: 1673855925:0;vim waitsignalOpt.c
+ 3565  gcc waitsignalOpt.c
+ 3566  ./a.out
+ 3567  vim waitsignalOpt.c
+ 3568  clear
+ 3569  ls
+ 3570  gcc waitsignalOpt.c
+ 3571  ./a.out
+ 3572  vim  waitsignalOpt.c
+ 3573  gcc waitsignalOpt.cH
+ 3574  gcc waitsignalOpt.c
+ 3575  ./a.out
+ 3576  vim waitsignalOpt.c
+ 3577  strace ./a.out
+ 3578  clear
+ 3579  l
+ 3580  vim waitsignalOpt.c
+ 3581  gcc waitsignalOpt.c
+ 3582  ./a.out
+ 3583  vim waitsignalOpt.c
+ 3584  clear
+ 3585  s
+ 3586  l
+ 3587  vim   #include<signal.h>
+ 3588  vim   waitsignalOpt.c
+ 3589  ls
+ 3590  ../
+ 3591  ls
+ 3592  ipc
+ 3593  s
+ 3594  ls
+ 3595  vim MessQueopt.c
+ 3596  ../
+ 3597  mkdir kernel_thread
+ 3598  LS
+ 3599  ls
+ 3600  cd kernel_thread/
+ 3601  ls
+ 3602  clear
+ 3603  ls
+ 3604  ./
+ 3605  ../
+ 3606  ls
+ 3607  mv kernel_thread thread
+ 3608  ls
+ 3609  thread
+ 3610  ls
+ 3611  clear
+ 3612  ls
+ 3613  clear
+ 3614  ls
+ 3615  clear
+ 3616  code
+ 3617  ls
+ 3618  os_kernel_ancy
+ 3619  ls
+ 3620  thead
+ 3621  ls
+ 3622  thread
+ 3623  ls
+ 3624  vim pthread.c
+ 3625  man pthread
+ 3626  man pthread_creadte
+ 3627  clear
+ 3628  man pthread_creadte
+ 3629  man pthread_create
+ 3630  man fork
+ 3631  man pthread_create
+ 3632  clear
+ 3633  ls
+ 3634  clear
+ 3635  ls
+ 3636  clear
+ 3637  ll
+ 3638  clear
+ 3639  man pthread_create
+ 3640  vim  get_Theadid.c
+ 3641  vim  
+ 3642  vim  .vimrc
+ 3643  vim vimrc
+ 3644  ls
+ 3645  clear
+ 3646  ;s
+ 3647  ls
+ 3648  vim Startify
+ 3649  ls
+ 3650  rm Startify
+ 3651  clear
+ 3652  ls
+ 3653  vim get_Theadid.c
+ 3654  gcc get_Theadid.c
+ 3655  gcc get_Theadid.c  
+ 3656  g++ get_Theadid.c  
+ 3657  gcc get_Theadid.c -lptread 
+ 3658  gcc get_Theadid.c -lpthread 
+ 3659  ./a.out
+ 3660  vim d returned 1 exit status
+ 3661  ls
+ 3662  clear
+ 3663  kls
+ 3664  ls
+ 3665  vim get_Theadid.c
+ 3666  gcc get_Theadid.c -lpthread 
+ 3667  ./a.out
+ 3668  vim get_Theadid.c
+ 3669  ./a.out
+ 3670  clearl
+ 3671  clear
+ 3672  ls
+ 3673  ll
+ 3674  vim get_Theadid.c
+ 3675  gcc  get_Theadid.c
+ 3676  gcc get_Theadid.c -lptread 
+ 3677  gcc  get_Theadid.c
+ 3678  gcc get_Theadid.c -lpthread 
+ 3679  ./a.out
+ 3680  clear
+ 3681  ls
+ 3682  ./a.out
+ 3683  gcc get_Theadid.c -lpthread 
+ 3684  vim get_Theadid.c
+ 3685  ls
+ 3686  clear
+ 3687  ls
+ 3688  gcc get_Theadid.c -lpthread 
+ 3689  ls
+ 3690  cat get_Theadid.c
+ 3691  vim get_Theadid.c
+ 3692  ls
+ 3693  clear
+ 3694  ./
+ 3695  ls
+ 3696  gcc get_Thearid.c
+ 3697  gcc get_Theadid.c
+ 3698  gcc get_Theadid.c -lpthread
+ 3699  ./a.out
+ 3700  cat get_Theadid.c
+ 3701  vim get_Theadid.c 
+ 3702  cat lpthread
+ 3703  vim get_Theadid.c 
+ 3704  vim get_Theadid.c
+ 3705  gcc  get_Theadid.c -lpthear
+ 3706  gcc get_Theadid.c -lpthread
+ 3707  ./a.out
+ 3708  vim  get_Theadid.c
+ 3709  gcc  get_Theadid.c -lptheard
+ 3710  gcc  get_Theadid.c -lpthear
+ 3711  gcc  get_Theadid.c -lpthread
+ 3712  ./aot
+ 3713  ./a.out
+ 3714  vim  get_Theadid.c
+ 3715  gcc  get_Theadid.c -lpthread
+ 3716  ./a.out
+ 3717  clear
+ 3718  ./a.out
+ 3719  vim  get_Theadid.c
+ 3720  gcc get_Theadid.c -ltheard
+ 3721  gcc get_Theadid.c -lpthread
+ 3722  ./a.out
+ 3723  vim  get_Theadid.c
+ 3724  gcc get_Theadid.c -lpthread
+ 3725  ./a.out
+ 3726  clear
+ 3727  ls
+ 3728  clear
+ 3729  ls
+ 3730  vim  get_Theadid.c
+ 3731  ;s
+ 3732  gcc get_Theadid.c -lthread
+ 3733  gcc get_Theadid.c -lpthread
+ 3734  ./a.out
+ 3735  vim  get_Theadid.c
+ 3736  gcc get_Theadid.c -lpthread
+ 3737  ./a.out
+ 3738  vim  get_Theadid.c
+ 3739  gcc get_Theadid.c -lpthread
+ 3740  ./a.out
+ 3741  clear
+ 3742  ls
+ 3743  ./a.out
+ 3744  vim  get_Theadid.c
+ 3745  ./a.out
+ 3746  cat get_Theadid.c
+ 3747  ./a.out
+ 3748  vim  get_Theadid.c
+ 3749  ^M
+ 3750  ls
+ 3751  ./a.out
+ 3752  vim  get_Theadid.c
+ 3753  sl
+ 3754  ls
+ 3755  gcc get_Theadid.c -lpthread.c
+ 3756  gcc get_Theadid.c -lpthread
+ 3757  ./a.out
+ 3758  code
+ 3759  ls
+ 3760  os_kernel_ancy
+ 3761  ls
+ 3762  thread
+ 3763  ls
+ 3764  vim get_Theadid.c 
+ 3765  vim eixt_Thread.c 
+ 3766  code
+ 3767  ls
+ 3768  os_kernel_ancy
+ 3769  ls
+ 3770  threar
+ 3771  thread
+ 3772  ls
+ 3773  vim eixt_Thread.c
+ 3774  gcc eixt_Thread.c -lpthread
+ 3775  ./a.uo
+ 3776  ./a.out
+ 3777  clear
+ 3778  ls
+ 3779  vim eixt_Thread.c
+ 3780  gcc eixt_Thread.c -lpthread
+ 3781  ./a.out
+ 3782  vim eixt_Thread.c
+ 3783  gcc eixt_Thread.c -lpthread
+ 3784  ./a.out
+ 3785  vim eixt_Thread.c
+ 3786  gcc eixt_Thread.c -lpthread
+ 3787  ./a.out
+ 3788  vim eixt_Thread.c
+ 3789  gcc eixt_Thread.c -lpthread
+ 3790  ./a.out
+ 3791  vim eixt_Thread.c
+ 3792  gcc eixt_Thread.c -lpthread
+ 3793  vim eixt_Thread.c
+ 3794  ls
+ 3795  clear
+ 3796  exit
+ 3797  lll
+ 3798  ll
+ 3799  code
+ 3800  s
+ 3801  ls
+ 3802  ll
+ 3803  os_kernel_ancy
+ 3804  ls
+ 3805  thread
+ 3806  ls
+ 3807  clear
+ 3808  l
+ 3809  clear
+ 3810  ll
+ 3811  ls
+ 3812  addLL
+ 3813  vim addOpt.c
+ 3814  ll
+ 3815  gcc addOpt.c
+ 3816  gcc addOpt.c  -std=c99
+ 3817  gcc addOpt.c -std=c99 -lpthread 
+ 3818  ./a.out
+ 3819  mv addOpt.c threadaddOpt.c
+ 3820  gcc threadaddOpt.c -std=c99 -lpthread 
+ 3821  ./a.out
+ 3822  vim threadaddOpt.c
+ 3823  mv addOpt.c threadaddOpt.c
+ 3824  gcc threadaddOpt.c -std=c99 -lpthread OD
+ 3825  gcc threadaddOpt.c -std=c99 -lpthread 
+ 3826  ./a.out
+ 3827  gcc threadaddOpt.c -std=c99 -lpthread 
+ 3828  ./a.out
+ 3829  clear
+ 3830  ls
+ 3831  gcc threadaddOpt.c -std=c99 -lpthread 
+ 3832  ./a.out
+ 3833  gcc threadaddOpt.c -std=c99 -lpthread 
+ 3834  vim threadaddOpt.c
+ 3835  gcc threadaddOpt.c -std=c99 -lpthread 
+ 3836  ./a.out
+ 3837  ll
+ 3838  vim eixt_Thread.c
+ 3839  l
+ 3840  clear
+ 3841  ls
+ 3842  ../
+ 3843  ls
+ 3844  clear
+ 3845  l;s
+ 3846  clear
+ 3847  ls
+ 3848  signal
+ 3849  ls
+ 3850  ;lkl
+ 3851  vim v
+ 3852  vim alarmOpt.c
+ 3853  gcc alarmOpt.c
+ 3854  ./a.out
+ 3855  ll
+ 3856  vim raiseOpt.c
+ 3857  vim pendingmask.c
+ 3858  cat waitsignalOpt.c
+ 3859  clear
+ 3860  ls
+ 3861  vim sleepOpt.c
+ 3862  ll
+ 3863  car sleepOptex.c
+ 3864  cat sleepOptex.c
+ 3865  vim sleepOptex.c
+ 3866  ls
+ 3867  ../
+ 3868  ls
+ 3869  thread
+ 3870  ;s
+ 3871  clear
+ 3872  ls
+ 3873  clear
+ 3874  ls
+ 3875  clear
+ 3876  ls
+ 3877  copy threadaddOpt.c mutexOpt.c
+ 3878  cp threadaddOpt.c Mutexopt.c
+ 3879  ll
+ 3880  vim Mutexopt.c
+ 3881  gcc 
+ 3882  sl
+ 3883  ls
+ 3884  gcc Mutexopt.c -lpthread -std=c99
+ 3885  ./a.out
+ 3886  clear
+ 3887  ls
+ 3888  vim Mutexopt.c
+ 3889  ls
+ 3890  man pthread_cond
+ 3891  man pthread_cond_t
+ 3892  man pthread_cond_init
+ 3893  ls
+ 3894  ll
+ 3895  clear
+ 3896  ls
+ 3897  man pthread_cond_wait
+ 3898  man pthread_cond_signal
+ 3899  clear
+ 3900  ls
+ 3901  vim condi.c
+ 3902  gcc condi.c -lthread -std=c99
+ 3903  gcc condi.c -lpthread -std=c99
+ 3904  ./a.out
+ 3905  vim condi.c
+ 3906  cp  condi.c condiext.c 
+ 3907  vim condiext.c
+ 3908  vim condi.c
+ 3909  vim condi.c  
+ 3910  vim condiext.c
+ 3911  gcc condi.c -lpthread -std=c99
+ 3912  ./a.out
+ 3913  vim condiext.c
+ 3914  gcc condi.c -lpthread -std=c99
+ 3915  ./a.out
+ 3916  gcc condi.c -lpthread -std=c99
+ 3917  ./a.out
+ 3918  vim condiext.c
+ 3919  gcc condiext.c -pthread -std=c99
+ 3920  ./a.out
+ 3921  ls
+ 3922  vim condiext.c
+ 3923  ls
+ 3924  c
+ 3925  cl
+ 3926  ls
+ 3927  clrwar
+ 3928  clear
+ 3929  ls
+ 3930  code
+ 3931  ls
+ 3932  ^M
+ 3933  os_kernel_ancy
+ 3934  ;s
+ 3935  ls
+ 3936  thread
+ 3937  ls
+ 3938  clear
+ 3939  ls
+ 3940  ll
+ 3941  vim condiext.c
+ 3942  fg
+ 3943  ls
+ 3944  code
+ 3945  ls
+ 3946  l
+ 3947  clear
+ 3948  ls
+ 3949  os_kernel_ancy
+ 3950  ls
+ 3951  thread
+ 3952  ls
+ 3953  clear
+ 3954  ls
+ 3955  ll
+ 3956  cat condiext.c
+ 3957  ls
+ 3958  cp condiext.c condibybroadcast.c
+ 3959  ls
+ 3960  vim condibybroadcast.c
+ 3961  gcc condibybroadcast.c -lpthread -std=c99
+ 3962  ./a.out
+ 3963  clear
+ 3964  ls
+ 3965  vim condibybroadcast.c
+ 3966  gcc condiext.c -pthread -std=c99
+ 3967  ./a.out
+ 3968  vim condibybroadcast.c
+ 3969  ls
+ 3970  clear
+ 3971  l;s
+ 3972  clear
+ 3973  ls
+ 3974  cat condibybroadcast.c
+ 3975  vim #include<stdio.h>
+ 3976  vim condibybroadcast.c
+ 3977  l;s
+ 3978  ls
+ 3979  clear
+ 3980  ls
+ 3981  vim semaphore.c
+ 3982  vim semaphorept.c
+ 3983  vim semaphoreOpt.c
+ 3984  ls
+ 3985  clear
+ 3986  ls
+ 3987  vim semaphoreOpt.c
+ 3988  gcc semaphoreOpt.c
+ 3989  gcc semaphoreOpt.c -lpthread -std=c99
+ 3990  ./a.out
+ 3991  vim semaphoreOpt.c
+ 3992  gcc semaphoreOpt.c -lpthread -std=c99
+ 3993  ./a.out
+ 3994  vim semaphoreOpt.c
+ 3995  gcc semaphoreOpt.c -lpthread -std=c99
+ 3996  ./a.out
+ 3997  vim semaphoreOpt.c
+ 3998  gcc semaphoreOpt.c -lpthread -std=c99
+ 3999  ./a.out
+ 4000  vim semaphoreOpt.c
+ 4001  ./a.out
+ 4002  vim semaphoreOpt.c
+ 4003  gcc semaphoreOpt.c -lpthread -std=c99
+ 4004  ./a.out
+ 4005  vim semaphoreOpt.c
+ 4006  ls
+ 4007  clear
+ 4008  ls
+ 4009  vim  semaphoreOpt.c
+ 4010  gcc semaphoreOpt.c -lpthread -std=c99
+ 4011  ./a.out
+ 4012  vim  semaphoreOpt.c
+ 4013  gcc semaphoreOpt.c -lpthread -std=c99
+ 4014  ./a.out
+ 4015  vim  semaphoreOpt.c
+ 4016  gcc semaphoreOpt.c -lpthread -std=c99
+ 4017  ./a.out
+ 4018  vim  semaphoreOpt.c
+ 4019  gcc semaphoreOpt.c -lpthread -std=c99
+ 4020  ./a,out
+ 4021  ./a.out
+ 4022  vim  semaphoreOpt.c
+ 4023  gcc semaphoreOpt.c -lpthread -std=c99
+ 4024  ./a.out
+ 4025  vim  semaphoreOpt.c
+ 4026  gcc semaphoreOpt.c -lpthread -std=c99
+ 4027  ./a.out
+ 4028  vim  semaphoreOpt.c
+ 4029  cat semaphoreOpt.c
+ 4030  code
+ 4031  ls
+ 4032  clear
+ 4033  l
+ 4034  os_kernel_ancy
+ 4035  l;s
+ 4036  thread
+ 4037  ls
+ 4038  clear
+ 4039  ls
+ 4040  ll
+ 4041  clear
+ 4042  ls
+ 4043  clear
+ 4044  ll
+ 4045  l
+ 4046  clea
+ 4047  clear
+ 4048  ls
+ 4049  clear
+ 4050  ls
+ 4051  clear
+ 4052  lks
+ 4053  oo
+ 4054  l
+ 4055  clear
+ 4056  l
+ 4057  clear
+ 4058  ls
+ 4059  clear
+ 4060  ls
+ 4061  ll
+ 4062  clear
+ 4063  ls
+ 4064  clear
+ 4065  ls
+ 4066  ll
+ 4067  clear
+ 4068  ll
+ 4069  clear
+ 4070  l
+ 4071  clear
+ 4072  l
+ 4073  [
+ 4074  clear
+ 4075  ls
+ 4076  ll
+ 4077  codel
+ 4078  cdoe
+ 4079  code
+ 4080  ls
+ 4081  ((id#5Sb3pGVpKh5h9gEMogvam))
+ 4082  os_kernel_ancy
+ 4083  ls
+ 4084  clear
+ 4085  ls
+ 4086  thread
+ 4087  l;s
+ 4088  clear
+ 4089  ls
+ 4090  ../
+ 4091  ls
+ 4092  thrwad
+ 4093  thread
+ 4094  man 2 flock
+ 4095  q
+ 4096  clear
+ 4097  ls
+ 4098  man 2 flock
+ 4099  q
+ 4100  man fcntl
+ 4101  ls
+ 4102  vim flockOpt.c
+ 4103  vim fockopt.txt
+ 4104  vim flockOpt.c
+ 4105  ../
+ 4106  ls
+ 4107  ../
+ 4108  ls
+ 4109  cpulssyntax
+ 4110  ls
+ 4111  clear
+ 4112  ls
+ 4113  cat argument.cpp
+ 4114  cat arrwith.cpp
+ 4115  cat c1.cpp 
+ 4116  clar
+ 4117  clear
+ 4118  ls
+ 4119  cat constkeywork.c
+ 4120  keyword
+ 4121  ls
+ 4122  cat  tilde.cpp
+ 4123  vim  tilde.cpp
+ 4124  ./a.out
+ 4125  wq
+ 4126  ..
+ 4127  ll
+ 4128  ../
+ 4129  ls
+ 4130  clear
+ 4131  ls
+ 4132  os_kernel_ancy
+ 4133  ls
+ 4134  thread
+ 4135  ls
+ 4136  vim flockOpt.c
+ 4137  gcc flcokOpt.c
+ 4138  gcc flockOpt.c
+ 4139  ./a.out
+ 4140  code
+ 4141  ls
+ 4142  os_kernel_ancy
+ 4143  ls
+ 4144  thread
+ 4145  ls
+ 4146  clear
+ 4147  ls
+ 4148  ps -u
+ 4149  ll
+ 4150  lsof
+ 4151  cat /proc/locks
+ 4152  ls -l
+ 4153  ls -l /proc/locks
+ 4154  reboot
+ 4155  code
+ 4156  ls
+ 4157  os_kernel_ancy
+ 4158  ls
+ 4159  clear
+ 4160  ls
+ 4161  thread
+ 4162  ls
+ 4163  ..
+ 4164  ls
+ 4165  thread
+ 4166  ls
+ 4167  vim flockOpt.c
+ 4168  mv flockOpt.c flockReadOpt.c
+ 4169  cp flockReadOpt.c flockWriteOpt.c
+ 4170  ll
+ 4171  vim flockWriteOpt.c
+ 4172  vim  flockReadOpt.c 
+ 4173  gcc Acquire a lock (when l_type is F_RDLCK or F_WRLCK) or release a lock (when  l_type  is  F_UNLCK)  on  the
+ 4174  clear
+ 4175  l;s
+ 4176  gcc  flockReadOpt.c -o flockReadOpt
+ 4177  ls
+ 4178  ./flockReadOpt
+ 4179  vim flockReadOpt.c
+ 4180  ls
+ 4181  clear
+ 4182  ll
+ 4183  flockReadOpt
+ 4184  ./flockReadOpt
+ 4185  strace flockReadOpt
+ 4186  strace ./flockReadOpt
+ 4187  vim flockReadOpt.c
+ 4188  vim F_GETLK : 获取当前锁得状态
+ 4189  ls
+ 4190  cleart
+ 4191  clear
+ 4192  ls
+ 4193  vim flockWriteOpt.c
+ 4194  ll
+ 4195  clear
+ 4196  l
+ 4197  s
+ 4198  clear
+ 4199  ls
+ 4200  code
+ 4201  ls
+ 4202  clear
+ 4203  ls
+ 4204  os_kernel_ancy
+ 4205  ;s
+ 4206  ls
+ 4207  thread
+ 4208  ls
+ 4209  clear
+ 4210  ls
+ 4211  vim flockWriteOpt.c
+ 4212  ls
+ 4213  clear
+ 4214  ls
+ 4215  vim flockReadOpt
+ 4216  vim flockReadOpt.c
+ 4217  gcc flockReadOpt.c -std=c99
+ 4218  gcc flockReadOpt.c -std=c99 -o flockReadOpt
+ 4219  gcc flockWriteOpt.c -std=c99 -0 flockWriteOpt
+ 4220  gcc flockWriteOpt.c -std=c99 -o flockWriteOpt
+ 4221  clear
+ 4222  ls
+ 4223  flockReadOpt
+ 4224  ./flockReadOpt
+ 4225  code
+ 4226  ls
+ 4227  clear
+ 4228  cl
+ 4229  ls
+ 4230  os_kernel_ancy
+ 4231  ls
+ 4232  clear
+ 4233  thread
+ 4234  ls
+ 4235  ./flockReadOpt
+ 4236  ./flockWriteOpt
+ 4237  ll
+ 4238  vim flockReadOpt.c
+ 4239  clear
+ 4240  ls
+ 4241  ./flockReadOpt
+ 4242  clear
+ 4243  ls
+ 4244  clear
+ 4245  ls
+ 4246  vim flockWriteOpt.c
+ 4247  vim flockReadOpt.c
+ 4248  clear
+ 4249  l
+ 4250  clerar
+ 4251  ../
+ 4252  ls
+ 4253  clar
+ 4254  vim ttynameOpt.c
+ 4255  cat ttynameOpt.c > hello.txt
+ 4256  clear
+ 4257  ls
+ 4258  vim ttynameOpt.c
+ 4259  gcc ttynameOpt.c
+ 4260  ./a.out
+ 4261  vim ttynameOpt.c
+ 4262  ptreee
+ 4263  ps tree
+ 4264  pstree
+ 4265  lsclear
+ 4266  ps -o pid,ppid,pgrp,session,tpgiod,comm
+ 4267  ps -o pid,ppid,pgrp,session,tpgiod,comm | cat
+ 4268  ps -o pid,ppid,pgrp,session,tpgiod,comm |cat
+ 4269  ps -o pid,ppid,pgrp,session,tpgiod,comm | \ncat
+ 4270  ps -o pid,ppid,pgrp,session,tpgiod,comm \ncat
+ 4271  clear
+ 4272  ps -o pid,ppid,pgrd,pgrp,session,tpgid,comm | cat
+ 4273  ps -o pid,pgrd,pgrp,session,tpgid,comm | cat
+ 4274  ps -o pid,ppid,pgrd,pgrp,session,tpgid,comm | cat
+ 4275  ps -o pid,ppid,pgrp,session,tpgid,comm | cat
+ 4276  ps -o pid,ppid,pgrp,session,tpgid,comm | cat &
+ 4277  cleart
+ 4278  ls
+ 4279  clear
+ 4280  ls
+ 4281  l
+ 4282  jjobs
+ 4283  jobs
+ 4284  cat &
+ 4285  kill -l 
+ 4286  ps -u
+ 4287  kill -pid 5207
+ 4288  kill -p 5207
+ 4289  kill 5207
+ 4290  cat &
+ 4291  clear
+ 4292  ;ls
+ 4293  ,m
+ 4294  man 2 setsid
+ 4295  clear
+ 4296  ls
+ 4297  vim demonOpt.c
+ 4298  gcc demonOpt.
+ 4299  gcc demonOpt.c
+ 4300  ./a.out
+ 4301  ps -us
+ 4302  code
+ 4303  ls
+ 4304  os_kernel_ancy
+ 4305  l
+ 4306  thread
+ 4307  ls
+ 4308  ../
+ 4309  clear
+ 4310  l
+ 4311  puux
+ 4312  pu-ux
+ 4313  ps us
+ 4314  ps ux
+ 4315  ps ajx
+ 4316  clear
+ 4317  ps ajx
+ 4318  kill -9 5827
+ 4319  clear
+ 4320  l
+ 4321  clear
+ 4322  ls
+ 4323  ./a.out
+ 4324  kill -9 5827
+ 4325  kill -9 6035
+ 4326  ls
+ 4327  clear
+ 4328  l
+ 4329  ls
+ 4330  ls -all
+ 4331  cat 1
+ 4332  clear
+ 4333  ls
+ 4334  vim demonOpt.c
+ 4335  l
+ 4336  clear
+ 4337  ls
+ 4338  ll
+ 4339  clear
+ 4340  ../
+ 4341  ls
+ 4342  mkdir netwrokOpt
+ 4343  ls
+ 4344  newwrokl
+ 4345  newwrok
+ 4346  ls
+ 4347  ((id#9B9816U4E1i5q1EYGkTFWy))
+ 4348  clerar
+ 4349  clear
+ 4350  l
+ 4351  mv netwrok
+ 4352  ls
+ 4353  ls\\
+ 4354  
+ 4355  mkdir netwrok
+ 4356  ls
+ 4357  netwrok
+ 4358  clear
+ 4359  ls
+ 4360  ..
+ 4361  ls
+ 4362  cleart
+ 4363  ls
+ 4364  clear
+ 4365  ls
+ 4366  ip addr
+ 4367  ll
+ 4368  aro -a
+ 4369  arp -a
+ 4370  clear
+ 4371  arp -a
+ 4372  lls
+ 4373  l
+ 4374  clear
+ 4375  ls
+ 4376  codde
+ 4377  code
+ 4378  ls
+ 4379  clear
+ 4380  ls
+ 4381  code
+ 4382  l;s
+ 4383  clear
+ 4384  l;s
+ 4385  ls
+ 4386  ping baidu.com
+ 4387  clear
+ 4388  cclear
+ 4389  ls
+ 4390  ks
+ 4391  ls
+ 4392  clear
+ 4393  ls
+ 4394  rm 1.c
+ 4395  ls
+ 4396  rote
+ 4397  route
+ 4398  clear
+ 4399  ls
+ 4400  route
+ 4401  ls -all
+ 4402  netstat -rn
+ 4403  clear
+ 4404  ls
+ 4405  route
+ 4406  ll
+ 4407  code
+ 4408  ls
+ 4409  clear
+ 4410  ls
+ 4411  cat netwrok
+ 4412  ls
+ 4413  NET
+ 4414  netwrok
+ 4415  ls
+ 4416  cd
+ 4417  ls
+ 4418  code
+ 4419  ls
+ 4420  netwrokOpt
+ 4421  ls
+ 4422  clear
+ 4423  ls
+ 4424  man socket
+ 4425  ls
+ 4426  clear
+ 4427  man socket
+ 4428  man bind 2
+ 4429  man 2 bind 
+ 4430  man 2 listen
+ 4431  code
+ 4432  ls
+ 4433  netwrokOpt
+ 4434  ls
+ 4435  man appect
+ 4436  man  2 accpent
+ 4437  man  2 accept
+ 4438  clear
+ 4439  ls
+ 4440  clear
+ 4441  ls
+ 4442  vim socketServer.c
+ 4443  fg
+ 4444  man 7ip
+ 4445  man 7 ip
+ 4446  fg
+ 4447  man 7 ip
+ 4448  fg
+ 4449  man 7 ip
+ 4450  fg
+ 4451  ls
+ 4452  gcc socketServer.c
+ 4453  clear
+ 4454  l;s
+ 4455  ls
+ 4456  clear
+ 4457  ls
+ 4458  clear
+ 4459  ;s
+ 4460  ls
+ 4461  vim  socketclient.c
+ 4462  LS
+ 4463  l
+ 4464  ls
+ 4465  code
+ 4466  ls
+ 4467  netwrokOpt
+ 4468  ls
+ 4469  vim socketclient.c
+ 4470  man 7 ip
+ 4471  fg
+ 4472  man 2 socket
+ 4473  ls
+ 4474  vim socketclient.c
+ 4475  gcc socketclient.c -o client
+ 4476  gcc socketServer.c -p server
+ 4477  gcc socketServer.c -o server
+ 4478  gcc socketServer.c -std=c99 -o server
+ 4479  vim socketServer.c
+ 4480  ls
+ 4481  ./server
+ 4482  ls
+ 4483  codfe
+ 4484  code
+ 4485  kls
+ 4486  ls
+ 4487  netwrokOpt
+ 4488  ls
+ 4489  ./client
+ 4490  vim socketclient.c
+ 4491  vim socketServer.c
+ 4492  gcc socketclient.c -str=c99 -o=clinet
+ 4493  gcc socketclient.c -str=c99 -o clinet
+ 4494  gcc socketclient.c -std=c99 -o clinet
+ 4495  ./clinet
+ 4496  ls
+ 4497  gcc socketclient.c -std=c99 -o client
+ 4498  ./client
+ 4499  ./server
+ 4500  ./client
+ 4501  code
+ 4502  ls
+ 4503  netwrokOpt
+ 4504  ls
+ 4505  cat socketclient.c
+ 4506  。。、
+ 4507  ../
+ 4508  LS
+ 4509  ls
+ 4510  leetcode
+ 4511  ls
+ 4512  ../
+ 4513  ls
+ 4514  lear
+ 4515  clear
+ 4516  l;s
+ 4517  .
+ 4518  ..
+ 4519  ll
+ 4520  clear
+ 4521  s
+ 4522  ls
+ 4523  code
+ 4524  ls
+ 4525  ..
+ 4526  cat ThirdPartyNotices.txt
+ 4527  clear
+ 4528  l;s
+ 4529  clear
+ 4530  ls
+ 4531  code
+ 4532  l
+ 4533  mkdir  algorithm
+ 4534  ls
+ 4535  cd algorithm/
+ 4536  ls
+ 4537  clear
+ 4538  ls
+ 4539  clear
+ 4540  ls
+ 4541  vim printf_four.cpp
+ 4542  g++ printf_four.cpp
+ 4543  g++ printf_four.cpp -o  printf_four.cpp
+ 4544  g++ printf_four.cpp -o   printf_four
+ 4545  ls
+ 4546  rm \n: 1673075495:0;;sprintf_four.cpp
+ 4547  lls
+ 4548  cat printf_four.cpp
+ 4549  :
+ 4550  ls
+ 4551  rm  printf_four.cpp
+ 4552  ls
+ 4553  ./a.out
+ 4554  clear
+ 4555  l
+ 4556  vim  printf_four.cpp
+ 4557  g++ printf_four.cpp
+ 4558  ./a.out 
+ 4559  g++ printf_four.cpp
+ 4560  vim  printf_four.cpp
+ 4561  g++ printf_four.cpp
+ 4562  ./a.out
+ 4563  vim  printf_four.cpp
+ 4564  g++ printf_four.cpp
+ 4565  ./a.out
+ 4566  ls
+ 4567  rm \\
+ 4568  ls
+ 4569  ls
+ 4570  clear
+ 4571  ls
+ 4572  rm '\'
+ 4573  ls
+ 4574  ./a.out
+ 4575  ls
+ 4576  clear
+ 4577  l;s
+ 4578  ls
+ 4579  ./a.out 
+ 4580  ls
+ 4581  vim  printf_four.cpp
+ 4582  g++ printf_four.cpp
+ 4583  ./a.out
+ 4584  ;s
+ 4585  vim  printf_four.cpp
+ 4586  g++ printf_four.cpp
+ 4587  ./a.out
+ 4588  vim  printf_four.cpp
+ 4589  g++ printf_four.cpp
+ 4590  ./a.out
+ 4591  vim  printf_four.cpp
+ 4592  g++ printf_four.cpp
+ 4593  ./a.out
+ 4594  ls
+ 4595  vim  printf_four.cpp
+ 4596  g++ printf_four.cpp
+ 4597  ./a.out
+ 4598  vim  printf_four.cpp
+ 4599  g+la
+ 4600  ls
+ 4601  code
+ 4602  ls
+ 4603  algorithm
+ 4604  ls
+ 4605  vim printf_four.cpp
+ 4606  g++ printf_four.cpp
+ 4607  ./a.out
+ 4608  vim printf_four.cpp
+ 4609  g++ printf_four.cpp
+ 4610  ./a.out
+ 4611  ls
+ 4612  clear
+ 4613  vim printf_four.cpp
+ 4614  gcc printf_four.cpp
+ 4615  g++ printf_four.cpp
+ 4616  ./a.out
+ 4617  ;s
+ 4618  ls
+ 4619  g++ printf_four.cpp -o printf_four
+ 4620  ls
+ 4621  .printf_four
+ 4622  ./printf_four
+ 4623  ls
+ 4624  clear
+ 4625  ;s
+ 4626  ls
+ 4627  vim printf_four.cpp
+ 4628  g++ + num[n] / 3 * 2
+ 4629  g++ printf_four.cpp 
+ 4630  ./a.out
+ 4631  ls
+ 4632  code
+ 4633  ls
+ 4634  algorithm
+ 4635  ls
+ 4636  vim printf_four.cpp
+ 4637  g++ printf_four.cpp
+ 4638  gdb a.out
+ 4639  ls
+ 4640  g++ -g -o printf_four printf_four.cpp 
+ 4641  ls
+ 4642  gdb printf_four
+ 4643  ls
+ 4644  clear
+ 4645  ls
+ 4646  ulimit -c
+ 4647  ulimit -c 10 
+ 4648  ls
+ 4649  gdb  printf_four
+ 4650  ls
+ 4651  clear
+ 4652  ls
+ 4653  ./printf_four
+ 4654  gdb  printf_four core printf_four_core
+ 4655  ls
+ 4656  gdb  printf_four
+ 4657  ls
+ 4658  gdb ./printf_four
+ 4659  vim printf_four.cpp
+ 4660  vim rec_eum.cpp
+ 4661  ../
+ 4662  ls
+ 4663  cpulssyntax
+ 4664  ls
+ 4665  vim  byte_seq.c
+ 4666  ..
+ 4667  ls
+ 4668  algorithm
+ 4669  ls
+ 4670  clear
+ 4671  code
+ 4672  l;s
+ 4673  algorithm
+ 4674  clear
+ 4675  ls
+ 4676  vim rec_eum.cpp
+ 4677  g++ rec_eum.cpp
+ 4678  ./a.out
+ 4679  vim rec_eum.cpp
+ 4680  vim rec_cob_eum.cpp
+ 4681  vim rec_order_eum.cpp
+ 4682  vim rec_cob_eum.cpp
+ 4683  vim rec_order_eum.cpp
+ 4684  ls
+ 4685  g++ rec_order_eum.cpp
+ 4686  ./a.out
+ 4687  vim rec_order_eum.cpp
+ 4688  g++ rec_order_eum.cpp
+ 4689  ./a.out
+ 4690  vim rec_order_eum.cpp
+ 4691  g++ rec_order_eum.cpp
+ 4692  ./a.out
+ 4693  3
+ 4694  ./a.out
+ 4695  7
+ 4696  ./a.out
+ 4697  ps
+ 4698  ps l
+ 4699  clear
+ 4700  ls
+ 4701  code
+ 4702  ls
+ 4703  algorithm
+ 4704  ls
+ 4705  mkdir rec
+ 4706  ls
+ 4707  rec
+ 4708  sl
+ 4709  ls
+ 4710  clear
+ 4711  ls
+ 4712  ../
+ 4713  ls
+ 4714  mkdir search
+ 4715  ls
+ 4716  search
+ 4717  ls
+ 4718  clear
+ 4719  ls
+ 4720  vim Number_Of_Passes.cpp
+ 4721  g++ .#.........
+ 4722  .#.#######.
+ 4723  .#.#.....#.
+ 4724  .#.#.###.#.
+ 4725  .#.#..@#.#.
+ 4726  .#.#####.#.
+ 4727  .#.......#.
+ 4728  .#########.
+ 4729  ........ls
+ 4730  clear
+ 4731  ls
+ 4732  g++ Number_Of_Passes.cpp
+ 4733  ls
+ 4734  clear
+ 4735  ls
+ 4736  ./a.out
+ 4737  ls
+ 4738  clear
+ 4739  ls
+ 4740  vim Number_Of_Passes.cpp
+ 4741  g++ Number_Of_Passes.cpp
+ 4742  ./a.out
+ 4743  vim Number_Of_Passes.cpp
+ 4744  g++ Number_Of_Passes.cpp 
+ 4745  ./a.out
+ 4746  ...
+ 4747  clear
+ 4748  ls
+ 4749  algorithm
+ 4750  ls
+ 4751  search
+ 4752  ls
+ 4753  vim Number_Of_Passes.cpp
+ 4754  g++ Number_Of_Passes.cpp 
+ 4755  ./a.out 
+ 4756  ...
+ 4757  clear
+ 4758  ;ls
+ 4759  algorithm
+ 4760  ls
+ 4761  searcbh 
+ 4762  search
+ 4763  ls
+ 4764  vim Number_Of_Passes.cpp
+ 4765  g++ Number_Of_Passes.cpp 
+ 4766  ./a.out 
+ 4767  clear
+ 4768  ls
+ 4769  vim Number_Of_Passes.cpp
+ 4770  g++ Number_Of_Passes.cpp 
+ 4771  ./a.out
+ 4772  \]
+ 4773  clear
+ 4774  ls
+ 4775  g++ Number_Of_Passes.cpp 
+ 4776  vim Number_Of_Passes.cpp
+ 4777  g++ Number_Of_Passes.cpp 
+ 4778  ./a.out
+ 4779  ./a.out > process.txt
+ 4780  ls
+ 4781  clear
+ 4782  ls
+ 4783  cat process.txt
+ 4784  vim Number_Of_Passes.cpp
+ 4785  g++ Number_Of_Passes.cpp 
+ 4786  ./a.out
+ 4787  vim Number_Of_Passes.cpp
+ 4788  g++ Number_Of_Passes.cpp 
+ 4789  ./a.out > process.txt
+ 4790  ls
+ 4791  clear
+ 4792  ls
+ 4793  C
+ 4794  Cl0817ls
+ 4795  lks
+ 4796  ls
+ 4797  cat process.txt
+ 4798  clear
+ 4799  ls
+ 4800  g++ Number_Of_Passes.cpp
+ 4801  ./a.out 
+ 4802  vim Number_Of_Passes.cpp
+ 4803  g++ Number_Of_Passes.cpp
+ 4804  ./a.out
+ 4805  .#.#######.
+ 4806  .#.#.....#.
+ 4807  .#.#.###.#.
+ 4808  .#.#..@#.#.
+ 4809  .#.#####.#.
+ 4810  .#.......#.
+ 4811  .#########.
+ 4812  ...........
+ 4813  ls
+ 4814  ./a.out
+ 4815  clear
+ 4816  ls
+ 4817  ./a.out > process.txt
+ 4818  ./a.out 
+ 4819  clearf
+ 4820  rm process.txt
+ 4821  ./a.out > process.txt
+ 4822  ls
+ 4823  cat .#.........
+ 4824  .#.#######.
+ 4825  .#.#.....#.
+ 4826  .#.#.###.#.
+ 4827  .#.#..@#.#.
+ 4828  .#.#####.#.
+ 4829  .#.......#.
+ 4830  .#########.
+ 4831  ............\\
+ 4832  
+ 4833  clear
+ 4834  ls
+ 4835  cat process.txt
+ 4836  clear
+ 4837  ls
+ 4838  vim Number_Of_Passes.cpp
+ 4839  cat process.txt
+ 4840  clear
+ 4841  ls
+ 4842  cat Number_Of_Passes.cpp
+ 4843  cat process.txt
+ 4844  clear
+ 4845  ls
+ 4846  vim Number_Of_Passes.cpp
+ 4847  vim sum_number.cpp
+ 4848  g++ sum_number.cpp -o sum_number
+ 4849  ls
+ 4850  ./sum_number
+ 4851  clear
+ 4852  ls
+ 4853  vim sum_number.cpp
+ 4854  ls
+ 4855  g++ sum_number.cpp -o sum_number
+ 4856  ./sum_number
+ 4857  vim sum_number.cpp
+ 4858  g++ sum_number.cpp -o sum_number
+ 4859  ./sum_number 
+ 4860  vim sum_number.cpp
+ 4861  vim 该文件夹内容为搜索地图
+ 4862  ls
+ 4863  vim max_obszar_macierzy.cpp
+ 4864  g++ max_obszar_macierzy.cpp -o max_obszar_macierzy
+ 4865  ./max_obszar_macierzy.cpp
+ 4866  ./max_obszar_macierzy
+ 4867  clear
+ 4868  ls
+ 4869  vim max_obszar_macierzy.cpp
+ 4870  g++ max_obszar_macierzy.cpp -o max_obszar_macierzy
+ 4871  ./max_obszar_macierzy
+ 4872  ll
+ 4873  ㅣㄴ
+ 4874  ls
+ 4875  rm a.out\n
+ 4876  ls
+ 4877  code
+ 4878  ls
+ 4879  \]ls
+ 4880  ls
+ 4881  algorithm
+ 4882  ls
+ 4883  clear
+ 4884  ear
+ 4885  ls
+ 4886  sear
+ 4887  search
+ 4888  ls
+ 4889  clear
+ 4890  ls
+ 4891  ll
+ 4892  cat sum_number.cpp
+ 4893  cat max_obszar_macierzy.cpp
+ 4894  vim  max_obszar_macierzy.cpp
+ 4895  ls
+ 4896  clear
+ 4897  ls
+ 4898  vim search_obszar_macierzy.cpp
+ 4899  ls
+ 4900  clear
+ 4901  ls
+ 4902  clear
+ 4903  ls
+ 4904  code
+ 4905  ls
+ 4906  algorithm
+ 4907  ls
+ 4908  clear
+ 4909  ls\\
+ 4910  
+ 4911  ls
+ 4912  search
+ 4913  l
+ 4914  cat process.txt
+ 4915  ]
+ 4916  clear
+ 4917  ls
+ 4918  ll
+ 4919  CODE
+ 4920  LS
+ 4921  code
+ 4922  ls
+ 4923  algorithm
+ 4924  ls
+ 4925  clear
+ 4926  ls
+ 4927  search
+ 4928  ls
+ 4929  vim change_encased.cpp
+ 4930  g++ change_encased.cpp
+ 4931  ls
+ 4932  clear
+ 4933  ls
+ 4934  ./a.out
+ 4935  clear
+ 4936  ls
+ 4937  vim change_encased.cpp
+ 4938  codels
+ 4939  code
+ 4940  ls
+ 4941  algorithm
+ 4942  ls
+ 4943  search
+ 4944  ls
+ 4945  cleart
+ 4946  ls
+ 4947  vim change_encased.cpp
+ 4948  ls
+ 4949  g++ hange_encased.cpp
+ 4950  g++ change_encased.cpp
+ 4951  vim change_encased.cpp
+ 4952  g++ change_encased.cpp 
+ 4953  ./a.out
+ 4954  vim change_encased.cpp
+ 4955  ls
+ 4956  code
+ 4957  ls
+ 4958  code
+ 4959  ls
+ 4960  data-structures
+ 4961  ls
+ 4962  cd
+ 4963  ls
+ 4964  code
+ 4965  s
+ 4966  ks
+ 4967  ls
+ 4968  clear
+ 4969  ls
+ 4970  algorithm
+ 4971  ls
+ 4972  searcj
+ 4973  search
+ 4974  ls
+ 4975  clear\\
+ 4976  
+ 4977  ls
+ 4978  clear
+ 4979  ls
+ 4980  ll
+ 4981  Ls
+ 4982  ;S\\
+ 4983  
+ 4984  LS
+ 4985  ls
+ 4986  vim Coordinates passed
+ 4987  vim coordinates_passed.c
+ 4988  vim coordinates_passed.cpp
+ 4989  ls
+ 4990  clear
+ 4991  ls
+ 4992  ,s
+ 4993  ls
+ 4994  vim change_encased.cpp
+ 4995  vim coordinates_passed.cpp
+ 4996  code
+ 4997  ls
+ 4998  algorithm
+ 4999  ls
+ 5000  seach
+ 5001  ls
+ 5002  clear
+ 5003  ls
+ 5004  search
+ 5005  l;s
+ 5006  ls
+ 5007  code
+ 5008  ls
+ 5009  codel
+ 5010  code
+ 5011  lks
+ 5012  ls
+ 5013  algorithm
+ 5014  ls
+ 5015  search
+ 5016  ls
+ 5017  clear
+ 5018  ls
+ 5019  ll
+ 5020  ls
+ 5021  cat change_encased.cpp
+ 5022  cat coordinates_passed.cpp
+ 5023  vim coordinates_passed.cpp
+ 5024  lls
+ 5025  ls
+ 5026  vim coordinates_passed.cpp
+ 5027  ls
+ 5028  ../
+ 5029  ls
+ 5030  ..
+ 5031  ls
+ 5032  clear
+ 5033  ls
+ 5034  ks
+ 5035  ls
+ 5036  cpulssyntax
+ 5037  ls
+ 5038  vim recursiondemo.cpp
+ 5039  g++ recursiondemo.cpp
+ 5040  ./a.out
+ 5041  vim recursiondemo.cpp
+ 5042  g++ recursiondemo.cpp
+ 5043  ./a.out
+ 5044  vim recursiondemo.cpp
+ 5045  g++ recursiondemo.cpp
+ 5046  ./a.out
+ 5047  clear
+ 5048  ls
+ 5049  ..
+ 5050  ls
+ 5051  algorithm
+ 5052  ls
+ 5053  search
+ 5054  ls
+ 5055  clear
+ 5056  ls
+ 5057  ll
+ 5058  cat coordinates_passed.cpp
+ 5059  ls
+ 5060  code
+ 5061  ls
+ 5062  algorithm
+ 5063  ;s
+ 5064  ls
+ 5065  clear
+ 5066  sls
+ 5067  ls
+ 5068  search
+ 5069  ls
+ 5070  ll
+ 5071  vim coordinates_passed.cpp
+ 5072  cat coordinates_passed.cpp
+ 5073  code
+ 5074  ls
+ 5075  algorithm
+ 5076  ls
+ 5077  search
+ 5078  ls
+ 5079  vim bfs_399.cpp
+ 5080  ls
+ 5081  clear
+ 5082  ls
+ 5083  clear
+ 5084  ls
+ 5085  vim bfs_399.cpp
+ 5086  ls
+ 5087  clear
+ 5088  ls
+ 5089  code
+ 5090  l
+ 5091  clear
+ 5092  ls
+ 5093  algorithm
+ 5094  ls
+ 5095  search
+ 5096  ls
+ 5097  clear
+ 5098  ls
+ 5099  vim bfs_399.cpp
+ 5100  g++ bfs_399.cpp -p bfs_399
+ 5101  g++ bfs_399.cpp -o bfs_399
+ 5102  ls
+ 5103  g++ bfs_399.cpp -o bfs_399 -std=c++11
+ 5104  ls
+ 5105  ./bfs_399
+ 5106  vim bfs_399.cpp
+ 5107  g++ bfs_399.cpp -o bfs_399 -std=c++11
+ 5108  ./bfs_399
+ 5109  vim bfs_399.cpp
+ 5110  ls
+ 5111  g++ bfs_399.cpp -std=c++11 bfs_399
+ 5112  g++ bfs_399.cpp -std=c++11 -o bfs_399
+ 5113  ls
+ 5114  cleart
+ 5115  clear
+ 5116  ls
+ 5117  ./bfs_399
+ 5118  ;s
+ 5119  clear
+ 5120  ls
+ 5121  ./bfs_399
+ 5122  ls
+ 5123  clear
+ 5124  ls
+ 5125  vim bfs_399.cpp
+ 5126  g++ bfs_399.cpp -std=c++11 -o bfs_399
+ 5127  ls
+ 5128  ./bfs_399
+ 5129  vim bfs_399.cpp
+ 5130  ll
+ 5131  clear
+ 5132  ls
+ 5133  ll
+ 5134  vim bfs_399.cpp
+ 5135  code
+ 5136  ls
+ 5137  algorithm
+ 5138  ls
+ 5139  clear
+ 5140  l;s
+ 5141  search
+ 5142  ls
+ 5143  ll
+ 5144  vim bfs_398.cpp
+ 5145  g++ bfs_398.cpp
+ 5146  ./a.out
+ 5147  vim bfs_398.cpp
+ 5148  g++ bfs_398.cpp
+ 5149  ./a.out
+ 5150  vim bfs_398.cpp
+ 5151  g++ bfs_398.cpp
+ 5152  ./a.out
+ 5153  vim bfs_398.cpp
+ 5154  g++ bfs_398.cpp
+ 5155  ./a.out
+ 5156  cat  bfs_398.cpp
+ 5157  cat bfs_399.cpp
+ 5158  cat  bfs_398.cpp
+ 5159  clear
+ 5160  ls
+ 5161  cat bfs_398.cpp
+ 5162  clear
+ 5163  ll
+ 5164  rm process.txt
+ 5165  ll
+ 5166  code
+ 5167  ls
+ 5168  s
+ 5169  ls
+ 5170  clear
+ 5171  ls
+ 5172  algorithm
+ 5173  ks
+ 5174  ls
+ 5175  clear
+ 5176  ls
+ 5177  search
+ 5178  ls
+ 5179  ll
+ 5180  vim  bfs_527.cpp             
+ 5181  g++ bfs_527.cpp
+ 5182  ./a.out
+ 5183  vim  bfs_527.cpp             
+ 5184  g++ bfs_527.cpp
+ 5185  ./a.out
+ 5186  vim  bfs_527.cpp             
+ 5187  g++ bfs_527.cpp
+ 5188  ./a.out
+ 5189  PLLP
+ 5190  PPLP
+ 5191  PPPP
+ 5192  ./a.out
+ 5193  vim bfs_527.cpp
+ 5194  ./a.out
+ 5195  g++ bfs_527.cpp
+ 5196  ./a.out
+ 5197  ls
+ 5198  clear
+ 5199  ls
+ 5200  g++ 4 4 2
+ 5201  PLLP
+ 5202  PPLP
+ 5203  PPPP
+ 5204  PLLPg++
+ 5205  clear
+ 5206  ls
+ 5207  g++ bfs_527.cpp
+ 5208  ./a.out 
+ 5209  vim bfs_527.cpp
+ 5210  g++ bfs_527.cpp
+ 5211  ./a.out
+ 5212  vim bfs_527.cpp
+ 5213  g++ bfs_527.cpp
+ 5214  ls
+ 5215  clear
+ 5216  ls
+ 5217  g+++ PLLP
+ 5218  PPLP
+ 5219  PPPP
+ 5220  PLLP
+ 5221  ls
+ 5222  clear
+ 5223  ls
+ 5224  g++ bfs_527.cpp
+ 5225  ./a.out
+ 5226  ls
+ 5227  clear
+ 5228  ls
+ 5229  g++ bfs_527.cpp
+ 5230  ls
+ 5231  ./bfs_399
+ 5232  ./a.out
+ 5233  clear
+ 5234  vim bfs_527.cpp
+ 5235  g++ bfs_527.cpp
+ 5236  ./a.out
+ 5237  vim bfs_527.cpp
+ 5238  g++ bfs_527.cpp
+ 5239  ./a.out
+ 5240  vim bfs_527.cpp
+ 5241  g++ bfs_527.cpp
+ 5242  ./a.out
+ 5243  vim bfs_527.cpp
+ 5244  g++ bfs_527.cpp
+ 5245  ./a.out
+ 5246  vim bfs_527.cpp
+ 5247  g++ bfs_527.cpp
+ 5248  ./a.out
+ 5249  PPLP
+ 5250  PPPP
+ 5251  PLLP
+ 5252  ls
+ 5253  clear
+ 5254  g++ PLLP
+ 5255  PPLP
+ 5256  PPPP
+ 5257  PLLP
+ 5258  ls
+ 5259  g++ bfs_527.cpp
+ 5260  .a/out
+ 5261  ./a.out
+ 5262  vim bfs_527.cpp
+ 5263  g++ bfs_527.cpp
+ 5264  ./a.out
+ 5265  vim bfs_527.cpp
+ 5266  g++ bfs_527.cpp
+ 5267  ./a.out
+ 5268  vim bfs_81.cpp
+ 5269  fg
+ 5270  coe
+ 5271  code
+ 5272  l
+ 5273  algorithm
+ 5274  ls
+ 5275  search
+ 5276  ls
+ 5277  clear
+ 5278  l]
+ 5279  ll
+ 5280  vim bfs_81.cpp
+ 5281  g++ bfs_81.cpp
+ 5282  ./a.out
+ 5283  ###..
+ 5284  ....T
+ 5285  .P##.
+ 5286  ls
+ 5287  clear
+ 5288  ;ls
+ 5289  vim bfs_81.cpp
+ 5290  g++ bfs_81.cpp
+ 5291  ./a.out
+ 5292  ###..
+ 5293  ....T
+ 5294  .P##.
+ 5295  vim bfs_81.cpp
+ 5296  g++ bfs_81.cpp
+ 5297  ./a.out
+ 5298  ###..
+ 5299  ....T
+ 5300  .P##.
+ 5301  P....
+ 5302  clear
+ 5303  ls
+ 5304  vim bfs_81.cpp
+ 5305  g++ bfs_81.cpp
+ 5306  ./a.out
+ 5307  ###..
+ 5308  ....T
+ 5309  .P##.
+ 5310  P....
+ 5311  vim bfs_81.cpp
+ 5312  ./a.out 2
+ 5313  g++ bfs_81.cpp
+ 5314  ./a.out
+ 5315  clear
+ 5316  l
+ 5317  COED
+ 5318  code
+ 5319  s
+ 5320  ks
+ 5321  ls
+ 5322  code
+ 5323  ls
+ 5324  algrorithmb
+ 5325  ls
+ 5326  algorithm
+ 5327  ls
+ 5328  clear
+ 5329  search
+ 5330  ls
+ 5331  vim dfs_538.cpp
+ 5332  g++ dfs_538.cpp]
+ 5333  g++ dfs_538.cpp
+ 5334  ./a.out
+ 5335  vim dfs_538.cpp
+ 5336  g++ dfs_538.cpp
+ 5337  ./a.out
+ 5338  vim dfs_538.cpp
+ 5339  g++ dfs_538.cpp
+ 5340  ./a.out
+ 5341  vim dfs_538.cpp
+ 5342  g++ dfs_538.cpp
+ 5343  ./a.out
+ 5344  vim dfs_538.cpp
+ 5345  ls
+ 5346  code
+ 5347  l;s
+ 5348  algorithm
+ 5349  ls
+ 5350  cleart
+ 5351  ls
+ 5352  clear
+ 5353  ls
+ 5354  search
+ 5355  ls
+ 5356  cleaf
+ 5357  l
+ 5358  clrar
+ 5359  ls
+ 5360  clear
+ 5361  ls
+ 5362  vim bfs_81.cpp
+ 5363  vim dfs_538.cpp
+ 5364  g++ dfs_538.cpp
+ 5365  ./a.out
+ 5366  clear
+ 5367  ./a.out
+ 5368  1 0 0 1 1 0 0 0 
+ 5369  1 0 0 0 0 0 1 1 
+ 5370  0 1 0 0 0 1 0 0 
+ 5371  0 0 0 1 1 0 0 0 
+ 5372  0 0 1 0 0 0 0 1 
+ 5373  0 0 1 0 0 0 1 0
+ 5374  ./a.out
+ 5375  ls
+ 5376  cat dfs_538.cpp
+ 5377  CODE
+ 5378  code]
+ 5379  ls
+ 5380  code
+ 5381  ls
+ 5382  algorithm
+ 5383  ls
+ 5384  clear
+ 5385  ls
+ 5386  search
+ 5387  ls
+ 5388  clear
+ 5389  ls
+ 5390  vim  bfs_402.cpp
+ 5391  cat bfs_402.cpp
+ 5392  g++ bfs_402.cpp
+ 5393  vim  bfs_402.cpp
+ 5394  g++ bfs_402.cpp
+ 5395  ./a.out
+ 5396  vim  bfs_402.cpp
+ 5397  g++ bfs_402.cpp
+ 5398  ./a.out
+ 5399  vim  bfs_402.cpp
+ 5400  g++ bfs_402.cpp
+ 5401  ./a.out
+ 5402  vim  bfs_402.cpp
+ 5403  g++ bfs_402.cpp
+ 5404  ./a.out
+ 5405  vim  bfs_402.cpp
+ 5406  g++ bfs_402.cpp
+ 5407  ./a.out
+ 5408  vim  bfs_402.cpp
+ 5409  g++ bsf_402.cpp
+ 5410  g++ bsf_402.cppg
+ 5411  g++ bfs_402.cpp
+ 5412  ./a.out
+ 5413  cat bfs_402.cpp
+ 5414  code
+ 5415  ll
+ 5416  algorithm
+ 5417  ls
+ 5418  clear
+ 5419  search
+ 5420  ls
+ 5421  ll
+ 5422  vim bfs_402.cpp
+ 5423  ls
+ 5424  vim 503.cpp
+ 5425  vim 531.cpp
+ 5426  vim 503.cpp
+ 5427  vim 531.cpp
+ 5428  l
+ 5429  code
+ 5430  ls
+ 5431  algorithm
+ 5432  mkdir
+ 5433  mkdir map
+ 5434  ls
+ 5435  map
+ 5436  ls
+ 5437  vim arr.co
+ 5438  vim arr.cpp
+ 5439  code
+ 5440  lls
+ 5441  ls
+ 5442  algorithm
+ 5443  ls
+ 5444  seach
+ 5445  ls
+ 5446  search
+ 5447  ls
+ 5448  clear
+ 5449  ls
+ 5450  cat 503.cpp
+ 5451  clear
+ 5452  ;ls
+ 5453  code
+ 5454  Ls
+ 5455  ls
+ 5456  algorithm
+ 5457  ls
+ 5458  clear
+ 5459  l
+ 5460  search
+ 5461  ls
+ 5462  clear
+ 5463  ll
+ 5464  cat 531.cpp
+ 5465  cat 503.cpp
+ 5466  clear
+ 5467  ls
+ 5468  cat 531.cpp
+ 5469  cat dfs_538.cpp
+ 5470  cleatr
+ 5471  clear
+ 5472  ls
+ 5473  cat bfs_398.cpp
+ 5474  clear
+ 5475  ls
+ 5476  ccode
+ 5477  ls
+ 5478  cls
+ 5479  code
+ 5480  ls
+ 5481  algrorithmb
+ 5482  al
+ 5483  ls
+ 5484  algorithm
+ 5485  ls
+ 5486  search
+ 5487  ls
+ 5488  cat dfs_538.cpp
+ 5489  clar
+ 5490  ls
+ 5491  clear
+ 5492  ls
+ 5493  cat 503.cpp
+ 5494  cat bfs_402.cpp
+ 5495  cat max_obszar_macierzy.cpp
+ 5496  cat 531.cpp
+ 5497  cat bfs_527.cpp
+ 5498  clear
+ 5499  ls
+ 5500  cat bfs_81.cpp
+ 5501  cat bfs_398.cpp
+ 5502  code
+ 5503  s
+ 5504  ls
+ 5505  algorithm
+ 5506  ls
+ 5507  c
+ 5508  clear
+ 5509  ll
+ 5510  serch
+ 5511  ls
+ 5512  search
+ 5513  ll
+ 5514  cat bfs_402.cpp
+ 5515  cat dfs_538.cpp
+ 5516  ..
+ 5517  ls
+ 5518  map
+ 5519  ls
+ 5520  cat arr.cpp
+ 5521  L
+ 5522  l
+ 5523  s
+ 5524  clear
+ 5525  ls
+ 5526  .
+ 5527  ..
+ 5528  ls
+ 5529  search
+ 5530  ls
+ 5531  code
+ 5532  kls
+ 5533  cls
+ 5534  cle
+ 5535  lc
+ 5536  ls
+ 5537  clear
+ 5538  ls
+ 5539  alarmOpt.c
+ 5540  clear
+ 5541  ls
+ 5542  algorithm
+ 5543  ls
+ 5544  l
+ 5545  ls
+ 5546  map
+ 5547  ls
+ 5548  cle
+ 5549  ar
+ 5550  clear
+ 5551  l;s
+ 5552  vim arr.cpp
+ 5553  clear
+ 5554  ll
+ 5555  code
+ 5556  ls
+ 5557  ~acpulssyntaxcpulssynt
+ 5558  ls
+ 5559  data-structures
+ 5560  ks
+ 5561  ll
+ 5562  Hashtable
+ 5563  ls
+ 5564  clar
+ 5565  ls
+ 5566  cat hash_table.c
+ 5567  cleasr
+ 5568  cear
+ 5569  clear
+ 5570  ls
+ 5571  vim hash_table.c
+ 5572  code
+ 5573  Ls
+ 5574  s
+ 5575  ls
+ 5576  algorithm
+ 5577  ls
+ 5578  map
+ 5579  ls
+ 5580  clear
+ 5581  rm arr.cpp
+ 5582  ls
+ 5583  vim Adjacency_Matrix.cpp
+ 5584  ls
+ 5585  code
+ 5586  ls
+ 5587  algorithm
+ 5588  lsc
+ 5589  ls\\
+ 5590  
+ 5591  search
+ 5592  ll
+ 5593  ..
+ 5594  ls
+ 5595  clerar
+ 5596  ls
+ 5597  clear
+ 5598  ls
+ 5599  mao
+ 5600  ,ap
+ 5601  mapo
+ 5602  map
+ 5603  clear
+ 5604  ls
+ 5605  vim Floyd.cpp
+ 5606  ls
+ 5607  clar
+ 5608  lc
+ 5609  l
+ 5610  ls
+ 5611  clear
+ 5612  ls
+ 5613  .s
+ 5614  ls
+ 5615  clear
+ 5616  ls
+ 5617  code
+ 5618  ls
+ 5619  algorithm
+ 5620  sls
+ 5621  code
+ 5622  ls
+ 5623  algorithm
+ 5624  ls
+ 5625  map
+ 5626  ls
+ 5627  clear
+ 5628  ls
+ 5629  vim Adjacency_list.cpp
+ 5630  nano ~/.bashrc
+ 5631  ~/.bashrc
+ 5632  bash
+ 5633  ls
+ 5634  vi ~/.bashrc
+ 5635  ls
+ 5636  clear
+ 5637  zsh
+ 5638  ls
+ 5639  cleartr
+ 5640  g++ Adjacency_list.cpp
+ 5641  Adjacency_list.cpp -std=c++11
+ 5642  g++ Adjacency_list.cpp -std=c++11
+ 5643  vim .bashrc
+ 5644  vi ~/.bashrc
+ 5645  vim vi ~/.bashrc
+ 5646  lsc
+ 5647  clear
+ 5648  ls
+ 5649  cd
+ 5650  ls
+ 5651  sudo vi /etc/profile
+ 5652  clear
+ 5653  ls
+ 5654  code
+ 5655  ls
+ 5656  clear
+ 5657  ls
+ 5658  algorithm
+ 5659  ls
+ 5660  map
+ 5661  ls
+ 5662  clear
+ 5663  sls
+ 5664  l
+ 5665  g++ Adjacency_list.cpp -o Adjacency_list.cpp
+ 5666  ls
+ 5667  g++  Adjacency_list.cpp -o Adjacency_list
+ 5668  ll
+ 5669  clear
+ 5670  source /etc/profile
+ 5671  ls
+ 5672  g++  Adjacency_list.cpp
+ 5673  clear
+ 5674  l
+ 5675  ls
+ 5676  source /etc/profile
+ 5677  cl
+ 5678  ls
+ 5679  clear
+ 5680  ls
+ 5681  code
+ 5682  sls
+ 5683  lks
+ 5684  ls
+ 5685  algorithm
+ 5686  ls
+ 5687  clear
+ 5688  map
+ 5689  rm a.out
+ 5690  clear
+ 5691  ls
+ 5692  g++ Adjacency_list.cpp
+ 5693  cd
+ 5694  vim /etc/profile.d/
+ 5695  sudo mkdir /etc/profile.d/
+ 5696  sudo vim /etc/profile.d/
+ 5697  ls
+ 5698  vim /etc/profile.d/
+ 5699  cd /etc/profile.d/
+ 5700  ls
+ 5701  cd cplusplus.sh
+ 5702  cd /etc/profile.d/  
+ 5703  l
+ 5704  vim cplusplus.sh
+ 5705  source cplusplus.sh
+ 5706  clear
+ 5707  ls
+ 5708  cd
+ 5709  ls
+ 5710  code
+ 5711  ls
+ 5712  algorithm
+ 5713  ls
+ 5714  clear
+ 5715  map
+ 5716  ls
+ 5717  g++ Adjacency_list.cpp
+ 5718  reboot
+ 5719  ls
+ 5720  code
+ 5721  ls
+ 5722  algorithm
+ 5723  ls
+ 5724  clea
+ 5725  r
+ 5726  clea
+ 5727  mapo
+ 5728  ls
+ 5729  map
+ 5730  ls
+ 5731  clear
+ 5732  ls
+ 5733  vim Adjacency_list.cpp
+ 5734  g++ Adjacency_list.cpp
+ 5735  g++ Adjacency_list.cpp  -std=c++11
+ 5736  source /etc/profile.d/cplusplus.sh
+ 5737  g++ Adjacency_list.cpp \n: 1676709440:0;g++ Adjacency_list.cpp 
+ 5738  sudo vi /etc/profile.d/cplusplus.sh
+ 5739  ls
+ 5740  source /etc/profile.d/cplusplus.sh
+ 5741  clear
+ 5742  ls
+ 5743  rm a.out
+ 5744  l;s
+ 5745  g++ Adjacency_Matrix.cpp 
+ 5746  ls
+ 5747  g++ Adjacency_list.cpp
+ 5748  g++ Adjacency_list.cpp -std=c++
+ 5749  g++ Adjacency_list.cpp -std=c++11
+ 5750  ls
+ 5751  clea
+ 5752  r
+ 5753  clea
+ 5754  cler
+ 5755  clear
+ 5756  ls
+ 5757  ./a.out 
+ 5758  vim Adjacency_list.cpp
+ 5759  g++ Adjacency_list.cpp -std=c++11
+ 5760  ls
+ 5761  ./a.out 
+ 5762  ls
+ 5763  clear
+ 5764  ls
+ 5765  g++ Adjacency_list.cpp -std=c++11
+ 5766  ./a.out
+ 5767  ls
+ 5768  vim Adjacency_list.cpp
+ 5769  g++ Adjacency_list.cpp -std=c++11
+ 5770  ./a.out
+ 5771  vim Adjacency_list.cpp
+ 5772  g++ 1 5 1
+ 5773  1 2 2
+ 5774  1 3 3
+ 5775  5 3 4
+ 5776  2 4 5
+ 5777  3 4 6clear
+ 5778  ls
+ 5779  g++ Adjacency_list.cpp -std=c++11
+ 5780  ./a.out
+ 5781  vim Adjacency_list.cpp
+ 5782  code
+ 5783  ls
+ 5784  kls
+ 5785  ls
+ 5786  cpuls
+ 5787  ls
+ 5788  ../
+ 5789  ls
+ 5790  data-structures
+ 5791  ls
+ 5792  Tree
+ 5793  ls
+ 5794  vim AVLimp.cpp
+ 5795  code
+ 5796  ls
+ 5797  algorithm
+ 5798  lks
+ 5799  ls
+ 5800  clart
+ 5801  ls
+ 5802  clar
+ 5803  clear
+ 5804  ls
+ 5805  search
+ 5806  ls
+ 5807  ../
+ 5808  l
+ 5809  clar
+ 5810  ..
+ 5811  ,ls
+ 5812  ls
+ 5813  data-structures
+ 5814  ls
+ 5815  clear
+ 5816  l
+ 5817  Tree
+ 5818  lks
+ 5819  ls
+ 5820  vim  ALimp.cpp 
+ 5821  cat AVLimp.cpp
+ 5822  vim AVLimp.cpp
+ 5823  code
+ 5824  ls
+ 5825  data-structures
+ 5826  ls
+ 5827  Tree
+ 5828  ls
+ 5829  code
+ 5830  ls
+ 5831  ...
+ 5832  /
+ 5833  \l
+ 5834  ls
+ 5835  cd
+ 5836  ls
+ 5837  code
+ 5838  clear
+ 5839  ls
+ 5840  git init
+ 5841  code_cpp
+ 5842  git add .
+ 5843  https://github.com/LiCheng-SyS/Linguistics.git
+ 5844  ..
+ 5845  ls
+ 5846  code
+ 5847  l
+ 5848  clear
+ 5849  ;s
+ 5850  ls
+ 5851  clar
+ 5852  ll
+ 5853  ls -all
+ 5854  rm .git
+ 5855  vim .git/
+ 5856  rm -rf .git
+ 5857  ll
+ 5858  l
+ 5859  clear
+ 5860  ../
+ 5861  git clone git@github.com:LiCheng-SyS/Linguistics.git
+ 5862  git clone https://github.com/LiCheng-SyS/Linguistics.git
+ 5863  git --version
+ 5864  sudo apt install git
+ 5865  sudo yum  install git
+ 5866  ls
+ 5867  git clone https://github.com/LiCheng-SyS/Linguistics.git
+ 5868  ls
+ 5869  code 
+ 5870  ls
+ 5871  clear
+ 5872  ls
+ 5873  ../
+ 5874  ls
+ 5875  Linguistics
+ 5876  ls
+ 5877  //
+ 5878  cd
+ 5879  lll
+ 5880  clear
+ 5881  ls
+ 5882  Linguistics
+ 5883  git add.
+ 5884  git add.  // .代表添加文件夹下所有文件     
+ 5885  git --help
+ 5886  git add
+ 5887  clear
+ 5888  git add
+ 5889  git add .
+ 5890  ll
+ 5891  git status
+ 5892  git commit -m log 'message'
+ 5893  git commit -m log
+ 5894  git push -u origin master
+ 5895  git remote add origin https://github.com/\*\*\*.git
+ 5896  git push -u origin master
+ 5897  clear
+ 5898  ;s
+ 5899  ls
+ 5900  ll
+ 5901  c..
+ 5902  ls
+ 5903  ssh-keygen -t rsa
+ 5904  ls -a | grep .ssh
+ 5905  ..
+ 5906  ls
+ 5907  ls -a | grep .ssh
+ 5908  ls
+ 5909  clear
+ 5910  ls -a | grep .ssh
+ 5911  cd .ssh
+ 5912  cat id_rsa.pub
+ 5913  ..
+ 5914  cl
+ 5915  ls
+ 5916  Linguistics
+ 5917  git commit -m ''
+ 5918  git push origin master
+ 5919  git commit -m ''
+ 5920  clear
+ 5921  ls
+ 5922  git commit -m ''
+ 5923  *** Please tell me who you are.
+ 5924  Run
+ 5925  to set your account's default identity.\nOmit --global to set the identity only in this repository.*** Please tell me who you are.\n\nRun\n\n  git config --global user.email "you@example.com"\n  git config --global user.name "Your Name"\n\nto set your account's default identity.
+ 5926  Omit --global to set the identity only in this repository.*** Please tell me who you are.
+ 5927  Run
+ 5928  to set your account's default identity.\nOmit --global to set the identity only in this repository.;\n\ncl/
+ 5929  Run
+ 5930  clear
+ 5931  ls
+ 5932  ll
+ 5933  *** Please tell me who you are.
+ 5934  Run
+ 5935  to set your account's default identity.\nOmit --global to set the identity only in this repository.*** Please tell me who you are.\n\nRun\n\n  git config --global user.email "you@example.com"\n  git config --global user.name "Your Name"\n\nto set your account's default identity.
+ 5936  Omit --global to set the identity only in this repository.
+ 5937  clear
+ 5938  git config --global user.email
+ 5939  git config --global user.email "1185495990@qq.com"
+ 5940  git config --global user.name "cheng"
+ 5941  git commit -m ''
+ 5942  git push origin master
+ 5943  git config --global user.name "1185495990@qq.com"
+ 5944  git config --global user.name "LiCheng-SyS"
+ 5945  ls
+ 5946  git push origin master
+ 5947  \tgit commit -m ''
+ 5948  git push origin master
+ 5949  git commit -m ''
+ 5950  ls
+ 5951  git push origin master
+ 5952  clear
+ 5953  cd
+ 5954  ls
+ 5955  git clone git@github.com:LiCheng-SyS/Linguistics.git
+ 5956  git clone https://github.com/LiCheng-SyS/Linguistics.git
+ 5957  clear
+ 5958  ls
+ 5959  https://github.com/LiCheng-SyS/Linguistics.git
+ 5960  git clone https://github.com/LiCheng-SyS/Linguistics.git
+ 5961  ls
+ 5962  Linguistics
+ 5963  git add --all
+ 5964  git add .
+ 5965  git commit
+ 5966  git add  .
+ 5967  git commit
+ 5968  git push -u origin master
+ 5969  git push  origin master
+ 5970  git push  origin mastergit commit
+ 5971  git commit
+ 5972  git push -u origin master
+ 5973  clear
+ 5974  ls
+ 5975  git push -u origin master
+ 5976  ll
+ 5977  clear
+ 5978  ls
+ 5979  git push -u origin master
+ 5980  cd linguisyoce
+ 5981  cd linguistics
+ 5982  cd git push -u origin master
+ 5983  cd Linguistics
+ 5984  git add
+ 5985  git add -all
+ 5986  git add .
+ 5987  git commit -m '提交'
+ 5988  git push origin master
+ 5989  git commit -m '提交'
+ 5990  git push origin master
+ 5991  git add .
+ 5992  git commit -m '提交'
+ 5993  git push origin master
+ 5994  clear
+ 5995  git push origin master
+ 5996  ls
+ 5997  git add .
+ 5998  git commit -m 'comit'
+ 5999  git push origin master
+ 6000  reboot
+ 6001  ls
+ 6002  Linguistics
+ 6003  git config --global --unset http.proxy
+ 6004  git config --global --unset https.proxy
+ 6005  git push origin master
+ 6006  clear
+ 6007  ls
+ 6008  git push origin master
+ 6009  git clone git@github.com:LiCheng-SyS/Linguistics.git
+ 6010  clear
+ 6011  l
+ 6012  git clone git@github.com:LiCheng-SyS/Linguistics.git
+ 6013  vim /etc/ssh/ssh_config
+ 6014  git clone git@github.com:LiCheng-SyS/Linguistics.git
+ 6015  vim /etc/ssh/ssh_config
+ 6016  reboot
+ 6017  clear
+ 6018  ls
+ 6019  git clone git@github.com:LiCheng-SyS/Linguistics.git
+ 6020  ls
+ 6021  Linguistics
+ 6022  ls
+ 6023  git add .
+ 6024  git commit -m 'commit'
+ 6025  git push origin master
+ 6026  git branch -b 
+ 6027  git push origin master
+ 6028  git branch -b
+ 6029  git push origin main
+ 6030  clear
+ 6031  ls
+ 6032  code
+ 6033  ls
+ 6034  data-structures
+ 6035  l
+ 6036  clear
+ 6037  ls
+ 6038  Tr
+ 6039  tre
+ 6040  Tree
+ 6041  ls
+ 6042  clear
+ 6043  ls
+ 6044  vim AVLimp.cpp
+ 6045  sudo yum install ctags
+ 6046  Bundle 'majutsushi/tagbar'
+ 6047  vim ~/.vimrc
+ 6048  vim ~/.vimrc 'majutsushi/tagbar'
+ 6049  vim-plug  'majutsushi/tagbar'
+ 6050  call plug#begin('~/.vim/plugged')
+ 6051  Plug 'majutsushi/tagbar'
+ 6052  call plug#end()call plug#begin('~/.vim/plugged')
+ 6053  call plug#begin('~/.vim/plugged')
+ 6054  ../
+ 6055  ..
+ 6056  cd
+ 6057  call plug#begin('~/.vim/plugged')
+ 6058  Plug 'majutsushi/tagbar'
+ 6059  ~/.vimrc
+ 6060  vim ~/.vimrc
+ 6061  lls
+ 6062  ls
+ 6063  clear
+ 6064  ls
+ 6065  Linguistics
+ 6066  ls
+ 6067  cpode
+ 6068  code
+ 6069  ls
+ 6070  data-structures
+ 6071  ls
+ 6072  Tree
+ 6073  ls
+ 6074  vim AVLimp.cpp
+ 6075  yum -y install ctags
+ 6076  cd
+ 6077  vim AVLimp.cpp
+ 6078  :PluginInstall
+ 6079  source ~/.vimrc
+ 6080  yum -y install ctags
+ 6081  vim ~/.vimrc
+ 6082  source ~/.vimrc
+ 6083  vim ~/.vimrc
+ 6084  source ~/.vimrc
+ 6085  clear
+ 6086  source ~/.vimrc
+ 6087  vim ~/.vimrc
+ 6088  source ~/.vimrc
+ 6089  clear
+ 6090  ls
+ 6091  source ~/.vimrc
+ 6092  vim ~/.vimrc
+ 6093  source ~/.vimrc
+ 6094  vim ~/.vimrc
+ 6095  source ~/.vimrc
+ 6096  vim ~/.vimrc
+ 6097  source ~/.vimrc
+ 6098  vim ~/.vimrc
+ 6099  source ~/.vimrc
+ 6100  vim ~/.vimrc
+ 6101  ls
+ 6102  vim ~/.vimrc
+ 6103  clear
+ 6104  ls
+ 6105  source ~/.vimrc
+ 6106  vim ~/.vimrc
+ 6107  ~/.vim/plugged
+ 6108  cd ~/.vim/plugged
+ 6109  unzip plugged.zip
+ 6110  ks
+ 6111  cl
+ 6112  ls
+ 6113  rm -rf ~/.vim/plugged
+ 6114  mv plugged ~/.vim
+ 6115  ../
+ 6116  ls
+ 6117  cd
+ 6118  ls
+ 6119  ll
+ 6120  ls -all
+ 6121  mv plugged ~/.vim 
+ 6122  ls
+ 6123  cd ~/.vim/plugged
+ 6124  plugged
+ 6125  unzip plugged.zip
+ 6126  ls
+ 6127  plugged
+ 6128  ll
+ 6129  yum -y install ctags
+ 6130  cd
+ 6131  cd  /var/cache/yum
+ 6132  ls
+ 6133  x86_64
+ 6134  cd
+ 6135  sl
+ 6136  l
+ 6137  ll
+ 6138  clear
+ 6139  ls
+ 6140  cat  /var/cache/yum
+ 6141  rm -rf ~/.vim/plugged
+ 6142  mv plugged ~/.vim
+ 6143  vim 1.cpp
+ 6144  clear
+ 6145  ls
+ 6146  ~/.vimrc
+ 6147  source ~/.vimrc 
+ 6148  ls
+ 6149  ll
+ 6150  l
+ 6151  vim  ~/.vimrc 
+ 6152  mv .vimrc .vimrc1
+ 6153  ll
+ 6154  l
+ 6155  mv vimrcbf .vimrc
+ 6156  ls
+ 6157  source ~/.vimrc 
+ 6158  clear
+ 6159  ls
+ 6160  vim 1.cpp
+ 6161  ls
+ 6162  clear
+ 6163  yum -y install ctags
+ 6164  vim ~/.vimrc
+ 6165  vim 1.cpp
+ 6166  vim ~/.vimrc
+ 6167  source ~/.vimrc 
+ 6168  vim 1.cpp
+ 6169  vim ~/.vimrc
+ 6170  vim 1.cpp
+ 6171  vim ~/.vimrc
+ 6172  vim 1.cpp
+ 6173  clear
+ 6174  ls
+ 6175  rm plugged.zip
+ 6176  ls
+ 6177  vim ~/.vimrc
+ 6178  vim 1.cpp
+ 6179  clear
+ 6180  ls
+ 6181  code
+ 6182  ls
+ 6183  clear
+ 6184  ls
+ 6185  vim ~/.vimrc
+ 6186  vim 1.cpp
+ 6187  vim ~/.vimrc
+ 6188  vim 1.cpp
+ 6189  vim ~/.vimrc
+ 6190  vim 1.cpp
+ 6191  vim ~/.vimrc
+ 6192  vim 1.cpp
+ 6193  vim ~/.vimrc
+ 6194  vim 1.cpp
+ 6195  vim ~/.vimrc
+ 6196  vim 1.cpp
+ 6197  vim ~/.vimrc
+ 6198  vim 1.cpp
+ 6199  vim ~/.vimrc
+ 6200  vim 1.cpp
+ 6201  vim ~/.vimrc
+ 6202  vim 1.cpp
+ 6203  vim ~/.vimrc
+ 6204  vim 1.cpp
+ 6205  vim ~/.vimrc
+ 6206  vim 1.cpp
+ 6207  vim ~/.vimrc
+ 6208  vim 1.cpp
+ 6209  vim ~/.vimrc
+ 6210  vim 1.cpp
+ 6211  rm 1.cpp
+ 6212  vim ~/.vimrc
+ 6213  rm 1.cpp
+ 6214  vim 1.cpp
+ 6215  vim ~/.vimrc
+ 6216  vim 1.cpp
+ 6217  vim ~/.vimrc
+ 6218  vim 1.cpp
+ 6219  vim ~/.vimrc
+ 6220  vim 1.cpp
+ 6221  vim ~/.vimrc
+ 6222  vim 1.cpp
+ 6223  vim ~/.vimrc
+ 6224  vim 1.cpp
+ 6225  clear
+ 6226  ls
+ 6227  vim ~/.vimrc
+ 6228  ls
+ 6229  code
+ 6230  ls
+ 6231  Linguistics
+ 6232  ls
+ 6233  clear
+ 6234  ls
+ 6235  coder
+ 6236  l
+ 6237  code
+ 6238  ls
+ 6239  clear
+ 6240  ls
+ 6241  data-structures
+ 6242  ls
+ 6243  Tree
+ 6244  ls
+ 6245  vim AVLimp.cpp
+ 6246  ls
+ 6247  vim ~/.vimrc
+ 6248  vim AVLimp.cpp
+ 6249  ll
+ 6250  Linguistics
+ 6251  ll
+ 6252  code 
+ 6253  ll
+ 6254  data-structures
+ 6255  ll
+ 6256  Tree
+ 6257  ll
+ 6258  vim AVLimp.cpp
+ 6259  vim ~/.vimrc
+ 6260  vim AVLimp.cpp
+ 6261  vim ~/.vimrc
+ 6262  vim AVLimp.cpp
+ 6263  gcc AVLimp.cpp
+ 6264  vim AVLimp.cpp
+ 6265  gcc AVLimp.cpp
+ 6266  vim AVLimp.cpp
+ 6267  vim ~/.vimrc
+ 6268  vim AVLimp.cpp
+ 6269  gcc AVLimp.cpp
+ 6270  vim AVLimp.cpp
+ 6271  gcc AVLimp.cpp
+ 6272  ./a.out 
+ 6273  vim AVLimp.cpp
+ 6274  gcc AVLimp.cpp
+ 6275  ./a.out 
+ 6276  vim AVLimp.cpp
+ 6277  gcc AVLimp.cpp
+ 6278  ./a.out 
+ 6279  gcc AVLimp.cpp
+ 6280  ./a.out
+ 6281  vim AVLimp.cpp
+ 6282  gcc AVLimp.cpp
+ 6283  ./a.out 10
+ 6284  ./a.out
+ 6285  clear
+ 6286  ;ls
+ 6287  ls
+ 6288  vim AVLimp.cpp
+ 6289  gcc AVLimp.cpp
+ 6290  ./a.out
+ 6291  vim AVLimp.cpp
+ 6292  gcc AVLimp.cpp
+ 6293  vim AVLimp.cpp
+ 6294  gcc AVLimp.cpp
+ 6295  clear
+ 6296  ;ls
+ 6297  clear
+ 6298  ls
+ 6299  vim AVLimp.cpp
+ 6300  g++ AVLimp.cpp
+ 6301  clear
+ 6302  l;s
+ 6303  ll
+ 6304  clear
+ 6305  g++ AVLimp.cpp
+ 6306  vim AVLimp.cpp
+ 6307  g++ AVLimp.cpp
+ 6308  vim AVLimp.cpp
+ 6309  g++ AVLimp.cpp
+ 6310  vim AVLimp.cpp
+ 6311  g++ AVLimp.cpp
+ 6312  ./a.out 
+ 6313  g++ AVLimp.cpp
+ 6314  vim AVLimp.cpp
+ 6315  g++ AVLimp.cpp
+ 6316  ./a.out
+ 6317  vim AVLimp.cpp
+ 6318  g++ AVLimp.cpp
+ 6319  ./a.out
+ 6320  clear
+ 6321  git  commit -m  "AVL 操作"
+ 6322  clear
+ 6323  ..
+ 6324  ;
+ 6325  ..
+ 6326  ls
+ 6327  ..
+ 6328  ls
+ 6329  git commit -m "avl tree"
+ 6330  git add .
+ 6331  git commit  -a "AVL操作" 
+ 6332  git commit  - "AVL操作" 
+ 6333  m
+ 6334  git commit  - "AVL操作" 
+ 6335  git commit -m "AVl操作"
+ 6336  ls
+ 6337  git push origin main
+ 6338  clear
+ 6339  ls
+ 6340  cl
+ 6341  clear
+ 6342  code
+ 6343  ls
+ 6344  ccode
+ 6345  ls
+ 6346  Linguistics
+ 6347  ls
+ 6348  clear
+ 6349  ls
+ 6350  code
+ 6351  ls
+ 6352  cclear
+ 6353  lc
+ 6354  clear
+ 6355  ls
+ 6356  cpuls
+ 6357  ls
+ 6358  ..
+ 6359  ls
+ 6360  cpulssyntax
+ 6361  ls
+ 6362  clear
+ 6363  ls
+ 6364  clear
+ 6365  ls
+ 6366  vim pnt_add.c
+ 6367  gcc pnt_add.c -std=c99
+ 6368  ls
+ 6369  /a.out
+ 6370  ./a.out
+ 6371  vim pnt_add.c
+ 6372  clear
+ 6373  ls
+ 6374  vim add_sum.c
+ 6375  clear
+ 6376  ls
+ 6377  vim add_sum.c
+ 6378  g++ add_sum.c -std=c99
+ 6379  ./a.out
+ 6380  g++ add_sum.c -std=c99
+ 6381  vim add_sum.c
+ 6382  g++ add_sum.c -std=c99
+ 6383  ./a.out
+ 6384  vim add_sum.c
+ 6385  g++ add_sum.c -std=c99
+ 6386  ./a.out
+ 6387  vim add_sum.c
+ 6388  g++ add_sum.c -std=c99
+ 6389  ./a.out
+ 6390  vim add_sum.c
+ 6391  g++ add_sum.c -std=c99
+ 6392  ./a.out
+ 6393  clear
+ 6394  ls
+ 6395  ll
+ 6396  cat c1.cpp
+ 6397  rm c1.cpp
+ 6398  rm c2.cpp
+ 6399  ls
+ 6400  clear
+ 6401  ls
+ 6402  ll
+ 6403  cat strcmp.c
+ 6404  vim strcmp.c
+ 6405  clear
+ 6406  ls
+ 6407  rm strcmp.c
+ 6408  ls
+ 6409  clear
+ 6410  ll
+ 6411  cat argument.cpp
+ 6412  cat arrwith.cpp
+ 6413  cleart
+ 6414  ls
+ 6415  clear
+ 6416  ls
+ 6417  cat arrwith.cpp
+ 6418  code
+ 6419  l
+ 6420  ls
+ 6421  clear
+ 6422  ls
+ 6423  Linguistics
+ 6424  ls
+ 6425  code
+ 6426  ls
+ 6427  clear
+ 6428  ls
+ 6429  data-structures
+ 6430  clear
+ 6431  ls
+ 6432  Tree
+ 6433  clear
+ 6434  ls
+ 6435  vim AVLimp.cpp
+ 6436  g++ AVLimp.cpp
+ 6437  clear
+ 6438  ls
+ 6439  ./a.out
+ 6440  clear
+ 6441  vim AVLimp.cpp
+ 6442  code
+ 6443  ls
+ 6444  Linguistics
+ 6445  ls
+ 6446  code
+ 6447  l.s
+ 6448  ls
+ 6449  data-structures
+ 6450  clear
+ 6451  ls
+ 6452  Tree
+ 6453  ls
+ 6454  vim AVLimp.cpp
+ 6455  ls
+ 6456  code
+ 6457  clear
+ 6458  ll
+ 6459  Linguistics
+ 6460  ls
+ 6461  cleat
+ 6462  clea
+ 6463  r
+ 6464  clea
+ 6465  ls
+ 6466  clea
+ 6467  r
+ 6468  clea
+ 6469  ls
+ 6470  clea
+ 6471  r
+ 6472  clea
+ 6473  clear
+ 6474  ls
+ 6475  clear
+ 6476  ls
+ 6477  code
+ 6478  ls
+ 6479  data-structures
+ 6480  ckear
+ 6481  clear
+ 6482  ls
+ 6483  Tree
+ 6484  lx
+ 6485  ls
+ 6486  clear
+ 6487  ls
+ 6488  clear
+ 6489  ls
+ 6490  vim AVLimp.cpp
+ 6491  clear
+ 6492  ls
+ 6493  clear
+ 6494  ls
+ 6495  ks
+ 6496  ls
+ 6497  coe
+ 6498  l
+ 6499  s
+ 6500  code
+ 6501  ls
+ 6502  lls
+ 6503  Linguistics
+ 6504  clear
+ 6505  ls
+ 6506  code
+ 6507  ls
+ 6508  cpulssyntax
+ 6509  clear
+ 6510  ls
+ 6511  vim cppvector.cpp
+ 6512  LS
+ 6513  ls
+ 6514  Linguistics
+ 6515  sl
+ 6516  ls
+ 6517  clear
+ 6518  ls
+ 6519  code
+ 6520  ls
+ 6521  clear
+ 6522  clea
+ 6523  ls
+ 6524  data-structures
+ 6525  lc
+ 6526  ls
+ 6527  clear
+ 6528  ls
+ 6529  Tree
+ 6530  ls
+ 6531  vim AVLimp.cpp
+ 6532  l
+ 6533  clear
+ 6534  ls
+ 6535  Linguistics 
+ 6536  ls
+ 6537  clear
+ 6538  ls
+ 6539  clear
+ 6540  ls
+ 6541  clear
+ 6542  ls
+ 6543  clear
+ 6544  l
+ 6545  code
+ 6546  ls
+ 6547  clear
+ 6548  ls
+ 6549  data-structures
+ 6550  ls
+ 6551  Tree
+ 6552  clear
+ 6553  ls
+ 6554  ll
+ 6555  clear
+ 6556  ls
+ 6557  ll
+ 6558  clear
+ 6559  ls
+ 6560  ll
+ 6561  clea
+ 6562  clear
+ 6563  ls
+ 6564  clear
+ 6565  l
+ 6566  ls
+ 6567  Linguistics
+ 6568  ls
+ 6569  code
+ 6570  ,s
+ 6571  ls
+ 6572  data-structures
+ 6573  ls
+ 6574  s
+ 6575  ls
+ 6576  Tree
+ 6577  ls
+ 6578  clear
+ 6579  ls
+ 6580  mkdir opt
+ 6581  ls
+ 6582  opt
+ 6583  ls
+ 6584  clea
+ 6585  r
+ 6586  clea
+ 6587  ear
+ 6588  clear
+ 6589  ls
+ 6590  vim leveOrderBottom.cpp
+ 6591  ls
+ 6592  g++ leveOrderBottom.cpp -std=c++11
+ 6593  vim leveOrderBottom.cpp
+ 6594  g++ leveOrderBottom.cpp -std=c++11
+ 6595  vim leveOrderBottom.cpp
+ 6596  g++ leveOrderBottom.cpp -std=c++11
+ 6597  clear
+ 6598  ls
+ 6599  vim leveOrderBottom.cpp
+ 6600  vim leveOrderBottom.c
+ 6601  ls
+ 6602  clear
+ 6603  sl
+ 6604  ls
+ 6605  clear
+ 6606  ls
+ 6607  ll
+ 6608  ../
+ 6609  ls
+ 6610  ..
+ 6611  .
+ 6612  ..
+ 6613  ls
+ 6614  git add.
+ 6615  git add .
+ 6616  git add
+ 6617  git add .
+ 6618  ..
+ 6619  git add.
+ 6620  git add .
+ 6621  git add -all
+ 6622  git add --all
+ 6623  git commit -m  'level'
+ 6624  git push origin main
+ 6625  ls
+ 6626  Linguistics
+ 6627  ls
+ 6628  clear
+ 6629  ls
+ 6630  code
+ 6631  ll
+ 6632  ls
+ 6633  cpuls
+ 6634  ..
+ 6635  ls
+ 6636  clear
+ 6637  ls
+ 6638  netwrokOpt
+ 6639  lc
+ 6640  clear
+ 6641  ls
+ 6642  .
+ 6643  ..
+ 6644  ls
+ 6645  clear
+ 6646  ls
+ 6647  data-structures
+ 6648  clear
+ 6649  ;s
+ 6650  ls
+ 6651  clear
+ 6652  ls
+ 6653  data-structures
+ 6654  Tree
+ 6655  clear
+ 6656  ls
+ 6657  op
+ 6658  opt 
+ 6659  ls
+ 6660  lear
+ 6661  ll
+ 6662  clear
+ 6663  vim widthBinary.cpp
+ 6664  ls
+ 6665  vim widthBinary.cpp
+ 6666  clear
+ 6667  ls
+ 6668  ll
+ 6669  clear
+ 6670  l
+ 6671  .
+ 6672  ..
+ 6673  clear
+ 6674  ..
+ 6675  l
+ 6676  ..
+ 6677  ll
+ 6678  ..
+ 6679  ls
+ 6680  l
+ 6681  clear
+ 6682  l
+ 6683  clear
+ 6684  ls
+ 6685  clear
+ 6686  ls
+ 6687  clear
+ 6688  ls
+ 6689  code
+ 6690  ls
+ 6691  cpulssyntax
+ 6692  ..
+ 6693  ls
+ 6694  data-structures
+ 6695  s
+ 6696  ls
+ 6697  celar
+ 6698  ls\\
+ 6699  
+ 6700  clear
+ 6701  ls
+ 6702  Tree
+ 6703  ls
+ 6704  clear
+ 6705  ls
+ 6706  clea
+ 6707  ls
+ 6708  cl
+ 6709  ls
+ 6710  Linguistics
+ 6711  ls
+ 6712  clear
+ 6713  ls
+ 6714  code
+ 6715  ls
+ 6716  data-structures
+ 6717  ls
+ 6718  Tree
+ 6719  ls
+ 6720  vim AVLimp.cpp
+ 6721  vim red_black.cpp
+ 6722  g++ redicreck.c
+ 6723  ls
+ 6724  g++ red_black.cpp
+ 6725  ./a.out
+ 6726  10
+ 6727  ./a.out
+ 6728  vim red_black.cpp
+ 6729  10
+ 6730  ./a.out
+ 6731  g++ red_black.cpp
+ 6732  ./a.out1
+ 6733  ./a.out
+ 6734  vim red_black.cpp
+ 6735  g++ red_black.cpp
+ 6736  vim red_black.cpp
+ 6737  g++ red_black.cpp
+ 6738  ./a.out
+ 6739  g++ red_black.cpp
+ 6740  ./a.out
+ 6741  vim  red_black.cpp
+ 6742  g++ red_black.cpp
+ 6743  ./a.out
+ 6744  cl[ear
+ 6745  ls
+ 6746  clear
+ 6747  ls
+ 6748  vim red_black.cpp
+ 6749  g++ red_black.cpp
+ 6750  ./a.out
+ 6751  vim  red_black.cpp
+ 6752  g++ red_black.cpp
+ 6753  ./a.out
+ 6754  vim  red_black.cpp
+ 6755  g++ red_black.cpp
+ 6756  ./a.out
+ 6757  vim  red_black.cpp
+ 6758  ls
+ 6759  clear
+ 6760  ls
+ 6761  Linguistics
+ 6762  clear
+ 6763  ls
+ 6764  code
+ 6765  ls
+ 6766  cleat
+ 6767  k;\\
+ 6768  
+ 6769  l
+ 6770  clear
+ 6771  ls
+ 6772  data-structures
+ 6773  ls
+ 6774  clear
+ 6775  ls
+ 6776  Tree
+ 6777  clea
+ 6778  r
+ 6779  clea
+ 6780  clear
+ 6781  l
+ 6782  vim red_black.cpp
+ 6783  ls
+ 6784  clear
+ 6785  l
+ 6786  g++ red_black.cpp
+ 6787  ls
+ 6788  clear
+ 6789  .a/.out
+ 6790  ./a.oyt;
+ 6791  ./a.out
+ 6792  vim red_black.cpp
+ 6793  clear
+ 6794  ls
+ 6795  Linguistics
+ 6796  ls
+ 6797  clear
+ 6798  ls
+ 6799  code
+ 6800  ls
+ 6801  c
+ 6802  clear
+ 6803  ls
+ 6804  data-structures
+ 6805  ls
+ 6806  clear
+ 6807  ls
+ 6808  Tree
+ 6809  ls
+ 6810  clear
+ 6811  ;
+ 6812  kl
+ 6813  l
+ 6814  vim red_black.cpp
+ 6815  g++ red_black.cpp
+ 6816  ./a.out
+ 6817  vim red_black.cpp
+ 6818  g++ red_black.cpp
+ 6819  ./a.out
+ 6820  vim red_black.cpp
+ 6821  g++ red_black.cpp
+ 6822  ./a.out
+ 6823  vim red_black.cpp
+ 6824  ./a.out
+ 6825  g++ red_black.cpp
+ 6826  ./a.out
+ 6827  clear
+ 6828  ls
+ 6829  clear
+ 6830  ls
+ 6831  vim red_black.cpp
+ 6832  g++ red_black.cpp
+ 6833  ./a.out
+ 6834  vim red_black.cpp
+ 6835  g++ red_black.cpp
+ 6836  ./a.out
+ 6837  vim red_black.cpp
+ 6838  g++ red_black.cpp
+ 6839  ./a.out
+ 6840  vim red_black.cpp
+ 6841  g++ red_black.cpp
+ 6842  ./a.out
+ 6843  vim red_black.cpp
+ 6844  g++ red_black.cpp
+ 6845  ./a.out
+ 6846  vim red_black.cpp
+ 6847  g++ g++ -std=c++11 -Wall -Wextra -Werror -pedantic code.cpp -o code
+ 6848  g++ -std=c++11 -Wall -Wextra -Werror -pedantic code.cpp -o code
+ 6849  g++ red_black.cpp -std=c++11 -Wall
+ 6850  ./a.out 
+ 6851  vim red_black.cpp
+ 6852  g++ red_black.cpp -std=c++11 -Wall
+ 6853  ./a.out
+ 6854  vim red_black.cpp
+ 6855  g++ red_black.cpp -std=c++11 -Wall
+ 6856  ./a.out
+ 6857  vim red_black.cpp
+ 6858  g++ red_black.cpp -std=c++11 -Wall
+ 6859  ./a.out
+ 6860  vim red_black.cpp
+ 6861  g++ red_black.cpp -std=c++11 -Wall
+ 6862  ./a.out
+ 6863  vim red_black.cpp
+ 6864  .a/.out
+ 6865  ./a.ougt
+ 6866  ./a.out
+ 6867  dmesg
+ 6868  vim red_black.cpp
+ 6869  g++ red_black.cpp -std=c++11 -Wall
+ 6870  ./a.out
+ 6871  vim red_black.cpp
+ 6872  g++ red_black.cpp -std=c++11 -Wall
+ 6873  ./a.out
+ 6874  vim red_black.cpp
+ 6875  g++ red_black.cpp -std=c++11 -Wall
+ 6876  ./a.out
+ 6877  vim red_black.cpp
+ 6878  g++ red_black.cpp -std=c++11 -Wall
+ 6879  ./a.out
+ 6880  ./a.out 
+ 6881  vim red_black.cpp
+ 6882  ./a.out 
+ 6883  g++ red_black.cpp -std=c++11 -Wall
+ 6884  ./a.out
+ 6885  vim red_black.cpp
+ 6886  g++ red_black.cpp -std=c++11 -Wall
+ 6887  ./a.out
+ 6888  vim red_black.cpp
+ 6889  ./a.out
+ 6890  vim red_black.cpp
+ 6891  g++ red_black.cpp -std=c++11 -Wall
+ 6892  ./a.out
+ 6893  vim red_black.cpp
+ 6894  g++ red_black.cpp -std=c++11 -Wall
+ 6895  ./a.out
+ 6896  clear
+ 6897  CLE
+ 6898  lcear
+ 6899  ls
+ 6900  opt
+ 6901  vim buliertree.cpp
+ 6902  cle
+ 6903  ls
+ 6904  Linguistics
+ 6905  ls
+ 6906  clear
+ 6907  ls
+ 6908  code
+ 6909  ls
+ 6910  cpuls
+ 6911  ls
+ 6912  ..
+ 6913  ls
+ 6914  cpulssyntax
+ 6915  ls
+ 6916  clear
+ 6917  ls
+ 6918  cat pnt_add.c
+ 6919  vim pnt_add.c
+ 6920  g++  pnt_add.c
+ 6921  ./a.out
+ 6922  sl
+ 6923  ls
+ 6924  Linguistics
+ 6925  ls
+ 6926  cleart
+ 6927  ls
+ 6928  clear
+ 6929  ls
+ 6930  code
+ 6931  ls
+ 6932  algorithm
+ 6933  ls
+ 6934  clear
+ 6935  ls
+ 6936  ../
+ 6937  ls
+ 6938  clear
+ 6939  ;s
+ 6940  ls
+ 6941  cpuls
+ 6942  ls
+ 6943  ..
+ 6944  l
+ 6945  data-structures
+ 6946  lps
+ 6947  ls
+ 6948  clear
+ 6949  ls
+ 6950  Tree
+ 6951  ls
+ 6952  vim red_black.cpp
+ 6953  g++ red_black.cpp
+ 6954  ./a.out
+ 6955  vim red_black.cpp
+ 6956  ls
+ 6957  linguistics
+ 6958  ls
+ 6959  Linguistics
+ 6960  clear
+ 6961  ls
+ 6962  code
+ 6963  ,
+ 6964  clear
+ 6965  ls
+ 6966  data-structures
+ 6967  ls
+ 6968  Tree
+ 6969  ls
+ 6970  cle
+ 6971  ar
+ 6972  clear
+ 6973  ls
+ 6974  vim red_black.cpp
+ 6975  ls
+ 6976  linguistics
+ 6977  Linguistice
+ 6978  Linguistics
+ 6979  ls
+ 6980  c
+ 6981  clea
+ 6982  clear
+ 6983  ls
+ 6984  code
+ 6985  ls
+ 6986  data-structures
+ 6987  ;s
+ 6988  ls
+ 6989  cleart
+ 6990  clear
+ 6991  ls
+ 6992  Tree
+ 6993  ls
+ 6994  vim red_black.cpp
+ 6995  g++ red_black.cpp
+ 6996  ./a.out
+ 6997  vim red_black.cpp
+ 6998  clearl
+ 6999  clear
+ 7000  ls
+ 7001  clear
+ 7002  s
+ 7003  ks
+ 7004  ls
+ 7005  ./a.out
+ 7006  vim red_black.cpp
+ 7007  ls
+ 7008  g++ n);
+ 7009  285     Node *root = NIL;
+ 7010  286     for(int i =0 ; i < n ;i++){
+ 7011  287         root =rand_insert(root);        
+ 7012  288     }
+ 7013  289     while(~scanf("%d",&n)) {
+ 7014  290          root =earse(root,n);
+ 7015  291     }
+ 7016  292     clear(root);
+ 7017  293     return 0;c
+ 7018  clear
+ 7019  ls
+ 7020  ./a.out
+ 7021  ls
+ 7022  clear
+ 7023  ls
+ 7024  vim red_black.cpp
+ 7025  g++ red_black.cpp
+ 7026  ls
+ 7027  clear
+ 7028  ls
+ 7029  ./a.out
+ 7030  clear
+ 7031  ls
+ 7032  ./a.out
+ 7033  clear
+ 7034  ls
+ 7035  clear
+ 7036  ls
+ 7037  clear
+ 7038  l
+ 7039  vim red_black.cpp
+ 7040  g++ red_black.cpp
+ 7041  ./a.out
+ 7042  vim red_black.cpp
+ 7043  ./a.out
+ 7044  g++ red_black.cpp
+ 7045  ./a.out
+ 7046  clear
+ 7047  ls
+ 7048  clear
+ 7049  ls
+ 7050  clear
+ 7051  ls
+ 7052  ..
+ 7053  LS
+ 7054  ...
+ 7055  LC
+ 7056  ls
+ 7057  Linguistics
+ 7058  git add.
+ 7059  git add .
+ 7060  clear
+ 7061  ;s
+ 7062  ls
+ 7063  git commit -m 'Red Black Tree'
+ 7064  git push origin main
+ 7065  clear
+ 7066  ls
+ 7067  ..
+ 7068  ls
+ 7069  Linguistics
+ 7070  ls
+ 7071  clear
+ 7072  ls
+ 7073  code
+ 7074  lks
+ 7075  cclear
+ 7076  clear
+ 7077  ls
+ 7078  os_kernel_ancy
+ 7079  ls
+ 7080  code
+ 7081  ls
+ 7082  Linguistics
+ 7083  clear
+ 7084  ls
+ 7085  clear
+ 7086  ls
+ 7087  cpde
+ 7088  coe
+ 7089  code
+ 7090  ls
+ 7091  clear
+ 7092  ls
+ 7093  data-structures
+ 7094  clear
+ 7095  ls
+ 7096  Tre‘
+ 7097  Tree
+ 7098  clear
+ 7099  ls
+ 7100  cleear
+ 7101  ls
+ 7102  clear
+ 7103  ls
+ 7104  ls -all
+ 7105  cat avlimp.cpp
+ 7106  clear
+ 7107  ls
+ 7108  clear
+ 7109  ls -all
+ 7110  cat avlimp.cpp
+ 7111  clear
+ 7112  ls
+ 7113  Linguistics
+ 7114  l
+ 7115  code
+ 7116  ls
+ 7117  clear
+ 7118  ls
+ 7119  data-structures
+ 7120  ls
+ 7121  ../
+ 7122  ls
+ 7123  algorithm
+ 7124  ls
+ 7125  clear
+ 7126  ls
+ 7127  mikdir strmatch
+ 7128  mkdir strmatch
+ 7129  ls
+ 7130  strmatch
+ 7131  ls
+ 7132  clear
+ 7133  ls
+ 7134  clear
+ 7135  ls
+ 7136  vim trie.cpp
+ 7137  ls
+ 7138  clear
+ 7139  ls
+ 7140  ...
+ 7141  ls
+ 7142  Linguistics
+ 7143  ls
+ 7144  code
+ 7145  ..
+ 7146  ls
+ 7147  code
+ 7148  ls
+ 7149  algorithm
+ 7150  clear
+ 7151  ls
+ 7152  strmatch
+ 7153  ls
+ 7154  clear
+ 7155  vim trie.cpp
+ 7156  g++ trie.cpp
+ 7157  vim trie.cpp
+ 7158  g++ trie.cpp
+ 7159  vim trie.cpp
+ 7160  g++ trie.cpp
+ 7161  ls
+ 7162  clear
+ 7163  ls
+ 7164  cat trie.cpp
+ 7165  rm \\
+ 7166  
+ 7167  cat trie.cpp
+ 7168  cl
+ 7169  ls
+ 7170  clear
+ 7171  ls
+ 7172  clear
+ 7173  ls
+ 7174  g++ trie.cpp
+ 7175  ./a.out
+ 7176  g++ trie.cpp
+ 7177  ./a.out
+ 7178  vim trie.cpp
+ 7179  g++ trie.cpp
+ 7180  ./a.out
+ 7181  clear
+ 7182  ./a.out
+ 7183  vim trie.cpp
+ 7184  ks
+ 7185  ls
+ 7186  clear
+ 7187  ./a.out
+ 7188  vim trie.cpp
+ 7189  g++ trie.cpp
+ 7190  ./a.out
+ 7191  vim trie.cpp
+ 7192  g++ trie.cpp
+ 7193  ./a.out
+ 7194  vim trie.cpp
+ 7195  g++ trie.cpp
+ 7196  clear
+ 7197  ls
+ 7198  ./a.out
+ 7199  g++ trie.cpp
+ 7200  ./a.ot
+ 7201  ./a.out
+ 7202  clear
+ 7203  ;s
+ 7204  clear
+ 7205  ls
+ 7206  ./a.out
+ 7207  vim trie.cpp
+ 7208  g++ trie.cpp
+ 7209  ./a.out
+ 7210  vim trie.cpp
+ 7211  g++ trie.cpp
+ 7212  ./a.out
+ 7213  vim trie.cpp
+ 7214  clear
+ 7215  g
+ 7216  clear
+ 7217  ls
+ 7218  g
+ 7219  clear
+ 7220  ls
+ 7221  g++ trie.cpp
+ 7222  ./a.out
+ 7223  clear
+ 7224  vim trie.cpp
+ 7225  g++ trie.cpp
+ 7226  ./a.out
+ 7227  vim trie.cpp
+ 7228  g++ trie.cpp
+ 7229  ./a.out
+ 7230  vim trie.cpp
+ 7231  g++ trie.cpp
+ 7232  ./a.out
+ 7233  vim trie.cpp
+ 7234  g++ trie.cpp
+ 7235  ./a.out
+ 7236  vim trie.cpp
+ 7237  g++ trie.cpp
+ 7238  ./a.out
+ 7239  clear
+ 7240  ls
+ 7241  clear
+ 7242  ls
+ 7243  clear
+ 7244  ls
+ 7245  CLEAR
+ 7246  clear
+ 7247  vim trie.cpp
+ 7248  vim triedata
+ 7249  g++ trie.cpp
+ 7250  ./a.out < triedata
+ 7251  vim triedata
+ 7252  vim trie.cpp
+ 7253  ./a.out < triedata
+ 7254  g++ trie.cpp
+ 7255  ./a.out < triedata
+ 7256  vim trie.cpp
+ 7257  g++ trie.cpp
+ 7258  ./a.out 
+ 7259  vim trie.cpp
+ 7260  ls
+ 7261  clear
+ 7262  ls
+ 7263  ./a.out <triedata
+ 7264  vim trie.cpp
+ 7265  vim triedata
+ 7266  g++ trie.cpp
+ 7267  ./a.out
+ 7268  ./a.out < tridedata
+ 7269  ./a.out <triedata
+ 7270  clear
+ 7271  vim triedata
+ 7272  vim trie.cpp
+ 7273  ls
+ 7274  g
+ 7275  ++
+ 7276  cleart
+ 7277  ls
+ 7278  clear
+ 7279  ls
+ 7280  g++ trie.cpp
+ 7281  ./a.out
+ 7282  clear
+ 7283  l;s
+ 7284  ls
+ 7285  clear
+ 7286  ls
+ 7287  vim trie.cpp
+ 7288  ls
+ 7289  clear
+ 7290  ls
+ 7291  ./a.out
+ 7292  clear
+ 7293  ;s
+ 7294  ls
+ 7295  vim trie.cpp
+ 7296  ls
+ 7297  lls
+ 7298  到底sdasda
+ 7299  ls
+ 7300  clear
+ 7301  ls
+ 7302  Linguistics
+ 7303  l
+ 7304  cod
+ 7305  code
+ 7306  ls
+ 7307  clear
+ 7308  algorithm
+ 7309  ls
+ 7310  clear
+ 7311  ls
+ 7312  strmatch
+ 7313  ls
+ 7314  clea
+ 7315  vim trie
+ 7316  g++ trie.cpp
+ 7317  ls
+ 7318  ./a.out < triedata
+ 7319  vim trie.cpp
+ 7320  g++ rrie.cpp
+ 7321  g++ trie.cpp
+ 7322  ./a.out
+ 7323  ./a.out < triedata
+ 7324  clear
+ 7325  ls
+ 7326  vim trie.cpp
+ 7327  g++ trie.cpp
+ 7328  ./a.out < triedata
+ 7329  vim trie.cpp
+ 7330  lsc
+ 7331  ls
+ 7332  clear
+ 7333  ls
+ 7334  Linguistics
+ 7335  ls
+ 7336  clear
+ 7337  code
+ 7338  s
+ 7339  l
+ 7340  algorithm
+ 7341  ls
+ 7342  strmatch
+ 7343  clear
+ 7344  l
+ 7345  vim trie.cpp
+ 7346  g++ trie.cpp
+ 7347  ./a.out
+ 7348  ./a.out < triedata
+ 7349  lear
+ 7350  ls]
+ 7351  \cle
+ 7352  clear
+ 7353  ls
+ 7354  vim trie.cpp
+ 7355  g++ trie.cpp
+ 7356  ./a.out <triedata
+ 7357  ./a.out < triedata
+ 7358  cat triedataH
+ 7359  cat triedata
+ 7360  vim trie.cpp
+ 7361  g++ trie.cpp
+ 7362  ./a.out
+ 7363  ./a.out <triedata
+ 7364  vim trie.cpp
+ 7365  g++ trie.cpp
+ 7366  ./a.out <triedata
+ 7367  vim trie.cpp
+ 7368  g++ trie.cpp
+ 7369  ./a.out <triedata
+ 7370  clear
+ 7371  vim trie.cpp
+ 7372  g++ trie.cpp
+ 7373  ./a.out < triedata
+ 7374  vim trie.cpp
+ 7375  ./a.out <triedata
+ 7376  g++ trie.cpp
+ 7377  ./a.out <triedata
+ 7378  clear
+ 7379  ls
+ 7380  l
+ 7381  clear
+ 7382  ls
+ 7383  cp  trie.cpp oj281.cpp
+ 7384  clear
+ 7385  ls
+ 7386  vim oj281.cpp
+ 7387  g++ oj281.cpp
+ 7388  ./a.out
+ 7389  vim oj281.cpp
+ 7390  g++ oj281.cpp
+ 7391  ./a.out1
+ 7392  ./a.out
+ 7393  vim oj281.cpp
+ 7394  g++ oj281.cpp
+ 7395  ./a.out
+ 7396  clear
+ 7397  ls
+ 7398  vim oj281.cpp
+ 7399  g++ oj281.cpp
+ 7400  ./a.out
+ 7401  vim oj281.cpp
+ 7402  vim oj281_plus.cpp
+ 7403  rm oj281_plus.cpp
+ 7404  ls
+ 7405  cls
+ 7406  LS
+ 7407  ls
+ 7408  code
+ 7409  Linguistics
+ 7410  s
+ 7411  clear
+ 7412  ls
+ 7413  Cpuls
+ 7414  ls
+ 7415  ..
+ 7416  ls
+ 7417  code
+ 7418  ls
+ 7419  Cpuls
+ 7420  ls
+ 7421  //
+ 7422  ..
+ 7423  cl
+ 7424  cd
+ 7425  ls
+ 7426  Linguistics
+ 7427  ls
+ 7428  cleart
+ 7429  ckear
+ 7430  clear
+ 7431  ls
+ 7432  Cpuls
+ 7433  ls
+ 7434  map
+ 7435  Map
+ 7436  kls
+ 7437  ls
+ 7438  cat Chained_Forward_Star.cpp
+ 7439  clear
+ 7440  ls
+ 7441  ..
+ 7442  ls
+ 7443  Linguistics
+ 7444  ls
+ 7445  mv Basis_stutrc code
+ 7446  ls
+ 7447  code
+ 7448  ls
+ 7449  clear
+ 7450  ls
+ 7451  algorithm
+ 7452  sl
+ 7453  ls
+ 7454  ..
+ 7455  ls
+ 7456  .
+ 7457  ..
+ 7458  ls
+ 7459  clear
+ 7460  ls
+ 7461  code
+ 7462  ls
+ 7463  ..
+ 7464  ls
+ 7465  mkdir Cpuls
+ 7466  ls
+ 7467  clear
+ 7468  ls
+ 7469  ..
+ 7470  ls
+ 7471  coed
+ 7472  ls
+ 7473  code
+ 7474  ls
+ 7475  ..
+ 7476  ls
+ 7477  Cpuls
+ 7478  sl
+ 7479  lk
+ 7480  l
+ 7481  clear
+ 7482  ls]
+ 7483  Ls
+ 7484  LS
+ 7485  ls
+ 7486  vim  1_namespac_use.cpp
+ 7487  ls
+ 7488  slc
+ 7489  Linguistics
+ 7490  ls
+ 7491  clear
+ 7492  ls
+ 7493  code
+ 7494  s
+ 7495  ls
+ 7496  clear
+ 7497  ls
+ 7498  algorithm
+ 7499  ls
+ 7500  clear
+ 7501  ls
+ 7502  strmatch
+ 7503  ls
+ 7504  clear
+ 7505  ls
+ 7506  vim str_brute_farce.cpp
+ 7507  g
+ 7508  g++ str_brute_farce.cpp
+ 7509  ./a.out
+ 7510  vim str_brute_farce.cpp
+ 7511  g++ str_brute_farce.cpp
+ 7512  ./a.out
+ 7513  vim str_brute_farce.cpp
+ 7514  g++ str_brute_farce.cpp
+ 7515  vim str_brute_farce.cpp
+ 7516  g++ str_brute_farce.cpp
+ 7517  ./a.out
+ 7518  vim str_brute_farce.cpp
+ 7519  g++ str_brute_farce.cpp
+ 7520  ./a.out
+ 7521  vim str_brute_farce.cpp
+ 7522  g++ str_brute_farce.cpp
+ 7523  ./a.out
+ 7524  vim str_brute_farce.cpp
+ 7525  str_kmp.cpp
+ 7526  vim str_kmp.cpp
+ 7527  g++ str_kmp.cpp
+ 7528  ./a.out
+ 7529  vim str_kmp.cpp
+ 7530  g++ str_kmp.cpp
+ 7531  ./a.out
+ 7532  vim str_kmp.cpp
+ 7533  clear
+ 7534  ;s
+ 7535  ls
+ 7536  ./a.out
+ 7537  vim str_kmp.cpp
+ 7538  g++ str_kmp.cpp
+ 7539  ./a.out
+ 7540  vim str_kmp.cpp
+ 7541  g++ str_kmp.cpp
+ 7542  ./a.out
+ 7543  vim str_kmp.cpp
+ 7544  ls
+ 7545  Linguistics
+ 7546  ls
+ 7547  clear
+ 7548  ls
+ 7549  code
+ 7550  ;s
+ 7551  l
+ 7552  clearl
+ 7553  clear
+ 7554  l
+ 7555  algorithm
+ 7556  ls
+ 7557  clear
+ 7558  ls
+ 7559  strmatch
+ 7560  ls
+ 7561  clear
+ 7562  ls
+ 7563  vim str_kmp.cpp
+ 7564  clear
+ 7565  lear
+ 7566  ls
+ 7567  g++ str_kmp.cpp
+ 7568  ./a.out
+ 7569  l
+ 7570  vim str_kmp.cpp
+ 7571  g++ str_kmp.cpp
+ 7572  ./a.out
+ 7573  clear
+ 7574  ls
+ 7575  vim str_kmp.cpp
+ 7576  g++ str_kmp.cpp
+ 7577  ./a.out
+ 7578  vim str_kmp.cpp
+ 7579  g++ str_kmp.cpp
+ 7580  ./a.out
+ 7581  clear
+ 7582  l
+ 7583  s
+ 7584  vim str_kmp.cpp
+ 7585  vim str_kmp.cp
+ 7586  l
+ 7587  s
+ 7588  g++ str_kmp.cpp
+ 7589  ./a.iut
+ 7590  ./a.out
+ 7591  clear
+ 7592  vim str_kmp.cpp
+ 7593  g++ str_kmp.cpp
+ 7594  ./a.out
+ 7595  l
+ 7596  vim str_kmp.cpp
+ 7597  g++ str_kmp.cpp
+ 7598  ./a.out
+ 7599  clear
+ 7600  ls
+ 7601  vim str_kmp.cpp
+ 7602  g++ char s[] = "abcabcababcabcab";
+ 7603  char t[] = "abcab"
+ 7604  g++ str_kmp.cpp
+ 7605  g++ v
+ 7606  g++ str_kmp.cpp
+ 7607  ./a.oyt
+ 7608  g++ str_kmp.cpp
+ 7609  ./a.out
+ 7610  clear
+ 7611  lws
+ 7612  ./a.out
+ 7613  clear
+ 7614  ls
+ 7615  g++ str_kmp.cpp
+ 7616  vim str_kmp.cpp
+ 7617  g++ str_kmp.cpp
+ 7618  ./a.out 
+ 7619  ./a.out
+ 7620  vim str_brute_farce.cpp
+ 7621  ls
+ 7622  vim v
+ 7623  ls
+ 7624  vim str_kmp.cpp
+ 7625  ./a.out BBC ABCDAB ABCDABCDABDE
+ 7626  ./a.out
+ 7627  ./a.out BBCABCDABABCDABCDABDE 
+ 7628  ./a.out 
+ 7629  vim str_kmp.cpp
+ 7630  ./a.out 
+ 7631  ./a.out
+ 7632  ls
+ 7633  g++ str_kmp.cpp
+ 7634  ./a.out
+ 7635  vim str_kmp.cpp
+ 7636  ./a.out
+ 7637  vim str_kmp.cpp
+ 7638  g++ str_kmp.cpp
+ 7639  ./a.out
+ 7640  vim str_kmp.cpp
+ 7641  ls
+ 7642  Linguistics]
+ 7643  clear
+ 7644  ls
+ 7645  Linguistics
+ 7646  ls
+ 7647  code
+ 7648  ls
+ 7649  algorithm
+ 7650  ls
+ 7651  clear
+ 7652  ls
+ 7653  strmatch
+ 7654  ls
+ 7655  vim str_kmp.cpp
+ 7656  g++ str_kmp.cpp
+ 7657  ./a.out
+ 7658  g++ str_kmp.cpp
+ 7659  vim str_kmp.cpp
+ 7660  g++ str_kmp.cpp
+ 7661  ./a.out
+ 7662  vim str_kmp.cpp
+ 7663  g++ str_kmp.cpp
+ 7664  ./a.out
+ 7665  vim str_kmp.cpp
+ 7666  g++ str_kmp.cpp
+ 7667  ./a.out
+ 7668  ls
+ 7669  Linguistics
+ 7670  lls
+ 7671  l
+ 7672  clear
+ 7673  l
+ 7674  code
+ 7675  ls
+ 7676  algorithm
+ 7677  ls
+ 7678  strmatch
+ 7679  ls
+ 7680  vim str_kmp.cpp
+ 7681  g++ str_kmp.cpp
+ 7682  ./a.out
+ 7683  vim str_kmp.cpp
+ 7684  ./a.outls
+ 7685  clear
+ 7686  ls
+ 7687  g++ vstr_kmp.cpp
+ 7688  g++ str_kmp.cpp
+ 7689  ./a.out
+ 7690  vim str_kmp.cpp
+ 7691  ./a.out
+ 7692  g++ str_kmp.cpp
+ 7693  ./a.out
+ 7694  vim str_kmp.cpp
+ 7695  ls
+ 7696  g++ str_kmp.cpp
+ 7697  clear
+ 7698  la
+ 7699  ls
+ 7700  ./a.out
+ 7701  vim str_kmp.cpp
+ 7702  g++ str_kmp.cpp\n: 1678603862:0;g++ str_kmp.cpp
+ 7703  ./a.out
+ 7704  vim str_kmp.cpp
+ 7705  ls
+ 7706  clear
+ 7707  ls
+ 7708  g++ str_kmp.cpp
+ 7709  ./a.out
+ 7710  vim str_kmp.cpp
+ 7711  g++ str_kmp.cpp
+ 7712  ./a.out
+ 7713  clear
+ 7714  ls
+ 7715  g++ str_kmp.cpp
+ 7716  ./a.out
+ 7717  vim str_kmp.cpp
+ 7718  g++ str_kmp.cpp
+ 7719  vim str_kmp.cpp
+ 7720  g++ str_kmp.cpp
+ 7721  ./a.out
+ 7722  vim str_kmp.cpp
+ 7723  g++ tr_kmp.cpp
+ 7724  g++ str_kmp.cpp
+ 7725  ./a.out
+ 7726  :wq
+ 7727  clear
+ 7728  ls
+ 7729  g++ str_kmp.cpp
+ 7730  vim str_kmp.cpp
+ 7731  g++ str_kmp.cpp
+ 7732  ./a.ougt
+ 7733  ./a.out
+ 7734  vim str_kmp.cpp
+ 7735  LS
+ 7736  ls
+ 7737  Linguistics01
+ 7738  Linguistics
+ 7739  clear
+ 7740  l
+ 7741  code
+ 7742  ls
+ 7743  clear
+ 7744  ls
+ 7745  algorithm
+ 7746  ls
+ 7747  clear
+ 7748  ls
+ 7749  strmatch
+ 7750  ls
+ 7751  clear
+ 7752  ls
+ 7753  vim str_kmp.cpp
+ 7754  ;
+ 7755  s
+ 7756  ls
+ 7757  clear
+ 7758  ls
+ 7759  clear
+ 7760  ls
+ 7761  vim str_kmp.cpp
+ 7762  ls
+ 7763  clear
+ 7764  l
+ 7765  s
+ 7766  clear
+ 7767  ls
+ 7768  clear
+ 7769  l
+ 7770  ls
+ 7771  clear
+ 7772  ls
+ 7773  cat str_kmp.cpp
+ 7774  clear
+ 7775  ls
+ 7776  cat str_kmp.cpp
+ 7777  ks
+ 7778  l
+ 7779  vim str_kmp.cpp
+ 7780  g++ str_kmp.cpp
+ 7781  ./a.out
+ 7782  vim str_kmp.cpp
+ 7783  g++ str_kmp.cpp
+ 7784  ./a.out
+ 7785  vim str_kmp.cpp
+ 7786  g++ str_kmp.cpp
+ 7787  .
+ 7788  ./a.out
+ 7789  g++ str_kmp.cpp
+ 7790  ./a.out
+ 7791  vim str_kmp.cpp
+ 7792  g++ str_kmp.cpp
+ 7793  ./a.out
+ 7794  ../
+ 7795  ..
+ 7796  ls
+ 7797  git add .
+ 7798  git commit -m 'kmp'  
+ 7799  git push origin main
+ 7800  ls
+ 7801  CPULS
+ 7802  C
+ 7803  Cpuls
+ 7804  l
+ 7805  ls
+ 7806  ..
+ 7807  ls
+ 7808  ..
+ 7809  ls
+ 7810  Linguistics
+ 7811  ls
+ 7812  cd Cpuls
+ 7813  ls
+ 7814  ../
+ 7815  l
+ 7816  code
+ 7817  ls
+ 7818  cpuls
+ 7819  ls
+ 7820  ..
+ 7821  /
+ 7822  cd
+ 7823  ls
+ 7824  Linguistics
+ 7825  ls
+ 7826  clear
+ 7827  Ls
+ 7828  ls
+ 7829  code
+ 7830  ls
+ 7831  algorithm
+ 7832  ls
+ 7833  strmatch
+ 7834  ls
+ 7835  clear
+ 7836  ls
+ 7837  cp str_kmp.cpp str_sunday.cpp
+ 7838  ;s
+ 7839  ls
+ 7840  vim str_sunday.cpp
+ 7841  g++ str_sunday.cpp
+ 7842  ./a.out
+ 7843  vim str_sunday.cpp
+ 7844  g++ str_sunday.cpp
+ 7845  ./a.oyt
+ 7846  ./a.out
+ 7847  ls
+ 7848  clear
+ 7849  vim str_sunday.cpp
+ 7850  ls
+ 7851  Linguistics
+ 7852  ls
+ 7853  clear
+ 7854  ls
+ 7855  code
+ 7856  ls
+ 7857  algorithm
+ 7858  ls
+ 7859  clear
+ 7860  ls
+ 7861  strmatch
+ 7862  ls
+ 7863  clear
+ 7864  ls
+ 7865  cat str_brute_farce.cpp
+ 7866  :WQ
+ 7867  ls
+ 7868  clear
+ 7869  ls
+ 7870  Linguistics
+ 7871  lks
+ 7872  klls
+ 7873  ls
+ 7874  clear
+ 7875  ls
+ 7876  code
+ 7877  ls
+ 7878  c
+ 7879  lear
+ 7880  clear
+ 7881  ls
+ 7882  cpulssyntax
+ 7883  ls
+ 7884  clear
+ 7885  vim  
+ 7886  vim  bitopt.cpp
+ 7887  g++ bitopt.cpp
+ 7888  ./a.out
+ 7889  vim  bitopt.cpp
+ 7890  g++ bitopt.cpp
+ 7891  vim  bitopt.cpp
+ 7892  g++ bitopt.cpp
+ 7893  ./a.out
+ 7894  ls
+ 7895  clear
+ 7896  ls
+ 7897  Linguistics
+ 7898  ls
+ 7899  clear
+ 7900  ls
+ 7901  code
+ 7902  ls
+ 7903  clear
+ 7904  ls
+ 7905  algorithm
+ 7906  l
+ 7907  strmatch\\
+ 7908  
+ 7909  stmatch
+ 7910  ls
+ 7911  strmatch
+ 7912  ls
+ 7913  clear
+ 7914  ls
+ 7915  vim str_brute_farce.cpp
+ 7916  vim str_sunday.cpp
+ 7917  ls
+ 7918  clear
+ 7919  cat str_sunday.cpp
+ 7920  clear
+ 7921  ls
+ 7922  vim str_kmp.cpp
+ 7923  ls
+ 7924  clea
+ 7925  clearl
+ 7926  clear 
+ 7927  ls
+ 7928  p=(  p << 1 | 1  )
+ 7929  Linguistics
+ 7930  ls
+ 7931  clear
+ 7932  ls
+ 7933  code
+ 7934  ls
+ 7935  clear
+ 7936  sl
+ 7937  l
+ 7938  algorithm
+ 7939  ls
+ 7940  strmatch
+ 7941  ls
+ 7942  clear
+ 7943  ls
+ 7944  cp str_sunday.cpp str_shift_and.cpp
+ 7945  ls
+ 7946  vim str_sunday.cpp
+ 7947  vim str_shift_and.cpp
+ 7948  g++ str_shift_and.cpp
+ 7949  ./a.out
+ 7950  vim str_shift_and.cpp
+ 7951  g++ str_shift_and.cpp
+ 7952  ./a.out
+ 7953  vim str_shift_and.cpp
+ 7954  g++ str_shift_and.cpp
+ 7955  vim str_shift_and.cpp
+ 7956  ./a.out
+ 7957  g++ str_shift_and.cpp
+ 7958  ./a.out
+ 7959  vim str_shift_and.cpp
+ 7960  l
+ 7961  ls
+ 7962  clear
+ 7963  ls
+ 7964  Linguistics
+ 7965  l
+ 7966  clear
+ 7967  ls
+ 7968  code
+ 7969  ls
+ 7970  clear
+ 7971  ls
+ 7972  code
+ 7973  l
+ 7974  algorithm
+ 7975  ls
+ 7976  clear
+ 7977  ls
+ 7978  strmatch
+ 7979  ls
+ 7980  vim str_shift_and.cpp
+ 7981  g++ str_shift_and.cpp
+ 7982  ./a.out
+ 7983  vim str_shift_and.cpp
+ 7984  g++ str_shift_and.cpp
+ 7985  ./a.out
+ 7986  vim str_shift_and.cpp
+ 7987  g++ str_shift_and.cpp
+ 7988  ./a.ou
+ 7989  ./a.out
+ 7990  clear
+ 7991  ls
+ 7992  vim str_shift_and.cpp
+ 7993  g++ str_shift_and.cpp
+ 7994  ./a.out
+ 7995  vim str_shift_and.cpp
+ 7996  g+++ str_shift_and.cpp
+ 7997  g++ str_shift_and.cpp
+ 7998  ./a.out
+ 7999  clear
+ 8000  ;
+ 8001  ls
+ 8002  clear
+ 8003  ls
+ 8004  clear
+ 8005  ls
+ 8006  ..
+ 8007  ls
+ 8008  clear
+ 8009  .
+ 8010  ls
+ 8011  ...
+ 8012  s
+ 8013  l
+ 8014  Linguistics
+ 8015  l
+ 8016  clear
+ 8017  ls
+ 8018  code
+ 8019  ls
+ 8020  clear
+ 8021  s
+ 8022  l
+ 8023  data-structures
+ 8024  ls
+ 8025  clear
+ 8026  s
+ 8027  l
+ 8028  clear
+ 8029  ls
+ 8030  Tree
+ 8031  ls
+ 8032  clear
+ 8033  ls
+ 8034  clear
+ 8035  l
+ 8036  ..
+ 8037  ...
+ 8038  ls
+ 8039  code
+ 8040  ls
+ 8041  algorithm
+ 8042  s
+ 8043  l
+ 8044  strmatch
+ 8045  ls
+ 8046  vim str_shift_and.cpp
+ 8047  ls
+ 8048  clear
+ 8049  ..
+ 8050  .
+ 8051  ..
+ 8052  ls
+ 8053  ..
+ 8054  ls
+ 8055  clear
+ 8056  ls
+ 8057  cpdd
+ 8058  coe
+ 8059  ls
+ 8060  code
+ 8061  ls
+ 8062  data-structures
+ 8063  ls
+ 8064  celar
+ 8065  Tree
+ 8066  ls
+ 8067  clear
+ 8068  ls
+ 8069  vim ac_auto.cpp
+ 8070  vim #include <stdio.h>
+ 8071  vim ac_auto.cpp
+ 8072  ls
+ 8073  clea
+ 8074  ls
+ 8075  clear
+ 8076  ls
+ 8077  kls
+ 8078  ls
+ 8079  clear
+ 8080  ls
+ 8081  clear
+ 8082  ls
+ 8083  clear
+ 8084  ls
+ 8085  Linguistics
+ 8086  ls
+ 8087  clear
+ 8088  ;
+ 8089  l
+ 8090  ls
+ 8091  Cpusl
+ 8092  Cpuls
+ 8093  ls
+ 8094  vim 1_namespac_use.cpp
+ 8095  g++ 1_namespac_use.cpp
+ 8096  ./a.out
+ 8097  clear
+ 8098  ls
+ 8099  vim 2_class.cpp
+ 8100  g++ 2_class.cpp
+ 8101  ./a.out
+ 8102  clear
+ 8103  ls
+ 8104  ./a.out
+ 8105  vim 2_class.cpp
+ 8106  g++ 2_class.cpp
+ 8107  ./a.out
+ 8108  vim 2_class.cpp
+ 8109  g++ 2_class.cpp
+ 8110  ./aout
+ 8111  ./a.out
+ 8112  ./aout
+ 8113  ./a.out
+ 8114  vim 2_class.cpp
+ 8115  g++ 2_class.cpp
+ 8116  ./a.out
+ 8117  vim 2_class.cpp
+ 8118  ./a.out
+ 8119  g++ 2_class.cpp
+ 8120  ./a.out
+ 8121  vim 2_class.cpp
+ 8122  g++ 2_class.cpp
+ 8123  ./a.out
+ 8124  vim 2_class.cpp
+ 8125  g++ 2_class.cpp
+ 8126  ./a.out
+ 8127  vim 2_class.cpp
+ 8128  g++ 2_class.cpp
+ 8129  ./a.out
+ 8130  vim 2_class.cpp
+ 8131  g++ 2_class.cpp
+ 8132  vim 2_class.cpp
+ 8133  g++ 2_class.cpp
+ 8134  ./a.out
+ 8135  vim 2_class.cpp
+ 8136  clear
+ 8137  l
+ 8138  ll
+ 8139  clear
+ 8140  ls
+ 8141  clear
+ 8142  ll
+ 8143  clear
+ 8144  ls
+ 8145  Linguistics
+ 8146  ls
+ 8147  Cpuls
+ 8148  clea
+ 8149  clear
+ 8150  ;s
+ 8151  ls
+ 8152  clea
+ 8153  l
+ 8154  vim 2_class.cpp
+ 8155  ls
+ 8156  clear
+ 8157  ls
+ 8158  vim 2_class.cpp
+ 8159  vim me.cpp
+ 8160  g++ me.cpp
+ 8161  ./a.out
+ 8162  ls
+ 8163  cat me.cpp
+ 8164  ls
+ 8165  clear
+ 8166  ls
+ 8167  vim me.cpp
+ 8168  g++ 我们以为它在内存中是这样的: iiii wwwwwwww hhhh 其实是这样的:iiii ---- wwwwwwww hhhh ----
+ 8169  最大的double占8个，从左向右，每8个为一组，编译器无法把iiii wwww一起处理，那样就把double截断了，所以给int补4位。同理float补4位。总共24.
+ 8170  ————————————————
+ 8171  版权声明：本文为CSDN博主「SilentAssassin」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+ 8172  原文链接：https://blog.csdn.net/yao5hed/article/details/81463189
+ 8173  clear
+ 8174  ls
+ 8175  g++ me.cpp
+ 8176  ./a.out
+ 8177  ls -hl a.out
+ 8178  ...
+ 8179  ..
+ 8180  .
+ 8181  ls
+ 8182  cd
+ 8183  ls
+ 8184  clear
+ 8185  ls
+ 8186  Linguistics
+ 8187  ls
+ 8188  code
+ 8189  ls
+ 8190  ..
+ 8191  git add .
+ 8192  git commit -m 'x1' 
+ 8193  git push origin main
+ 8194  ls
+ 8195  Cpuls
+ 8196  clear
+ 8197  ls
+ 8198  ..
+ 8199  ../
+ 8200  ll
+ 8201  clear
+ 8202  ls
+ 8203  Linguistics
+ 8204  ls
+ 8205  git add .
+ 8206  git commit -m 'cpp'
+ 8207  ls
+ 8208  clear
+ 8209  l
+ 8210  Cpuls
+ 8211  ls
+ 8212  clear
+ 8213  ls
+ 8214  git add .
+ 8215  git commit 'cpp '
+ 8216  git commit -m  'cpp 1-2 '
+ 8217  git push origin main
+ 8218  ls
+ 8219  ..
+ 8220  ls
+ 8221  clear
+ 8222  ls
+ 8223  git add .
+ 8224  git commit -t 'cpp 1-2 '
+ 8225  git push origin main
+ 8226  ls
+ 8227  git status -s 
+ 8228  ls
+ 8229  Cpuls
+ 8230  ls
+ 8231  lss
+ 8232  ls
+ 8233  Linguistics
+ 8234  ls
+ 8235  git -stats
+ 8236  git status -s 
+ 8237  ls
+ 8238  Linguistics
+ 8239  ls
+ 8240  git status -s 
+ 8241  lls
+ 8242  lks
+ 8243  ls
+ 8244  Cpuls
+ 8245  ls
+ 8246  clear
+ 8247  git add -u
+ 8248  git commit -m 'update'
+ 8249  git push origin master
+ 8250  git push origin main
+ 8251  ls
+ 8252  clearf
+ 8253  l
+ 8254  clear
+ 8255  ls
+ 8256  ./a.out
+ 8257  ls
+ 8258  Linguistics
+ 8259  ls
+ 8260  CpulsCpuls
+ 8261  Cpuls
+ 8262  clearl
+ 8263  clear
+ 8264  l;s
+ 8265  ls
+ 8266  ll
+ 8267  vim 3_m_cout.cpp
+ 8268  fg
+ 8269  g++ 3_m_cout.cpp
+ 8270  ./a.out
+ 8271  vim 3_m_cout.cpp
+ 8272  g++ 3_m_cout.cpp
+ 8273  ./a.out
+ 8274  kls
+ 8275  clear
+ 8276  ls
+ 8277  ./a.out
+ 8278  ks
+ 8279  g++ 3_m_cout.cpp
+ 8280  ./a.out
+ 8281  g++ 3_m_cout.cpp
+ 8282  vim 3_m_cout.cpp
+ 8283  g++ 3_m_cout.cpp
+ 8284  vim 3_m_cout.cpp
+ 8285  g++ 3_m_cout.cpp
+ 8286  ./a.out
+ 8287  vim 3_m_cout.cpp
+ 8288  g++ 3_m_cout.cpp
+ 8289  ./a.out
+ 8290  vim 3_m_cout.cpp
+ 8291  g++ 3_m_cout.cpp
+ 8292  .a.out
+ 8293  .、a.out
+ 8294  ./a.out
+ 8295  g++ 3_m_cout.cpp
+ 8296  vim 3_m_cout.cpp
+ 8297  .、a.out
+ 8298  g++ 3_m_cout.cpp
+ 8299  ./a.out
+ 8300  vim 3_m_cout.cpp
+ 8301  vim 4_constructor.cpp
+ 8302  g++ 4_constructor.cpp
+ 8303  ./a.out
+ 8304  vim 4_constructor.cpp
+ 8305  g++ 4_constructor.cpp
+ 8306  ./a.out
+ 8307  vim 4_constructor.cpp
+ 8308  g++ 4_constructor.cpp
+ 8309  ./a.out
+ 8310  vim 4_constructor.cpp
+ 8311  ls
+ 8312  4_constructor.cpp mv 3_referene.cpp
+ 8313  mv 4_constructor.cpp  3_referene.cpp
+ 8314  ls
+ 8315  vim 4_constructor.cpp
+ 8316  g++ 4_constructor.cpp
+ 8317  ./a.out
+ 8318  vim 4_constructor.cpp
+ 8319  ./a.out
+ 8320  vim 4_constructor.cpp
+ 8321  g++ 4_constructor.cpp
+ 8322  ./a.out
+ 8323  clear
+ 8324  l
+ 8325  vim 4_constructor.cpp
+ 8326  g++ 4_constructor.cpp
+ 8327  ./a.out
+ 8328  vim 4_constructor.cpp
+ 8329  g++ 4_constructor.cpp
+ 8330  ./a.out
+ 8331  clear
+ 8332  ls
+ 8333  vim 4_constructor.cpp
+ 8334  g++ 4_constructor.cpp
+ 8335  ./a.out
+ 8336  vim str_sunday.cpp
+ 8337  g++ 4_constructor.cpp
+ 8338  vim str_sunday.cpp
+ 8339  vim 4_constructor.cpp
+ 8340  g++ 4_constructor.cpp
+ 8341  ./a.out
+ 8342  vim 4_constructor.cpp
+ 8343  g++ 4_constructor.cpp
+ 8344  ./a.out
+ 8345  vim 4_constructor.cpp
+ 8346  g++ 4_constructor.cpp
+ 8347  ./a.out
+ 8348  vim 4_constructor.cpp
+ 8349  g++ 4_constructor.cpp
+ 8350  ./a.out
+ 8351  vim 4_constructor.cpp
+ 8352  clear
+ 8353  ls
+ 8354  g++ 4_constructor.cpp
+ 8355  ./a.out
+ 8356  ls
+ 8357  vim 4_constructor.cpp
+ 8358  g++ 4_constructor.cpp
+ 8359  ./a.out
+ 8360  vim 4_constructor.cpp
+ 8361  ./a.out
+ 8362  g++ 4_constructor.cpp
+ 8363  ./a.out
+ 8364  vim 4_constructor.cpp
+ 8365  g++ 4_constructor.cpp
+ 8366  ./a.out
+ 8367  vim 4_constructor.cpp
+ 8368  g++ 4_constructor.cpp
+ 8369  ./a.out
+ 8370  vim 4_constructor.cpp
+ 8371  g++ 4_constructor.cpp
+ 8372  ./a.out
+ 8373  clear
+ 8374  ls
+ 8375  vim ^M
+ 8376  vim 4_constructor.cpp
+ 8377  g++ 4_constructor.cpp
+ 8378  ./a.out
+ 8379  vim 4_constructor.cpp
+ 8380  g++ -fno-elide-constructors 4_constructor.cpp
+ 8381  ./a.out
+ 8382  vim 4_constructor.cpp
+ 8383  g++ -fno-elide-constructors 4_constructor.cpp
+ 8384  ./a.out
+ 8385  vim 4_constructor.cpp
+ 8386  clear
+ 8387  l;s
+ 8388  clear
+ 8389  ls
+ 8390  vim 4_constructor.cpp
+ 8391  g++ -fno-elide-constructors 4_constructor.cpp
+ 8392  ./a.out
+ 8393  vim 4_constructor.cpp
+ 8394  g++ -fno-elide-constructors 4_constructor.cpp
+ 8395  ./a.oiut
+ 8396  ./a.out
+ 8397  vim 4_constructor.cpp
+ 8398  g++ -fno-elide-constructors 4_constructor.cpp
+ 8399  ./a.out
+ 8400  vim 4_constructor.cpp
+ 8401  g++ -fno-elide-constructors 4_constructor.cpp
+ 8402  ./a.out
+ 8403  vim 4_constructor.cpp
+ 8404  g++ -fno-elide-constructors 4_constructor.cpp
+ 8405  ./a.out
+ 8406  \\vim 4_constructor.cppcle
+ 8407  clear
+ 8408  ls
+ 8409  ckear
+ 8410  ks
+ 8411  ..
+ 8412  ls
+ 8413  code
+ 8414  ls
+ 8415  clear
+ 8416  ..
+ 8417  ls
+ 8418  Cpuls
+ 8419  ls
+ 8420  g++ -fno-elide-constructors 4_constructor.cpp
+ 8421  ./a.out
+ 8422  vim 4_constructor.cpp
+ 8423  g++ -fno-elide-constructors 4_constructor.cpp
+ 8424  ./a.out
+ 8425  vim 4_constructor.cpp
+ 8426  g++ -fno-elide-constructors 4_constructor.cpp
+ 8427  ./a.out
+ 8428  vim 4_constructor.cpp
+ 8429  g++ -fno-elide-constructors 4_constructor.cpp
+ 8430  ./a.out
+ 8431  vim 4_constructor.cpp
+ 8432  clear
+ 8433  kls
+ 8434  ls
+ 8435  ..
+ 8436  ls
+ 8437  git add .
+ 8438  ,s
+ 8439  ls
+ 8440  V
+ 8441  Linguistics
+ 8442  lsc
+ 8443  clea
+ 8444  r
+ 8445  clea
+ 8446  l
+ 8447  cleart
+ 8448  ls
+ 8449  cl
+ 8450  l
+ 8451  CpulsCpuls
+ 8452  ls
+ 8453  clear
+ 8454  l
+ 8455  Cpuls
+ 8456  ls
+ 8457  vim constructor_order.cpp
+ 8458  g++ constructor_order.cppH
+ 8459  c++ constructor_order.cpp
+ 8460  ./a.out
+ 8461  vim constructor_order.cpp
+ 8462  ./a.out
+ 8463  c++ constructor_order.cpp
+ 8464  g++ constructor_order.cpp
+ 8465  clear
+ 8466  ls
+ 8467  ./a.out
+ 8468  g++ constructor_order.cpp\n: 1678875844:0;vim constructor_order.cpp
+ 8469  g++ constructor_order.cpp
+ 8470  ./a.out
+ 8471  vim constructor_order.cpp
+ 8472  g++ constructor_order.cpp
+ 8473  vim constructor_order.cpp
+ 8474  ls
+ 8475  clear
+ 8476  ls
+ 8477  g++ constructor_order.cpp
+ 8478  vim constructor_order.cpp
+ 8479  ls
+ 8480  code
+ 8481  clear
+ 8482  ls
+ 8483  Linguistics
+ 8484  ls
+ 8485  Cpuls
+ 8486  ls
+ 8487  vim constructor_order.cpp
+ 8488  mv constructor_order.cpp 5_constructor_order.cpp
+ 8489  ls
+ 8490  vim 5_constructor_order.cpp
+ 8491  g++ 5_constructor_order.cpp
+ 8492  vim 5_constructor_order.cpp
+ 8493  g++ 5_constructor_order.cpp
+ 8494  vim 5_constructor_order.cpp
+ 8495  g++ 5_constructor_order.cpp
+ 8496  vim 5_constructor_order.cpp
+ 8497  g++ 5_constructor_order.cpp
+ 8498  vim 5_constructor_order.cpp
+ 8499  g++ 5_constructor_order.cpp std=c++11
+ 8500  g++ 5_constructor_order.cpp 
+ 8501  g++ 5_constructor_order.cpp -std=c++11
+ 8502  ./a.iout
+ 8503  ./a.out
+ 8504  g++ 5_constructor_order.cpp 
+ 8505  vim 5_constructor_order.cpp
+ 8506  vim 6_class_Attr_func.cpp
+ 8507  g++ 6_class_Attr_func.cpp
+ 8508  ./a.out
+ 8509  vim 6_class_Attr_func.cpp
+ 8510  ls
+ 8511  clear
+ 8512  ls
+ 8513  LinguisticsLinguistics
+ 8514  Linguistics
+ 8515  ls
+ 8516  Cpuls
+ 8517  ls
+ 8518  vim deep_copy.cpp
+ 8519  vim 7_deep_copy.cpp
+ 8520  ls
+ 8521  Linguistics
+ 8522  l.s
+ 8523  clear
+ 8524  l
+ 8525  Cpuls
+ 8526  ls
+ 8527  clear
+ 8528  ls
+ 8529  vim 7_deep_copy.cpp
+ 8530  g++ 7_deep_copy.cpp
+ 8531  ./a.out
+ 8532  vim 7_deep_copy.cpp
+ 8533  ./a.out
+ 8534  g++ 7_deep_copy.cpp
+ 8535  ./a.out
+ 8536  g++ 7_deep_copy.cpp
+ 8537  vim 7_deep_copy.cpp
+ 8538  g++ 7_deep_copy.cpp
+ 8539  ./a.out
+ 8540  vim 7_deep_copy.cpp
+ 8541  g++ 7_deep_copy.cpp
+ 8542  ./a.out
+ 8543  vim 7_deep_copy.cpp
+ 8544  g++ 7_deep_copy.cpp
+ 8545  ./a.out
+ 8546  vim 7_deep_copy.cpp
+ 8547  g++ 7_deep_copy.cpp
+ 8548  ./a.out
+ 8549  vim 7_deep_copy.cpp
+ 8550  g++ 7_deep_copy.cpp
+ 8551  ./a.out
+ 8552  vim 7_deep_copy.cpp
+ 8553  g++ 7_deep_copy.cpp
+ 8554  ./a,out
+ 8555  ./a.out
+ 8556  ls
+ 8557  Linguistics
+ 8558  ls
+ 8559  c
+ 8560  le\a
+ 8561  cle
+ 8562  ar
+ 8563  ls
+ 8564  clear
+ 8565  ls
+ 8566  Cpuls
+ 8567  ls
+ 8568  clear
+ 8569  lll
+ 8570  ls -all
+ 8571  clear
+ 8572  l;s
+ 8573  ls -all
+ 8574  clear
+ 8575  ls -all
+ 8576  lsls
+ 8577  s
+ 8578  ls
+ 8579  clear 
+ 8580  ll
+ 8581  clear
+ 8582  l
+ 8583  s
+ 8584  Linguistics
+ 8585  ls
+ 8586  clear
+ 8587  ls
+ 8588  Linguistics
+ 8589  ls
+ 8590  l
+ 8591  code
+ 8592  ls
+ 8593  clear
+ 8594  ..
+ 8595  ls
+ 8596  Cpuls
+ 8597  ls
+ 8598  ls -all
+ 8599  ls
+ 8600  Linguistics
+ 8601  ls
+ 8602  Cpuls
+ 8603  ls
+ 8604  clear
+ 8605  ls -all
+ 8606  vim 7_deep_copy.cpp
+ 8607  g++ 7_deep_copy.cpp
+ 8608  ./a.out
+ 8609  vim 7_deep_copy.cpp
+ 8610  clear
+ 8611  ls
+ 8612  g++ 7_deep_copy.cpp
+ 8613  ./a.out
+ 8614  ckear
+ 8615  ls
+ 8616  clear
+ 8617  ls
+ 8618  vim 7_deep_copy.cpp
+ 8619  g++ 7_deep_copy.cpp
+ 8620  ./a.out
+ 8621  vim 7_deep_copy.cpp
+ 8622  g++ 7_deep_copy.cpp
+ 8623  ./a.out
+ 8624  vim 7_deep_copy.cpp
+ 8625  g++ 7_deep_copy.cpp
+ 8626  ./a.ouyt
+ 8627  ./a.out
+ 8628  g++ 7_deep_copy.cpp
+ 8629  vim 7_deep_copy.cpp
+ 8630  clear
+ 8631  ls
+ 8632  ls -all
+ 8633  vim 7_deep_copy.cpp
+ 8634  g++ 7_deep_copy.cpp
+ 8635  g++ 7_deep_copy.cpp -std=c++11
+ 8636  vim 7_deep_copy.cpp
+ 8637  g++ 7_deep_copy.cpp -std=c++11
+ 8638  vim 7_deep_copy.cpp
+ 8639  g++ 7_deep_copy.cpp -std=c++11
+ 8640  ./a.out
+ 8641  vim 7_deep_copy.cpp
+ 8642  g++ 7_deep_copy.cpp -std=c++11
+ 8643  vim 7_deep_copy.cpp
+ 8644  g++ 7_deep_copy.cpp -std=c++11
+ 8645  vim 7_deep_copy.cpp
+ 8646  g++ 7_deep_copy.cpp -std=c++11
+ 8647  vim 7_deep_copy.cpp
+ 8648  clear
+ 8649  ;s
+ 8650  ls
+ 8651  g++ 7_deep_copy.cpp -std=c++11
+ 8652  ./a.out
+ 8653  vim 7_deep_copy.cpp
+ 8654  g++ 7_deep_copy.cpp -std=c++11
+ 8655  ./a.out
+ 8656  vim 7_deep_copy.cpp
+ 8657  clear
+ 8658  ls
+ 8659  ./a.out
+ 8660  vim 7_deep_copy.cpp
+ 8661  g++ 7_deep_copy.cpp -std=c++11
+ 8662  ./a.out
+ 8663  vim 7_deep_copy.cpp
+ 8664  g++ 7_deep_copy.cpp -std=c++11
+ 8665  ./a.out
+ 8666  vim 7_deep_copy.cpp
+ 8667  g++ 7_deep_copy.cpp -std=c++11
+ 8668  ./a.out
+ 8669  ls -all
+ 8670  clear
+ 8671  ls
+ 8672  vim 7_deep_copy.cpp
+ 8673  g++ 7_deep_copy.cpp -std=c++11
+ 8674  ./a.out
+ 8675  vim 7_deep_copy.cpp
+ 8676  Ls
+ 8677  LS
+ 8678  ls
+ 8679  clear
+ 8680  ls
+ 8681  V
+ 8682  Linguistics
+ 8683  ls
+ 8684  clear
+ 8685  ls
+ 8686  Cpuls
+ 8687  ls
+ 8688  celar
+ 8689  ls
+ 8690  clear
+ 8691  l
+ 8692  cat 7_deep_copy.cpp
+ 8693  clear
+ 8694  vim 7_deep_copy.cpp
+ 8695  g++ 7_deep_copy.cpp
+ 8696  g++ 7_deep_copy.cpp -std=c
+ 8697  g++ 7_deep_copy.cpp -std=c++11
+ 8698  ./a.out
+ 8699  vim 7_deep_copy.cpp
+ 8700  g++ 7_deep_copy.cpp -std=c++11
+ 8701  ./a.out
+ 8702  vim 7_deep_copy.cpp
+ 8703  clear
+ 8704  ls
+ 8705  g++ 7_deep_copy.cpp
+ 8706  g++ 7_deep_copy.cpp -std=c++11
+ 8707  ./a.out
+ 8708  vim 7_deep_copy.cpp
+ 8709  g++ 7_deep_copy.cpp -std=c++11
+ 8710  ./a.out
+ 8711  g++ 7_deep_copy.cpp -std=c++11
+ 8712  vim 7_deep_copy.cpp
+ 8713  ls
+ 8714  Linguistics
+ 8715  ls
+ 8716  cleaf
+ 8717  l
+ 8718  clear
+ 8719  ls
+ 8720  Cpusl
+ 8721  Cpuls
+ 8722  l
+ 8723  clear
+ 8724  ls
+ 8725  vim 7_deep_copy.cpp
+ 8726  g++ 7_deep_copy.cpp
+ 8727  g++ 7_deep_copy.cpp -std=c++11
+ 8728  ./a.out
+ 8729  g++ 7_deep_copy.cpp -std=c++11
+ 8730  clear
+ 8731  vim 7_deep_copy.cpp
+ 8732  g++ 7_deep_copy.cpp -std=c++11
+ 8733  ./a.out
+ 8734  vim 7_deep_copy.cpp
+ 8735  g++ 7_deep_copy.cpp -std=c++11
+ 8736  ./a.out
+ 8737  vim 7_deep_copy.cpp
+ 8738  g++ 7_deep_copy.cpp -std=c++11
+ 8739  ./a.out
+ 8740  g++ 7_deep_copy.cpp -std=c++11
+ 8741  vim 7_deep_copy.cpp
+ 8742  g++ 7_deep_copy.cpp -std=c++11
+ 8743  ./a.out
+ 8744  vim 7_deep_copy.cpp
+ 8745  ./a.out
+ 8746  vim 7_deep_copy.cpp
+ 8747  ./a.out
+ 8748  vim 7_deep_copy.cpp
+ 8749  g++ 7_deep_copy.cpp -std=c++11
+ 8750  ./a.out
+ 8751  vim 7_deep_copy.cpp
+ 8752  g++ 7_deep_copy.cpp -std=c++11
+ 8753  ./a.out
+ 8754  vim 7_deep_copy.cpp
+ 8755  g++ 7_deep_copy.cpp -std=c++11
+ 8756  ./a.out
+ 8757  ls
+ 8758  写入访问权限冲突
+ 8759  Linguistics
+ 8760  ls
+ 8761  cl
+ 8762  clea
+ 8763  clear
+ 8764  ls
+ 8765  Cpuls
+ 8766  ls
+ 8767  vim 7_deep_copy.cpp
+ 8768  g++ 7_deep_copy.cpp
+ 8769  g++ 7_deep_copy.cpp -std=c++11
+ 8770  clear
+ 8771  ls
+ 8772  ./a.out
+ 8773  vim 7_deep_copy.cpp
+ 8774  g++ 7_deep_copy.cpp -std=c++11
+ 8775  ./a.out
+ 8776  vim 7_deep_copy.cpp
+ 8777  g++ 7_deep_copy.cpp -std=c++11
+ 8778  ./a.out
+ 8779  vim 7_deep_copy.cpp
+ 8780  g++ 7_deep_copy.cpp -std=c++11
+ 8781  ./a.out
+ 8782  clear
+ 8783  ls
+ 8784  vim 7_deep_copy.cpp
+ 8785  g++ 7_deep_copy.cpp -std=c++11
+ 8786  ./a.out
+ 8787  vim 7_deep_copy.cpp
+ 8788  g++ 7_deep_copy.cpp -std=c++11
+ 8789  ./a.out
+ 8790  vim 7_deep_copy.cpp
+ 8791  clear
+ 8792  ls
+ 8793  ../
+ 8794  l..
+ 8795  //
+ 8796  cd
+ 8797  ls
+ 8798  Linguistics
+ 8799  git add .
+ 8800  ls
+ 8801  git commit -m 'copydepth by cpp  and memcpy and conustrut'
+ 8802  git push origin main
+ 8803  clear
+ 8804  ls
+ 8805  ..
+ 8806  ls
+ 8807  clear
+ 8808  ls
+ 8809  cler
+ 8810  ls
+ 8811  clea
+ 8812  r
+ 8813  clea
+ 8814  l
+ 8815  clear
+ 8816  ls
+ 8817  Linguistics
+ 8818  ls
+ 8819  clear
+ 8820  l
+ 8821  Cpuls
+ 8822  ls
+ 8823  clear
+ 8824  ls
+ 8825  ls -all
+ 8826  ls
+ 8827  vim rvo.cpp
+ 8828  g++ rvo.cpp
+ 8829  ./a.out
+ 8830  vim rvo.cpp
+ 8831  g++ rvo.cpp
+ 8832  ./a.out
+ 8833  vim rvo.cpp
+ 8834  ./a.out
+ 8835  g++
+ 8836  g++ rvo.cpp
+ 8837  ./a.out
+ 8838  vim vo.cpp
+ 8839  ls -all
+ 8840  vim vo.cpp
+ 8841  vim rvo.cpp
+ 8842  g++ vo.cpp
+ 8843  g++ rvo.cpp
+ 8844  ./a.out
+ 8845  vim rvo.cpp
+ 8846  ls
+ 8847  ls -all
+ 8848  ls
+ 8849  inguistics
+ 8850  ls
+ 8851  Linguistics
+ 8852  ls
+ 8853  clear
+ 8854  l
+ 8855  Cpuls
+ 8856  ls
+ 8857  clear
+ 8858  ls
+ 8859  vim rvo.cpp
+ 8860  g++ rvo.cpp
+ 8861  ./a.out
+ 8862  vim rvo.cpp
+ 8863  clear
+ 8864  l
+ 8865  s
+ 8866  g++ rvo.cpp
+ 8867  ./a.out
+ 8868  clear
+ 8869  ls
+ 8870  vim _______deep_copy.cpp
+ 8871  vim 7_deep_copy.cpp
+ 8872  vim rvo.cpp
+ 8873  g++ 7_deep_copy.cpp
+ 8874  mv vo.cpp 8_rvo.cpp
+ 8875  mv rvo.cpp 8_rvo.cpp
+ 8876  ls -all
+ 8877  g++ 8_rvo.cpp -fno-elide-constructor
+ 8878  g++ 8_rvo.cpp -fno-elide-constructors
+ 8879  cat 8_rvo.cpp
+ 8880  g++ -fno-elide-constructors 8_rvo.cpp
+ 8881  ./a.out
+ 8882  g++ ________rvo.cpp
+ 8883  g++ 8_rvo.cpp
+ 8884  ./a.out
+ 8885  clear
+ 8886  ls -all
+ 8887  clear
+ 8888  vim 9_default_delete.cpp
+ 8889  vim 10_reload.cpp
+ 8890  g++ 0_reload.cpp
+ 8891  g++ 10_reload.cpp
+ 8892  ./a.out
+ 8893  vim 0_reload.cpp
+ 8894  vim 10_reload.cpp
+ 8895  ls
+ 8896  clear
+ 8897  ls -all
+ 8898  lls
+ 8899  ls
+ 8900  clea
+ 8901  Linguistics
+ 8902  ls
+ 8903  clear
+ 8904  ls
+ 8905  ls -all
+ 8906  Cpuls
+ 8907  ls -all
+ 8908  clear
+ 8909  ls -a;;
+ 8910  ls -all
+ 8911  clear
+ 8912  ls -all
+ 8913  cler
+ 8914  ls
+ 8915  ls  -all
+ 8916  clear
+ 8917  ls -all
+ 8918  ls
+ 8919  Linguistics
+ 8920  ls
+ 8921  Cpuls
+ 8922  ls
+ 8923  ll
+ 8924  vim 11_friend.cpp
+ 8925  ks
+ 8926  clear
+ 8927  ls
+ 8928  ls -all
+ 8929  ks
+ 8930  ls
+ 8931  Linguistics
+ 8932  clear
+ 8933  ls
+ 8934  Cpuls
+ 8935  ls
+ 8936  vim 11_friend.cpp
+ 8937  ls
+ 8938  cle
+ 8939  ls
+ 8940  clear
+ 8941  l
+ 8942  ls
+ 8943  clear
+ 8944  ls
+ 8945  Linguistics
+ 8946  ls
+ 8947  clear
+ 8948  ls
+ 8949  Cpuls
+ 8950  ls
+ 8951  vim 11_friend.cpp
+ 8952  g++ 11_friend.cpp
+ 8953  ./a.out
+ 8954  vim 11_friend.cpp
+ 8955  g++ 11_friend.cpp
+ 8956  ./a.out
+ 8957  vim 11_friend.cpp
+ 8958  cp 11_friend.cpp  12_operater.cpp
+ 8959  ls
+ 8960  vim v
+ 8961  vim 12_operater.cpp
+ 8962  g++ 12_operater.cpp
+ 8963  ./a.out
+ 8964  vim 12_operater.cpp
+ 8965  g++ nt main(){\n    Point p(3, 4), q(5,6);\n    p.output();\n    output(p);\n    //友元:类外的函数是无法访问类中私有成员属性,友元可以\n    cout <<  (q  +  q)  << endl;\n    cout <<  (p + 5) << endl; \n    return 0;
+ 8966  g++ nt main(){\n    Point p(3, 4), q(5,6);\n    p.output();\n    output(p);\n    //友元:类外的函数是无法访问类中私有成员属性,友元可以\n    cout <<  (q  +  q)  << endl;\n    cout <<  (p + 5) << endl; \n    return 0;\nclear\n\\
+ 8967  
+ 8968  clear
+ 8969  lsl
+ 8970  \tls -all
+ 8971  g++ 12_operater.cpp
+ 8972  ./a.out
+ 8973  clear
+ 8974  l
+ 8975  s
+ 8976  clear
+ 8977  ls
+ 8978  Linguistics
+ 8979  s
+ 8980  ls
+ 8981  Linguistics
+ 8982  ls
+ 8983  Linguistics
+ 8984  Cpuls
+ 8985  ls
+ 8986  clear
+ 8987  ls
+ 8988  ls -all
+ 8989  vim 12_operater.cpp
+ 8990  g++ 2_operater.cpp
+ 8991  vim 12_operater.cpp
+ 8992  g++ 2_operater.cpp
+ 8993  g++ 12_operater.cpp
+ 8994  ./a.out
+ 8995  vim 2_operater.cpp
+ 8996  vim 12_operater.cpp
+ 8997  ls -all
+ 8998  ls
+ 8999  clear
+ 9000  ls -all
+ 9001  rm  :W
+ 9002  ls -all
+ 9003  clear
+ 9004  ls
+ 9005  vim 12_operater.cpp
+ 9006  g++ 12_operater.cpp
+ 9007  ./a.out
+ 9008  vim 2_operater.cpp
+ 9009  vim 12_operater.cpp
+ 9010  g++ 12_operater.cpp
+ 9011  ./a.out
+ 9012  vim 2_operater.cpp
+ 9013  vim 12_operater.cpp
+ 9014  g++  12_operater.cpp
+ 9015  ./a.out
+ 9016  vim 12_operater.cpp
+ 9017  g++ 2_operater.cpp
+ 9018  g++ 12_operater.cpp
+ 9019  ./a.out
+ 9020  vim 12_operater.cpp
+ 9021  g++ 2_operater.cpp
+ 9022  g++ 12_operater.cpp
+ 9023  ./a.out
+ 9024  clear
+ 9025  l;s
+ 9026  vim 12_operater.cpp
+ 9027  ls
+ 9028  clear
+ 9029  ls
+ 9030  Linguistics
+ 9031  ls
+ 9032  clear
+ 9033  ls
+ 9034  Cpuls
+ 9035  ls
+ 9036  ls -all
+ 9037  vim 12_operater.cpp
+ 9038  g++ 12_operater.cpp 
+ 9039  g++ 12_operater.cpp  -std=c++11
+ 9040  ./a.out
+ 9041  clear
+ 9042  cl
+ 9043  ls
+ 9044  vim 12_operater.cpp
+ 9045  g++ 2_operater.cpp -std=c++11
+ 9046  g++ 12_operater.cpp -std=c++11
+ 9047  ./a.out
+ 9048  vim 12_operater.cpp
+ 9049  g++ 12_operater.cpp -std=c++11
+ 9050  ./a.out
+ 9051  vim 12_operater.cpp
+ 9052  g++ 12_operater.cpp -std=c++11
+ 9053  clear
+ 9054  cl
+ 9055  ls
+ 9056  vim 12_operater.cpp
+ 9057  g++ 12_operater.cpp -std=c++11
+ 9058  ./a.out
+ 9059  vim 12_operater.cpp
+ 9060  ./a.out
+ 9061  vim 2_operater.cpp
+ 9062  vim 12_operater.cpp
+ 9063  g++ 12_operater.cpp -std=c++11
+ 9064  ./a.out
+ 9065  clear
+ 9066  ls
+ 9067  vim 12_operater.cpp
+ 9068  g++ 12_operater.cpp -std=c++11
+ 9069  clear;
+ 9070  l
+ 9071  vim 12_operater.cpp
+ 9072  g++ 12_operater.cpp  -std=c++11
+ 9073  ls
+ 9074  clear
+ 9075  ./a.out
+ 9076  vim 12_operater.cpp
+ 9077  g++ 12_operater.cpp -std=c++11
+ 9078  ./a.out
+ 9079  vim vim 12_operater.cpp
+ 9080  vim  12_operater.cpp
+ 9081  ./a.out
+ 9082  clear
+ 9083  ls
+ 9084  vim 12_operater.cpp
+ 9085  g++ 2_operater.cpp -std=c++11
+ 9086  g++  12_operater.cpp -std=c++11
+ 9087  ./a.out
+ 9088  gim 12_operater.cpp
+ 9089  vim 12_operater.cpp
+ 9090  g++ 12_operater.cpp
+ 9091  g++ 12_operater.cpp  -std=g++11
+ 9092  g++ 12_operater.cpp  -std=c++11
+ 9093  ./a.out
+ 9094  vim 12_operater.cpp
+ 9095  ls
+ 9096  clear
+ 9097  ls -all
+ 9098  ls
+ 9099  Linguistics
+ 9100  ls
+ 9101  git add . 
+ 9102  git commit -t 'functio obj  and  functional opertor'
+ 9103  git commit -m 'functio obj  and  functional opertor'
+ 9104  git push origin main
+ 9105  ls
+ 9106  Linguistics
+ 9107  ls
+ 9108  ls -all
+ 9109  Cpuls
+ 9110  ;s
+ 9111  ls -all
+ 9112  rm ]
+ 9113  ls
+ 9114  ls  -all
+ 9115  vim 12_operater.cpp
+ 9116  ~~~~~~~\n
+ 9117  ls
+ 9118  :wq
+ 9119  ls -all
+ 9120  Linguistics
+ 9121  ls
+ 9122  Cpuls
+ 9123  ls
+ 9124  vim 12_operater.cpp
+ 9125  sudo yum install ctags
+ 9126  vim 12_operater.cpp
+ 9127  LS
+ 9128  Ls
+ 9129  LS
+ 9130  ls
+ 9131  Linguistics
+ 9132  l
+ 9133  Cpuls
+ 9134  ls
+ 9135  vim 12_operater.cpp
+ 9136  204 <  a.x << a.y <<endl;\n
+ 9137  ctags --help
+ 9138  vim ~/.vimrc
+ 9139  vim 
+ 9140  vim 12_operater.cpp
+ 9141  clear
+ 9142  l;s
+ 9143  clear
+ 9144  ls
+ 9145  ls -all
+ 9146  vim 5_constructor_order.cpp
+ 9147  vim 4_constructor.cpp
+ 9148  vim 6_class_Attr_func.cpp
+ 9149  vim 7_deep_copy.cpp
+ 9150  vim 13_shared_prt.cpp
+ 9151  g++ 13_shared_prt.cpp
+ 9152  ./a.out
+ 9153  vim 13_shared_prt.cpp
+ 9154  g++ 13_shared_prt.cpp -std=c++11
+ 9155  ./a.out
+ 9156  vim 13_shared_prt.cpp
+ 9157  g++ 13_shared_prt.cpp -std=c++11
+ 9158  ./a.out
+ 9159  clear
+ 9160  ls
+ 9161  vim 3_shared_prt.cpp
+ 9162  vim 13_shared_prt.cpp 
+ 9163  g++ 13_shared_prt.cpp -std=c++11
+ 9164  ./a.out
+ 9165  :w
+ 9166  clear
+ 9167  ls
+ 9168  vim 13_shared_prt.cpp
+ 9169  clear
+ 9170  ls
+ 9171  g++ 13_shared_prt.cpp -std=c++11
+ 9172  ./a.out
+ 9173  vim 13_shared_prt.cpp
+ 9174  g++ 13_shared_prt.cpp -std=c++11
+ 9175  ./a.out
+ 9176  vim 13_shared_prt.cpp
+ 9177  g++ 13_shared_prt.cpp -std=c++11
+ 9178  ./a.out
+ 9179  vim 13_shared_prt.cpp
+ 9180  g++ 13_shared_prt.cpp -std=c++11
+ 9181  ./a.out
+ 9182  vim 13_shared_prt.cpp
+ 9183  g++ 13_shared_prt.cpp -std=c++11
+ 9184  ./a.out
+ 9185  vim 13_shared_prt.cpp
+ 9186  g++ 13_shared_prt.cpp -std=c++11
+ 9187  ./a.out
+ 9188  vim 13_shared_prt.cpp
+ 9189  g++ 13_shared_prt.cpp -std=c++11
+ 9190  ./a.out
+ 9191  vim 13_shared_prt.cpp
+ 9192  g++ 13_shared_prt.cpp -std=c++11
+ 9193  ./a.out
+ 9194  vim 13_shared_prt.cpp
+ 9195  clear
+ 9196  ls -all
+ 9197  cat 8_rvo.cpp
+ 9198  clear
+ 9199  ls
+ 9200  ls -all
+ 9201  clear
+ 9202  vim 13_shared_prt.cpp
+ 9203  g++ 13_shared_prt.cpp -std=c++11
+ 9204  ./a.out
+ 9205  vim 13_shared_prt.cpp
+ 9206  g++ 13_shared_prt.cpp -std=c++11
+ 9207  ./a.out
+ 9208  vim 13_shared_prt.cpp 
+ 9209  g++ 13_shared_prt.cpp -std=c++11
+ 9210  ./a.out
+ 9211  clear
+ 9212  ls
+ 9213  ls -all
+ 9214  cat tags
+ 9215  clear
+ 9216  ls
+ 9217  vim 13_shared_prt.cpp 
+ 9218  g++ 13_shared_prt.cpp
+ 9219  g++ 13_shared_prt.cpp -std=c++11
+ 9220  ./a.out
+ 9221  vim 13_shared_prt.cpp
+ 9222  g++ 13_shared_prt.cpp -std=c++11
+ 9223  ./a.out
+ 9224  vim construct 10
+ 9225  vim 13_shared_prt.cpp
+ 9226  g++ 3_shared_prt.cpp
+ 9227  g++ 13_shared_prt.cpp
+ 9228  g++ 13_shared_prt.cpp -std=c++11
+ 9229  ./a.out
+ 9230  clear
+ 9231  l
+ 9232  vim tags
+ 9233  ls -all
+ 9234  clear
+ 9235  l
+ 9236  cat 3_m_cout.cpp
+ 9237  ckear
+ 9238  clear
+ 9239  ls
+ 9240  ls -all
+ 9241  vim 13_shared_prt.cpp
+ 9242  ls
+ 9243  vim 1_namespac_use.cpp
+ 9244  vim 2_class.cpp
+ 9245  vim 13_shared_prt.cpp
+ 9246  clear
+ 9247  ls
+ 9248  Linguistics
+ 9249  ls
+ 9250  Cpuls
+ 9251  ls
+ 9252  vim 12_operater.cpp
+ 9253  kls
+ 9254  l
+ 9255  s
+ 9256  clear
+ 9257  l;s
+ 9258  clear
+ 9259  ls
+ 9260  Linguistics
+ 9261  ls
+ 9262  clear
+ 9263  ls
+ 9264  CpulsCpuls
+ 9265  Cpuls
+ 9266  ls
+ 9267  clear
+ 9268  ls -all
+ 9269  clear
+ 9270  ls -all
+ 9271  vim 13_shared_prt.cpp
+ 9272  ks
+ 9273  ls
+ 9274  LS
+ 9275  ls
+ 9276  Ls
+ 9277  LS
+ 9278  ls
+ 9279  LS
+ 9280  l
+ 9281  clear
+ 9282  ls -all
+ 9283  LinguisticsLinguistics
+ 9284  Linguistics
+ 9285  ls
+ 9286  clear
+ 9287  ls
+ 9288  ls -all
+ 9289  Cpuls
+ 9290  ls
+ 9291  ls -all
+ 9292  vim 13_shared_prt.cpp
+ 9293  ls
+ 9294  vim 13_shared_prt.cpp
+ 9295  cleart
+ 9296  clear
+ 9297  vim 13_shared_prt.cpp
+ 9298  g++ 13_shared_prt.cpp
+ 9299  g++ 13_shared_prt.cpp -std=c++11
+ 9300  ./a.out
+ 9301  vim 13_shared_prt.cpp
+ 9302  g++ 13_shared_prt.cpp -std=c++11
+ 9303  ./a.out
+ 9304  vim 13_shared_prt.cpp -std=c++11
+ 9305  vim 13_shared_prt.cpp 
+ 9306  clear
+ 9307  ls -al
+ 9308  g++ 13_shared_prt.cpp  -std=c++11
+ 9309  ./a.out
+ 9310  clear
+ 9311  ls -all
+ 9312  vim 14.sort.cpp
+ 9313  g++ 14.sort.cpp
+ 9314  ./a.out
+ 9315  vim 14.sort.cpp
+ 9316  g++ 14.sort.cpp
+ 9317  ./a.out
+ 9318  clear
+ 9319  ls
+ 9320  ls -all
+ 9321  mv 14.sort.cpp 14_sort.cpp
+ 9322  ls -all
+ 9323  vim 14_sort.cpp
+ 9324  mv 14.sort.cpp 14_sort.cpp
+ 9325  g++ 14_sort.cpp
+ 9326  ./a.iut
+ 9327  ./a.out
+ 9328  clear
+ 9329  ls -all
+ 9330  clear
+ 9331  ls -all
+ 9332  mv 14.sort.cpp 14_sort.cpp
+ 9333  vim 14_sort.cpp 
+ 9334  g++ 4_sort.cpp
+ 9335  vim sort_text
+ 9336  g++ 14_sort.cpp
+ 9337  ./a.out < sort_text
+ 9338  ./a.out > sort_text
+ 9339  vim 14_sort.cpp
+ 9340  g++ 14_sort.cpp
+ 9341  ./a.out
+ 9342  ./a.out < sort_text
+ 9343  cat sort_text
+ 9344  vim sort_text
+ 9345  g++ 14_sort.cpp
+ 9346  ./a.out < sort_text
+ 9347  ls  -all
+ 9348  Linguistics
+ 9349  lsc
+ 9350  ls
+ 9351  clear
+ 9352  ls
+ 9353  Cpuls
+ 9354  ls
+ 9355  cleart
+ 9356  clear
+ 9357  ls
+ 9358  vim x.cpp
+ 9359  vim 14_sort.cpp
+ 9360  ..
+ 9361  ls
+ 9362  ls -ls
+ 9363  code
+ 9364  ls
+ 9365  ls -all
+ 9366  data-structures
+ 9367  ls
+ 9368  data-structures
+ 9369  Tree
+ 9370  ls
+ 9371  ls -all
+ 9372  vim red_black.cpp
+ 9373  ...
+ 9374  ls
+ 9375  clear
+ 9376  ls -all 
+ 9377  ..
+ 9378  clear
+ 9379  ls -all
+ 9380  code
+ 9381  ls
+ 9382  ..
+ 9383  ls
+ 9384  Cpuls
+ 9385  ls -all
+ 9386  vim 14_sort.cpp
+ 9387  g++ 14_sort.cpp -std=c++11
+ 9388  ./a.out
+ 9389  ./a.out < sort_text
+ 9390  vim 14_sort.cpp
+ 9391  cat sort_text
+ 9392  vim sort_text
+ 9393  g++ sort_text
+ 9394  g++ 14_sort.cpp
+ 9395  ./a.out
+ 9396  ./a.out < sort_text
+ 9397  vim  14_sort.cpp
+ 9398  g++ 14_sort.cpp
+ 9399  ./a.out
+ 9400  ./a.out <  sort_text
+ 9401  clear
+ 9402  ls -all
+ 9403  vim 14_sort.cpp
+ 9404  g++ 14_sort.cpp
+ 9405  g++ 14_sort.cpp  -std=c++11
+ 9406  clear
+ 9407  vim 14_sort.cpp
+ 9408  cleare
+ 9409  clear
+ 9410  ls
+ 9411  g++ 14_sort.cpp
+ 9412  vim 14_sort.cpp
+ 9413  g++ 14_sort.cpp  -std=c++11
+ 9414  clear
+ 9415  g++ 14_sort.cpp  -std=c++11
+ 9416  vim 14_sort.cpp
+ 9417  g++ 14_sort.cpp  -std=c++11
+ 9418  vim 14_sort.cpp
+ 9419  g++ 14_sort.cpp  -std=c++11
+ 9420  ./a.out
+ 9421  clar
+ 9422  clear
+ 9423  ls -all
+ 9424  ./a.out < sort_text
+ 9425  vim 14_sort.cpp
+ 9426  vim sort_text
+ 9427  g++ 14_sort.cpp  -std=c++11
+ 9428  ./a.out < sort_text
+ 9429  vim sort_text
+ 9430  vim 14_sort.cpp
+ 9431  g++ 14_sort.cpp  -std=c++11
+ 9432  ./a.out
+ 9433  ./a.out < sort_text
+ 9434  vim 14_sort.cpp
+ 9435  g++ 14_sort.cpp  -std=c++11
+ 9436  ./a.out < sort_text
+ 9437  vim 14_sort.cpp
+ 9438  g++ 14_sort.cpp  -std=c++11
+ 9439  ./a.out < sort_text
+ 9440  vim 14_sort.cpp
+ 9441  g++ 14_sort.cpp  -std=c++11
+ 9442  ./a.out < sort_text
+ 9443  vim 14_sort.cpp
+ 9444  g++ 14_sort.cpp  -std=c++11
+ 9445  ./a.out < sort_text
+ 9446  vim 14_sort.cpp
+ 9447  g++ 14_sort.cpp  -std=c++11
+ 9448  ./a.out < sort_text
+ 9449  vim 14_sort.cpp
+ 9450  clear
+ 9451  cl
+ 9452  ls -all
+ 9453  ls
+ 9454  00~Linguistics01~
+ 9455  Linguistice
+ 9456  Linguistics
+ 9457  clear
+ 9458  ls -all
+ 9459  00~Cpuls01~
+ 9460  Cpuls
+ 9461  ls -all
+ 9462  vim 00~14_sort.cpp01~
+ 9463  ls 
+ 9464  vim 14_sort.cpp
+ 9465  g++ 14_sort.cpp
+ 9466  g++ 14_sort.cpp -std=c++11
+ 9467  ./a.out
+ 9468  ./a.out < sort_text
+ 9469  clear
+ 9470  ls -all
+ 9471  vim 14_sort.cpp
+ 9472  ./a.out < sort_text
+ 9473  cat sort_text
+ 9474  5
+ 9475  clear
+ 9476  ls -all
+ 9477  vim 14_sort.cpp
+ 9478  cat sort_text
+ 9479  vim 14_sort.cpp
+ 9480  ls
+ 9481  clear
+ 9482  ls -all
+ 9483  vim 14_sort.cpp
+ 9484  g++ 14_sort.cpp -std=c++111
+ 9485  g++ 14_sort.cpp -std=c++11
+ 9486  ./a.out < sort_text
+ 9487  vim 14_sort.cpp
+ 9488  g++ 14_sort.cpp -std=c++11
+ 9489  ./a.out < sort_text
+ 9490  vim 14_sort.cpp
+ 9491  clear
+ 9492  ls -all
+ 9493  Linguistics
+ 9494  ls
+ 9495  Cpuls
+ 9496  ls
+ 9497  vim 14_sort.cpp
+ 9498  cat sort_text 
+ 9499  ls
+ 9500  Linguistics
+ 9501  ls
+ 9502  Cpuls
+ 9503  ls
+ 9504  cat sort_text
+ 9505  ls -all
+ 9506  Linguistics
+ 9507  clear
+ 9508  ls
+ 9509  Cpuls
+ 9510  lsa
+ 9511  cat 14_sort.cpp
+ 9512  ls
+ 9513  ls -all
+ 9514  clear
+ 9515  ls -all
+ 9516  Linguistics
+ 9517  ls
+ 9518  clear
+ 9519  ls 
+ 9520  Cpuls
+ 9521  ls
+ 9522  clsort_text
+ 9523  cat sort_text
+ 9524  clear
+ 9525  ls -all
+ 9526  vim 14_sort.cpp
+ 9527  ls
+ 9528  vim 14_sort.cpp
+ 9529  cat sort_text
+ 9530  vim 14_sort.cpp
+ 9531  g++ 14_sort.cpp -std=c++11
+ 9532  ./a.out < sort_text
+ 9533  clear
+ 9534  s
+ 9535  clear
+ 9536  ls
+ 9537  clear
+ 9538  ls
+ 9539  vim 14_sort.cpp
+ 9540  ls
+ 9541  ..
+ 9542  ls
+ 9543  history
+ 9544  history > outhistory
+ 9545  ls -all
+ 9546  clear
+ 9547  ls
+ 9548  clear
+ 9549  git add.
+ 9550  git commit -m 'encapsulation'
+ 9551  git commit -t 'encapsulation'
+ 9552  git add.
+ 9553  git commit -t 'encapsulation'
+ 9554  git commit -m 'encapsulation'
+ 9555  git push origin main
+ 9556  clear
+ 9557  ls
+ 9558  ..
+ 9559  LS
+ 9560  Linguistics
+ 9561  LS
+ 9562  ls
+ 9563  cat 14_sort.cpp
+ 9564  clear
+ 9565  ls
+ 9566  ..
+ 9567  ls -all
+ 9568  ..
+ 9569  ls
+ 9570  Linguistics
+ 9571  ls
+ 9572  git add .
+ 9573  git commint -m 'encapsulation'
+ 9574  git push  origin  main
+ 9575  clear
+ 9576  ll
+ 9577  git add .
+ 9578  ls
+ 9579  git add -all
+ 9580  git add --all
+ 9581  git commint -m 'encapsulation'
+ 9582  git commit -m 'encapsulation'
+ 9583  git push origin main
+ 9584  clear
+ 9585  ls -all
+ 9586  Cpuls
+ 9587  ls -all
+ 9588  Material
+ 9589  ls
+ 9590  clear
+ 9591  ls
+ 9592  Material
+ 9593  ls
+ 9594  Linguistics
+ 9595  ls
+ 9596  ls -all
+ 9597  Cpuls
+ 9598  ls
+ 9599  ls -all
+ 9600  mv 10_reload.cpp
+ 9601  mv 10_reload.cpp encapsulation
+ 9602  mv 11_friend.cpp encapsulation
+ 9603  mv 12_operater.cpp encapsulation
+ 9604  mv 13_shared_prt.cpp encapsulation
+ 9605  mv 14_sort.cpp encapsulation
+ 9606  ls -alll
+ 9607  vim 7_deep_copy.cpp 
+ 9608  ls
+ 9609  rm outhistory 
+ 9610  ls -all
+ 9611  CV
+ 9612  outhistory
+ 9613  Cpuls
+ 9614  ls
+ 9615  ls -all
+ 9616  mkdir started
+ 9617  ls -al;l
+ 9618  mv 1_namespac_use.cpp 2_class.cpp 3_referene.cpp 4_constructor.cpp 5_constructor_order.cpp 6_class_Attr_func.cpp 7_deep_copy.cpp 8_rvo.cpp 9_default_delete.cpp started
+ 9619  ls
+ 9620  mv sort_text started
+ 9621  ls
+ 9622  mv 3_m_cout.cpp 
+ 9623  mv 3_m_cout.cpp  started
+ 9624  ls
+ 9625  cat started
+ 9626  cat me.cpp
+ 9627  mv me.cpp started
+ 9628  clear
+ 9629  ls -all
+ 9630  history
+ 9631  cat history  grep "git add" 
+ 9632  ls -all
+ 9633  Linguistics
+ 9634  ls
+ 9635  clear
+ 9636  ls -all
+ 9637  Cpuls 
+ 9638  ls
+ 9639  git  add all
+ 9640  git  add -all
+ 9641  clear
+ 9642  ls -all
+ 9643  Linguistics
+ 9644  clear
+ 9645  ls -all
+ 9646  ls
+ 9647  Cpuls
+ 9648  history
