@@ -8,7 +8,7 @@
 #include<algorithm>
 #include <memory>
 using namespace std;
-// 模板库的 <memory> 头文件中定义的智
+// 模板库的 <memory> 头文件中定义的智能 指针
 
 #define BEGINS(x) namespace x {
 #define  ENDS(x) }   // end of namespace x 
@@ -27,7 +27,7 @@ BEGINS(test1)
     private:
     };
 int main(){
-    //将A类的对象,存在p指针中
+   //将A类的对象,存在p指针中
     //A *p =new A();
 
     // 指向A类型的智能指针|对象调用A对象的构造函数，申请一个A对象  
@@ -42,8 +42,6 @@ int main(){
     cout << "q  use_count " << q.use_count()  << endl;
     cout <<"end main " <<endl;
     //如果不想发生内存泄露，原生指针，就必须delete 
-
-
 
     cout << " --------------------------------------"  <<endl;
     //环形引用

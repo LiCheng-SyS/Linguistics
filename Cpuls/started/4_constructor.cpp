@@ -48,10 +48,10 @@ private :
 };
 int main(){
     // Data dt;
-    // A s(45);
-    A a = 45;
+     A s(45);
+     A a = 45;
     cout << "addressof a :" <<  &a <<endl;
-    a  =  78 ;
+   // a  =  78 ;
     //cout <<dt.x() << dt.y() <<endl;
     return 0;
 }

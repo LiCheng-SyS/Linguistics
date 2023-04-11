@@ -31,6 +31,7 @@ public :
     bool operator()(const int &a, const int &b){
         return a  >  b;
     }
+private:
 };
 int main(){
     int arr[100], n ; 
