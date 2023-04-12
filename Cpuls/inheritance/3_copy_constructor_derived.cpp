@@ -15,7 +15,7 @@ using namespace std;
 
 BEGIN(test1)
 
-    class ATTR_Base
+class ATTR_Base
 {
 public:
     ATTR_Base(string name) : name(name)
